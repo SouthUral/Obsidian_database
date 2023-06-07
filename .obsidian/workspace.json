@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "7b96444702049ab3",
+    "type": "split",
+    "children": [
+      {
+        "id": "22dc1dbfd963101c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b2074d4366cb2d6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d39eabd60438e1bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4905076ba150d7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f72eb5c3ea6adf3c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e388845b39213f00",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "60b456585bc0ff70",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "2b80f09b8d72b6b6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2cbb7cbbc64b7a60",
+    "type": "split",
+    "children": [
+      {
+        "id": "67431a33649019ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df56b7ffdda61822",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "94b2a5fedd375dd3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "743b0e8112366dda",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "91382dc48c66eba7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "91382dc48c66eba7",
+  "lastOpenFiles": [
+    "Итерация.md",
+    "Итерируемый объект.md",
+    "Создать новую ветку в Git.md",
+    "Git push новой ветки.md",
+    "Git.md",
+    "Итератор.md",
+    "Python.md",
+    "Библиотеки Python.md",
+    "Прибавление дня к дате.md",
+    "Datetime.md",
+    "Маркдаун.md",
+    "Untitled.md"
+  ]
+}
