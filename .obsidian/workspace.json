@@ -11,24 +11,15 @@
             "id": "f2e6cb41b7b928c4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "a695f516b8f8c007",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Работа с Rabbit MQ через Python (синхронная).md",
+                "file": "Итератор.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "PostgreSQL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -102,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Работа с Rabbit MQ через Python (синхронная).md",
+                "file": "Итератор.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Работа с Rabbit MQ через Python (синхронная).md",
+                "file": "Итератор.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Работа с Rabbit MQ через Python (синхронная).md"
+                "file": "Итератор.md"
               }
             }
           }
@@ -163,12 +155,16 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "a695f516b8f8c007",
+  "active": "f2e6cb41b7b928c4",
   "lastOpenFiles": [
+    "Python.md",
+    "Как задавать значения по умолчанию для таблицы Postgres.md",
+    "Как создавать таблицы в Postgres.md",
+    "PostgreSQL.md",
+    "Работа с Rabbit MQ через Python (синхронная).md",
     "Rabbit MQ.md",
     "Git.md",
     "Изменение предыдущего коммита.md",
-    "Работа с Rabbit MQ через Python (синхронная).md",
     "Без названия 3.canvas",
     "Без названия 2.canvas",
     "Без названия 1.canvas",
@@ -178,7 +174,6 @@
     "Создать новую ветку в Git.md",
     "Git push новой ветки.md",
     "Итератор.md",
-    "Python.md",
     "Библиотеки Python.md",
     "Прибавление дня к дате.md",
     "Datetime.md",
