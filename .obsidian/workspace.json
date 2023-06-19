@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Итератор.md",
+                "file": "Работа с Rabbit MQ через Python (синхронная).md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Итератор.md",
+                "file": "Работа с Rabbit MQ через Python (синхронная).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Итератор.md",
+                "file": "Работа с Rabbit MQ через Python (синхронная).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,12 +134,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Итератор.md"
+                "file": "Работа с Rabbit MQ через Python (синхронная).md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -157,6 +157,9 @@
   },
   "active": "f2e6cb41b7b928c4",
   "lastOpenFiles": [
+    "2023-06-14.md",
+    "Без названия.canvas",
+    "Итератор.md",
     "Python.md",
     "Как задавать значения по умолчанию для таблицы Postgres.md",
     "Как создавать таблицы в Postgres.md",
@@ -168,12 +171,10 @@
     "Без названия 3.canvas",
     "Без названия 2.canvas",
     "Без названия 1.canvas",
-    "Без названия.canvas",
     "Итерация.md",
     "Итерируемый объект.md",
     "Создать новую ветку в Git.md",
     "Git push новой ветки.md",
-    "Итератор.md",
     "Библиотеки Python.md",
     "Прибавление дня к дате.md",
     "Datetime.md",
