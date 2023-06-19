@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "c428c82c81c8ee42",
+        "id": "f3d26d910571ec87",
         "type": "tabs",
         "children": [
           {
-            "id": "3a3b09fb743d68f5",
+            "id": "9bd8be5d4588e6f4",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -147,10 +147,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "3a3b09fb743d68f5",
+  "active": "9bd8be5d4588e6f4",
   "lastOpenFiles": [
     "type hinting python.md",
     "Маркдаун.md",
+    "Работа с Rabbit MQ через Python (синхронная).md",
     "Python.md",
     "Создание функций в PostgreSQL.md",
     "Базовый синтаксис Golang.md",
@@ -165,7 +166,6 @@
     "Как задавать значения по умолчанию для таблицы Postgres.md",
     "2023-06-14.md",
     "Untitled.md",
-    "Работа с Rabbit MQ через Python (синхронная).md",
     "Без названия.canvas",
     "Итератор.md",
     "Rabbit MQ.md",
