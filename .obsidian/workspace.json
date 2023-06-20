@@ -11,11 +11,36 @@
             "id": "9bd8be5d4588e6f4",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Создание функций в PostgreSQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8437571890247332",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Маркдаун.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6096f1f7e5485966",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,8 +94,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,13 +171,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "9bd8be5d4588e6f4",
+  "active": "6096f1f7e5485966",
   "lastOpenFiles": [
-    "type hinting python.md",
+    "Назначение владельца на функцию или таблицу PostgreSQL.md",
+    "Как предоставить пользователю PostgreSQL права для использования функции или процедуры.md",
+    "Создание функций в PostgreSQL.md",
+    "Создание процедур в PostgreSQL.md",
     "Маркдаун.md",
+    "Библиотеки Python.md",
+    "type hinting python.md",
     "Работа с Rabbit MQ через Python (синхронная).md",
     "Python.md",
-    "Создание функций в PostgreSQL.md",
     "Базовый синтаксис Golang.md",
     "Стандартная библиотека Golang.md",
     "Консольные команды для Golang.md",
@@ -174,10 +202,6 @@
     "Без названия 3.canvas",
     "Без названия 2.canvas",
     "Без названия 1.canvas",
-    "Итерация.md",
-    "Итерируемый объект.md",
-    "Создать новую ветку в Git.md",
-    "Git push новой ветки.md",
-    "Библиотеки Python.md"
+    "Итерация.md"
   ]
 }
