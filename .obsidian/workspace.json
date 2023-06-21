@@ -11,36 +11,11 @@
             "id": "9bd8be5d4588e6f4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Создание функций в PostgreSQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8437571890247332",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Маркдаун.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6096f1f7e5485966",
-            "type": "leaf",
-            "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,15 +146,16 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "6096f1f7e5485966",
+  "active": "9bd8be5d4588e6f4",
   "lastOpenFiles": [
+    "Создание функций в PostgreSQL.md",
+    "Маркдаун.md",
+    "Pydantic.md",
+    "type hinting python.md",
     "Назначение владельца на функцию или таблицу PostgreSQL.md",
     "Как предоставить пользователю PostgreSQL права для использования функции или процедуры.md",
-    "Создание функций в PostgreSQL.md",
     "Создание процедур в PostgreSQL.md",
-    "Маркдаун.md",
     "Библиотеки Python.md",
-    "type hinting python.md",
     "Работа с Rabbit MQ через Python (синхронная).md",
     "Python.md",
     "Базовый синтаксис Golang.md",
@@ -201,7 +177,6 @@
     "Изменение предыдущего коммита.md",
     "Без названия 3.canvas",
     "Без названия 2.canvas",
-    "Без названия 1.canvas",
-    "Итерация.md"
+    "Без названия 1.canvas"
   ]
 }
