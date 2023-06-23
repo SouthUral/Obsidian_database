@@ -8,27 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0a516bb08226dcd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Базовый синтаксис Golang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ef85544b584a544e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Маркдаун.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -105,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Базовый синтаксис Golang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Базовый синтаксис Golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Базовый синтаксис Golang.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -166,11 +146,19 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "0a516bb08226dcd6",
+  "active": "ef85544b584a544e",
   "lastOpenFiles": [
-    "Маркдаун.md",
-    "Базовый синтаксис Golang.md",
+    "Функциональное тестирование.md",
+    "Тестирование.md",
+    "Общая теория по IT.md",
+    "Git.md",
+    "Технологии.md",
     "Golang.md",
+    "Маркдаун.md",
+    "Python.md",
+    "Языки программирования.md",
+    "Программирование.md",
+    "Базовый синтаксис Golang.md",
     "psycopg2.md",
     "Базовый синтаксис Python.md",
     "Работа с PostgreSQL через Python.md",
@@ -183,17 +171,9 @@
     "Создание процедур в PostgreSQL.md",
     "Библиотеки Python.md",
     "Работа с Rabbit MQ через Python (синхронная).md",
-    "Python.md",
     "Стандартная библиотека Golang.md",
     "Консольные команды для Golang.md",
     "INSERT, который возвращает значение.md",
-    "Как создавать таблицы в Postgres.md",
-    "Запросы в PostgreSQL.md",
-    "Запрос на обновление записи в PostgreSQL.md",
-    "PostgreSQL.md",
-    "Как задавать значения по умолчанию для таблицы Postgres.md",
-    "2023-06-14.md",
-    "Untitled.md",
     "Без названия.canvas",
     "Без названия 3.canvas",
     "Без названия 2.canvas",
