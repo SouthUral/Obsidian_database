@@ -7,7 +7,9 @@
 - [[Базовый синтаксис Golang#Числа и операции над ними|Числа и операции над ними]]
 	- [[Базовый синтаксис Golang#Арифметические операции|Арифметические операции]]
 - [[Базовый синтаксис Golang#Логические типы|Логические типы]]
-- 
+- [[Базовый синтаксис Golang#Строки|Строки]]
+- [[Базовый синтаксис Golang#Условные конструкции|Условные конструкции]]
+- [[Базовый синтаксис Golang#Switch|Switch]]
 
 
 ## Переменные
@@ -249,39 +251,47 @@ x := uint(-5) // constant -5 overflows uint
 - ! (не)
 
 Объявление переменных происходит через ключевое слово bool:
+```go
 
-    var b bool = true
-    bs := false
+var b bool = true
+bs := false
+```
 
-Из-за строгой типизации в Go можно сравнивать только одинаковые типы данных:
 
-    true == false // false
-
-    false == false // true
-
-Т.е. нельзя сравнить пустую строку с false
+>[!info] Из-за строгой типизации в Go можно сравнивать только одинаковые типы данных:
+>```go
+>
+>true == false // false
+>false == false // true
+>```
+>Т.е. нельзя сравнить пустую строку с false
 Пример проверки строки на пустую:
-    
-    flag := true
-    text := "hello"
-
-    flag && text != "" // true
+>```go
+flag := true
+text := "hello"
+>flag && text != "" // true
 
 ## Строки 
 
 Строки в Go объявляются с типом string:
 
-    var s string = "text"
-    s := "text"
+```go
 
-Практически всегда используются двойные кавычки. Однако они не подходят когда нужно написать несклько строк
+var s string = "text"
+s := "text"
+```
+
+Практически всегда используются двойные кавычки. Однако они не подходят когда нужно написать несколько строк.
 Для этого используют обратные кавычки:
-    q := `
-    SELECT *
-    FROM person
-    WHERE age > 18
-    `
+```go
 
+q := `
+	SELECT *
+	FROM person
+	WHERE age > 18
+`
+```
+ 
 Строки можно сравнивать операторами:
 
 - == 
@@ -290,87 +300,101 @@ x := uint(-5) // constant -5 overflows uint
 - <=
 - >=
 
-Базовые операции со строками это конкатенация и интерполяция. 
+Базовые операции со строками это ==конкатенация== и ==интерполяция==:
+```go
 
-    "hello " + "world" // "hello world"
+"hello " + "world" // "hello world"
+```
 
-В Go нет привычной интерполяции, как в динамических языках. Она реализуется через форматирующую функцию fmt.Sprintf():
+В Go нет привычной интерполяции, как в динамических языках. Она реализуется через форматирующую функцию ==fmt.Sprintf()==:
 
-    username := "Ivan"
+```go
 
-    greetings := fmt.Sprintf("hello, %s", username) // "hello, Ivan"
+username := "Ivan"
+greetings := fmt.Sprintf("hello, %s", username) // "hello, Ivan"
+```
 
-Узнать длину строки можно с помощью встроенной функции len():
+Узнать длину строки можно с помощью встроенной функции ==len()==:
 
-    len("go") // 2
+```go
+len("go") // 2
+```
 
-    // будьте внимательны! Функция считает кол-во байт, а не кол-во символов
-    len("го") // 4
+>[!info] Будьте внимательны!
+> Функция len() считает кол-во байт, а не кол-во символов
+ >   ```go
+ >   len("го") // 4
+ >   ```
 
 ## Условные конструкции
 
 Условия в Go представлены обычным блоком if else. В условии должно быть строго выражение логического типа.
 Пример:
+```go
 
-    package main
+package main
 
-    import (
-        "fmt"
-        "strings"
-    )
+import (
+	"fmt"
+	"strings"
+)
 
-    func statusByName(name string) string {
-        // функция проверяет, что строка name начинается с подстроки "Mr."
-        if strings.HasPrefix(name, "Mr.") {
-            return "married man"
-        } else if strings.HasPrefix(name, "Mrs.") {
-            return "married woman"
-        } else {
-            return "single person"
-        }
-    }
+func statusByName(name string) string {
+	// функция проверяет, что строка name начинается с подстроки "Mr."
+	if strings.HasPrefix(name, "Mr.") {
+		return "married man"
+	} else if strings.HasPrefix(name, "Mrs.") {
+		return "married woman"
+	} else {
+		return "single person"
+	}
+}
 
-    func main() {
-        n := "Mr. Doe"
-        fmt.Println(n + " is a " + statusByName(n)) // Mr. Doe is a married man
+func main() {
+	n := "Mr. Doe"
+	fmt.Println(n + " is a " + statusByName(n)) // Mr. Doe is a married man
 
-        n = "Mrs. Berry"
-        fmt.Println(n + " is a " + statusByName(n)) // Mrs. Berry is a married woman
+	n = "Mrs. Berry"
+	fmt.Println(n + " is a " + statusByName(n)) // Mrs. Berry is a married woman
 
-        n = "Karl"
-        fmt.Println(n + " is a " + statusByName(n)) // Karl is a single person
-    }
-
+	n = "Karl"
+	fmt.Println(n + " is a " + statusByName(n)) // Karl is a single person
+}
+```
 
 ## Switch
 В Go есть альтернатива if - конструкция switch. Когда срабатывает условие какого-либо case, программа
 выполняет блок и выходит из конструкции switch без необходимости писать break:
+```go
 
-    x := 10
+x := 10
 
-    switch x {
-        default: // default всегда выполняется последним независимо от расположения и конструкции
-            fmt.Println("default case")
-        case 10:
-            fmt.Println("case 10")
-    }
+switch x {
+	default: // default всегда выполняется последним независимо от расположения и конструкции
+		fmt.Println("default case")
+	case 10:
+		fmt.Println("case 10")
+}
+```
 
-Однако при необходимости можно реализовать логику С-подобных языков и провалиься в следующий case:
+Однако при необходимости можно реализовать логику С-подобных языков и провалится в следующий case:
 
-    switch { // выражение отсутствует. Для компилятора выглядит как: switch true
-        default:
-            fmt.Println("default case")
-        case x == 10:
-            fmt.Println("equal 10 case")
-            fallthrough // игнорирует условние и сразу выполняет тело
-        case x <= 10:
-            fmt.Println("less or equal 10 case")
-    }
-
-    Output:
-
-    equal 10 case
-    less or equal 10 case
+```go
+switch { // выражение отсутствует. Для компилятора выглядит как: switch true
+	default:
+		fmt.Println("default case")
+	case x == 10:
+		fmt.Println("equal 10 case")
+		fallthrough // игнорирует условние и сразу выполняет тело
+	case x <= 10:
+		fmt.Println("less or equal 10 case")
+}
+```
+Output:
+```go
+equal 10 case
+less or equal 10 case
+```
 
 Еще один пример Case:
 
@@ -381,34 +405,38 @@ fr → French
 ru или rus → Russian
 иначе → Unknown
 
-    package main
+```go
 
-    import (
-        "fmt"
-    )
+package main
 
-    func main() {
-        var code string
-        fmt.Scan(&code)
+import (
+	"fmt"
+)
 
-        // определите полное название языка по его коду
-        // и запишите его в переменную `lang`
-        // ...
-        var lang string
-    
-        switch code {
-        case "en":
-            lang = "English"
-        case "fr":
-            lang = "French"
-        case "ru", "rus":
-            lang = "Russian"
-        default:
-            lang = "Unknown"
-        }
-        
-        fmt.Println(lang)
-    }
+func main() {
+	var code string
+	fmt.Scan(&code)
+
+	// определите полное название языка по его коду
+	// и запишите его в переменную `lang`
+	// ...
+	var lang string
+
+	switch code {
+	case "en":
+		lang = "English"
+	case "fr":
+		lang = "French"
+	case "ru", "rus":
+		lang = "Russian"
+	default:
+		lang = "Unknown"
+	}
+	
+	fmt.Println(lang)
+}
+```
+
 
 
 ## Структуры
