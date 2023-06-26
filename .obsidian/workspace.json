@@ -11,12 +11,8 @@
             "id": "ef85544b584a544e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Базовый синтаксис Golang.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -105,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Базовый синтаксис Golang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Базовый синтаксис Golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Базовый синтаксис Golang.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -168,8 +160,8 @@
   },
   "active": "ef85544b584a544e",
   "lastOpenFiles": [
-    "Маркдаун.md",
     "Базовый синтаксис Golang.md",
+    "Маркдаун.md",
     "roadmap для golang разработчика junior level.md",
     "Golang.md",
     "Функциональное тестирование.md",
