@@ -4,23 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "08b779cec6355cd7",
+        "id": "71257a3920c376df",
         "type": "tabs",
         "children": [
           {
-            "id": "ef85544b584a544e",
+            "id": "07a9703c55572bbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sleep в асинхронном Python.md",
+                "file": "ООП в Python.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a30e48a08331d4dd",
+            "id": "6568c0d2452ae59e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Модуль \"net-http\" Golang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ae82ecc31c083ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,8 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "72c3b478b351b360",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Базовый синтаксис Golang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -60,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "defer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +110,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,9 +131,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sleep в асинхронном Python.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Базовый синтаксис Golang.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -122,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sleep в асинхронном Python.md",
+                "file": "Базовый синтаксис Golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,12 +171,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sleep в асинхронном Python.md"
+                "file": "Базовый синтаксис Golang.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -166,14 +192,21 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "ef85544b584a544e",
+  "active": "e388845b39213f00",
   "lastOpenFiles": [
-    "асинхронный Python.md",
-    "sleep в асинхронном Python.md",
+    "Модуль \"net-http\" Golang.md",
+    "Модуль net",
     "Базовый синтаксис Golang.md",
     "Маркдаун.md",
-    "roadmap для golang разработчика junior level.md",
+    "Архитектура REST.md",
+    "Класс для хранения констант Enum.md",
     "Golang.md",
+    "ООП в Python.md",
+    "Полезные фишки с ООП Python.md",
+    "Работа с PostgreSQL через Python.md",
+    "sleep в асинхронном Python.md",
+    "асинхронный Python.md",
+    "roadmap для golang разработчика junior level.md",
     "Функциональное тестирование.md",
     "Тестирование.md",
     "Общая теория по IT.md",
@@ -184,16 +217,10 @@
     "Программирование.md",
     "psycopg2.md",
     "Базовый синтаксис Python.md",
-    "Работа с PostgreSQL через Python.md",
     "Datetime.md",
     "Создание функций в PostgreSQL.md",
     "Pydantic.md",
     "type hinting python.md",
-    "Назначение владельца на функцию или таблицу PostgreSQL.md",
-    "Как предоставить пользователю PostgreSQL права для использования функции или процедуры.md",
-    "Создание процедур в PostgreSQL.md",
-    "Библиотеки Python.md",
-    "Работа с Rabbit MQ через Python (синхронная).md",
     "Без названия.canvas",
     "Без названия 3.canvas",
     "Без названия 2.canvas",

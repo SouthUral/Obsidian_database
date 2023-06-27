@@ -10,6 +10,9 @@
 - [[Базовый синтаксис Golang#Строки|Строки]]
 - [[Базовый синтаксис Golang#Условные конструкции|Условные конструкции]]
 - [[Базовый синтаксис Golang#Switch|Switch]]
+- [[Базовый синтаксис Golang#Структуры|Структуры]]
+	- [[Базовый синтаксис Golang#Композиция|Композиция]]
+	- [[Базовый синтаксис Golang#Встраивание|Встраивание]]
 
 
 ## Переменные
@@ -443,121 +446,138 @@ func main() {
 
 В Go нет классов и привычной реализации ООП. Вместо классов в языке используются структуры -
 наборы полей, имеющих название и тип данных. Объявление структуры:
+```Go
+type Person struct {
+	// [название поля] [тип данных]
+	Name string
+	Age int
+}
 
-    type Person struct {
-        // [название поля] [тип данных]
-        Name string
-        Age int
-    }
+func main() {
+	p := Person{Name: "John", Age: 25}
 
-    func main() {
-        p := Person{Name: "John", Age: 25}
-
-        p.Name // "John"
-        p.Age // 25
-    }
+	p.Name // "John"
+	p.Age // 25
+}
+```
 
 Структуру можно инициализировать не передавая значения. В этом случае каждое поле примет свое нулевое значение
 
 Регистр первой буквы в названии структуры и полей означает публичность, точно так же, как в переменных и функциях. Если первая буква заглавная,
 то структуру можно инициализировать во внешних пакетах. Иначе она доступна только в пределах текущего пакета.
 
-    type Person struct { // структура публична
+```Go
+type Person struct { // структура публична
     Name string // поле публично
-
     wallet wallet // поле приватно: можно обращаться только внутри текущего пакета
     }
 
-    type wallet struct { // структура приватна: можно инициализировать только внутри текущего пакета
+type wallet struct { // структура приватна: можно инициализировать только внутри текущего пакета
     id string
     moneyAmount float64
     }
+```
+
 
 У любого поля структуры можно указать теги. Они используются для метаинформации о поле для сериализации,  
 валидации, маппинга данных из БД и т.д. Тег указывается после типа данных через бектики:
-    
-    type User struct {
-        ID int64 `json:"id" validate:"required"`
-        Email string `json:"email" validate:"required,email"`
-        FirstName string `json:"first_name" validate:"required"`
-    }
+
+```go
+
+type User struct {
+	ID int64 `json:"id" validate:"required"`
+	Email string `json:"email" validate:"required,email"`
+	FirstName string `json:"first_name" validate:"required"`
+}
+```
+
 
 Тег json используется для названий полей при сериализации/десериализации структуры в json и обратно:
+```go
 
-    package main
+package main
 
-    import (
-        "encoding/json"
-        "fmt"
-    )
+import (
+	"encoding/json"
+	"fmt"
+)
 
-    type User struct {
-        ID        int64  `json:"id"`
-        Email     string `json:"email"`
-        FirstName string `json:"first_name"`
-    }
+type User struct {
+	ID        int64  `json:"id"`
+	Email     string `json:"email"`
+	FirstName string `json:"first_name"`
+}
 
-    func main() {
-        u := User{}
-        u.ID = 22
-        u.Email = "test@test.com"
-        u.FirstName = "John"
+func main() {
+	u := User{}
+	u.ID = 22
+	u.Email = "test@test.com"
+	u.FirstName = "John"
 
-        bs, _ := json.Marshal(u)
+	bs, _ := json.Marshal(u)
 
-        fmt.Println(string(bs)) // {"id":22,"email":"test@test.com","first_name":"John"}
-    }
+	fmt.Println(string(bs)) // {"id":22,"email":"test@test.com","first_name":"John"}
+}
+```
 
 Тег validate используется Go-валидатором. Пример вызова функции структур:
 
-    package main
+```go
 
-    import (
-        "fmt"
-        "github.com/go-playground/validator/v10"
-    )
+package main
 
-    type User struct {
-        ID        int64  `validate:"required"`
-        Email     string `validate:"required,email"`
-        FirstName string `validate:"required"`
-    }
+import (
+	"fmt"
+	"github.com/go-playground/validator/v10"
+)
 
-    func main() {
-        // создали пустую структуру, чтобы проверить валидацию
-        u := User{}
+type User struct {
+	ID        int64  `validate:"required"`
+	Email     string `validate:"required,email"`
+	FirstName string `validate:"required"`
+}
 
-        // создаем валидатор
-        v := validator.New()
+func main() {
+	// создали пустую структуру, чтобы проверить валидацию
+	u := User{}
 
-        // метод Struct валидирует переданную структуру и возвращает ошибку `error`, если какое-то поле некорректно
-        fmt.Println(v.Struct(u))
-    }
+	// создаем валидатор
+	v := validator.New()
+
+	// метод Struct валидирует переданную структуру и возвращает ошибку `error`, если какое-то поле некорректно
+	fmt.Println(v.Struct(u))
+}
+```
+
 
 ### Композиция
 
 В Go нет наследования. Вместо него активно используется композиция — когда новое поведение собирают из кирпичиков существующего.
 
 Есть тип «счетчик»:
-
-    type counter struct {
-        value uint
-    }
+```go
+type counter struct {
+	value uint
+}
+```
 
 Его можно увеличивать на единицу:
+```go
+func (c *counter) increment() {
+	c.value++
+}
+```
 
-    func (c *counter) increment() {
-        c.value++
-    }
 
 Или на указанное число:
-
-    func (c *counter) incrementDelta(delta uint) {
-        c.value += delta
-    }
+```go
+func (c *counter) incrementDelta(delta uint) {
+	c.value += delta
+}
+```
 
 Мы хотим замерять использование сервисов. Чтобы не дублировать существующие функции, добавим счетчик в тип «использование сервиса»:
-
+```go
     type usage struct {
         service string
         counter counter
@@ -566,37 +586,41 @@ func main() {
     func makeUsage(service string) usage {
         return usage{service, counter{}}
     }
+```
 
 Будем мерить использование сервиса, увеличивая его счетчик:
-
-    usage := makeUsage("find")
-    usage.counter.increment()
-    usage.counter.increment()
-    usage.counter.increment()
-    fmt.Printf("%s usage: %d\n", usage.service, usage.counter.value)
-    // find usage: 3
+```go
+usage := makeUsage("find")
+usage.counter.increment()
+usage.counter.increment()
+usage.counter.increment()
+fmt.Printf("%s usage: %d\n", usage.service, usage.counter.value)
+// find usage: 3
+```
 
 Для типа «просмотры страницы» тоже добавим счетчик:
+```go
+type pageviews struct {
+	url *url.URL
+	counter counter
+}
 
-    type pageviews struct {
-        url *url.URL
-        counter counter
-    }
-
-    func makePageviews(uri string) pageviews {
-        u, err := url.Parse(uri)
-        if err != nil {
-            log.Fatal(err)
-        }
-        return pageviews{u, counter{}}
-    }
+func makePageviews(uri string) pageviews {
+	u, err := url.Parse(uri)
+	if err != nil {
+		log.Fatal(err)
+	}
+	return pageviews{u, counter{}}
+}
+```
 
 И будем мерить просмотры:
-
-    pv := makePageviews("/doc/find")
-    pv.counter.incrementDelta(100)
-    fmt.Printf("%s views: %d\n", pv.url, pv.counter.value)
-    // /doc/find views: 100
+```go
+pv := makePageviews("/doc/find")
+pv.counter.incrementDelta(100)
+fmt.Printf("%s views: %d\n", pv.url, pv.counter.value)
+// /doc/find views: 100
+```
 
 ### Встраивание
 
