@@ -11,8 +11,12 @@
             "id": "ef85544b584a544e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "sleep в асинхронном Python.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -101,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sleep в асинхронном Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sleep в асинхронном Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sleep в асинхронном Python.md"
+              }
             }
           }
         ],
@@ -160,6 +168,8 @@
   },
   "active": "ef85544b584a544e",
   "lastOpenFiles": [
+    "асинхронный Python.md",
+    "sleep в асинхронном Python.md",
     "Базовый синтаксис Golang.md",
     "Маркдаун.md",
     "roadmap для golang разработчика junior level.md",
@@ -184,8 +194,6 @@
     "Создание процедур в PostgreSQL.md",
     "Библиотеки Python.md",
     "Работа с Rabbit MQ через Python (синхронная).md",
-    "Стандартная библиотека Golang.md",
-    "Консольные команды для Golang.md",
     "Без названия.canvas",
     "Без названия 3.canvas",
     "Без названия 2.canvas",
