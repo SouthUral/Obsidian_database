@@ -37,19 +37,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Маркдаун.md",
+                "file": "Стандартная библиотека Golang.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "72c3b478b351b360",
+            "id": "8250b19e163fe111",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Базовый синтаксис Golang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45e61914e8377bcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Маркдаун.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "defer",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,16 +204,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e388845b39213f00",
+  "active": "8250b19e163fe111",
   "lastOpenFiles": [
     "Модуль \"net-http\" Golang.md",
-    "Модуль net",
     "Базовый синтаксис Golang.md",
+    "Стандартная библиотека Golang.md",
     "Маркдаун.md",
+    "ООП в Python.md",
+    "Модуль net",
     "Архитектура REST.md",
     "Класс для хранения констант Enum.md",
     "Golang.md",
-    "ООП в Python.md",
     "Полезные фишки с ООП Python.md",
     "Работа с PostgreSQL через Python.md",
     "sleep в асинхронном Python.md",
@@ -220,7 +233,6 @@
     "Datetime.md",
     "Создание функций в PostgreSQL.md",
     "Pydantic.md",
-    "type hinting python.md",
     "Без названия.canvas",
     "Без названия 3.canvas",
     "Без названия 2.canvas",

@@ -10,19 +10,43 @@ package main
 import (
 	"fmt"
 	"net/http"
+	"log"
 )
 
 const portNumber = ":8080"
 
 func HomePageHandler(w http.ResponseWriter, r *http.Request) {
-	w.Write([]bite("We're live !"))
+	fmt.Fprintf(w, "Hi there, I love %s!", r.URL.Path[1:])
 }
 
 func main() {
 	http.HandleFunc("/", HomePageHandler)
 	fmt.Printf("Starting application on port %v\n", portNumber)
-	http.ListenAndServe(portNumber, nil)
+	log.Fatal(http.ListenAndServe(portNumber, nil))
 }
+```
+Функция `main` начинается с вызова `http.HandleFunc` , который сообщает пакету `http` обрабатывать все корневые веб запросы ("/") с помощью `handler`
+
+Затем он вызывает `http.ListenAndServe`, указывая, что он должен прослушивать порт 8080 на любом интерфейсе (`":8080"`). (Не беспокойтесь о втором параметре, `nil`, пока.) Эта функция будет блокироваться до завершения программы.
+
+`ListenAndServe` всегда возвращает ошибку, поскольку она возвращается только тогда, когда случилась неожиданная ошибка. Чтобы записать эту ошибку в лог, мы заключаем вызов функции в `log.Fatal`.
+
+Функция `handler` имеет тип `http.HandlerFunc`. Он принимает `http.ResponseWriter` и `http.Request` как его аргументы.
+
+Значение `http.ResponseWriter` собирает ответ HTTP-сервера; написав в него, мы отправляем данные HTTP-клиенту.
+
+`http.Request` - это структура данных, которая представляет клиентский HTTP-запрос. `r.URL.Path` является компонентом пути URL запроса. Конечный `[1:]` означает "создать под-срез `Path` от 1-го символа до конца." Это удаляет ведущий "/" из имени пути.
+
+Если вы запустите эту программу и обратитесь к URL:
+
+```
+http://localhost:8080/monkeys
+```
+
+программа представит страницу, содержащую:
+
+```
+Hi there, I love monkeys!
 ```
 
 Другой способ написать обработчик:
