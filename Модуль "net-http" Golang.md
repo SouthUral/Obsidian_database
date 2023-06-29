@@ -1,9 +1,13 @@
 [[Стандартная библиотека Golang]]
+[[Разработка Web приложения на Golang]]
+
+## Основы
 
 Модуль ==net/http== является модулем стандартной библиотеки Golang.
 Он имеет готовый к работе веб-сервер и простой http-клиент для отправки запросов.
 
 Пример запуска веб-сервера на Golang:
+
 ```Go
 package main
 
@@ -31,9 +35,9 @@ func main() {
 
 `ListenAndServe` всегда возвращает ошибку, поскольку она возвращается только тогда, когда случилась неожиданная ошибка. Чтобы записать эту ошибку в лог, мы заключаем вызов функции в `log.Fatal`.
 
-Функция `handler` имеет тип `http.HandlerFunc`. Он принимает `http.ResponseWriter` и `http.Request` как его аргументы.
+Функция ==`handler`== имеет тип ==`http.HandlerFunc`==. Он принимает ==`http.ResponseWriter`== и ==`http.Request`== как его аргументы.
 
-Значение `http.ResponseWriter` собирает ответ HTTP-сервера; написав в него, мы отправляем данные HTTP-клиенту.
+Значение ==`http.ResponseWriter`== собирает ответ HTTP-сервера; написав в него, мы отправляем данные HTTP-клиенту.
 
 `http.Request` - это структура данных, которая представляет клиентский HTTP-запрос. `r.URL.Path` является компонентом пути URL запроса. Конечный `[1:]` означает "создать под-срез `Path` от 1-го символа до конца." Это удаляет ведущий "/" из имени пути.
 
@@ -81,3 +85,32 @@ func main() {
 	fmt.Println(string(data))
 }
 ```
+
+---
+
+## Сервер
+
+### Простой роутинг
+
+Пример для простых приложений:
+```go
+package main
+
+import (
+	"net/http"
+)
+
+type MyHandler struct {
+}
+
+func (MyHandler) ServerHTTP(w http.ResponseWriter, r *http.Request) {
+	if r.URL.Path == "/"
+	
+}
+
+func main() {
+	err := http.ListenAndServe(":3000", MyHandler{})
+}
+
+```
+

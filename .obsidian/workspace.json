@@ -23,12 +23,8 @@
             "id": "6568c0d2452ae59e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Модуль \"net-http\" Golang.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -61,14 +57,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Маркдаун.md",
+                "file": "Модуль \"net-http\" Golang.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -143,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Базовый синтаксис Golang.md",
+                "file": "Модуль \"net-http\" Golang.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -160,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Базовый синтаксис Golang.md",
+                "file": "Модуль \"net-http\" Golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,12 +179,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Базовый синтаксис Golang.md"
+                "file": "Модуль \"net-http\" Golang.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,17 +199,18 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "8250b19e163fe111",
+  "active": "45e61914e8377bcf",
   "lastOpenFiles": [
-    "Модуль \"net-http\" Golang.md",
-    "Базовый синтаксис Golang.md",
+    "Разработка Web приложения на Golang.md",
     "Стандартная библиотека Golang.md",
+    "Базовый синтаксис Golang.md",
+    "Модуль \"net-http\" Golang.md",
+    "Golang.md",
     "Маркдаун.md",
     "ООП в Python.md",
     "Модуль net",
     "Архитектура REST.md",
     "Класс для хранения констант Enum.md",
-    "Golang.md",
     "Полезные фишки с ООП Python.md",
     "Работа с PostgreSQL через Python.md",
     "sleep в асинхронном Python.md",
@@ -232,7 +228,6 @@
     "Базовый синтаксис Python.md",
     "Datetime.md",
     "Создание функций в PostgreSQL.md",
-    "Pydantic.md",
     "Без названия.canvas",
     "Без названия 3.canvas",
     "Без названия 2.canvas",

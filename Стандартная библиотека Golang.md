@@ -4,49 +4,50 @@
 
 ## strings
 Используется для работы со строками
+```go
+// обрезает символы, переданные вторым аргументом, с обеих сторон строки
+strings.Trim(s, cutset string) string
+strings.Trim(" hello ", " ") // "hello"
 
-    // обрезает символы, переданные вторым аргументом, с обеих сторон строки
-    strings.Trim(s, cutset string) string
-    strings.Trim(" hello ", " ") // "hello"
+// преобразует все буквы в строке в нижний регистр
+strings.ToLower(s string) string
+strings.ToLower("пРиВеТ") // "привет"
 
-    // преобразует все буквы в строке в нижний регистр
-    strings.ToLower(s string) string
-    strings.ToLower("пРиВеТ") // "привет"
+// озаглавливает первую букву в каждом слове в строке
+strings.Title(s string) string
+strings.Title("привет, джон") // "Привет, Джон"
 
-    // озаглавливает первую букву в каждом слове в строке
-    strings.Title(s string) string
-    strings.Title("привет, джон") // "Привет, Джон"
+// Для замены символов в строке существует функция ReplaceAll(s, old, new string) string 
+strings.ReplaceAll("hello world!", "world", "buddy") // hello buddy!
+strings.ReplaceAll("one two three", " ", "_") // one_two_three
 
-    // Для замены символов в строке существует функция ReplaceAll(s, old, new string) string 
-    strings.ReplaceAll("hello world!", "world", "buddy") // hello buddy!
-    strings.ReplaceAll("one two three", " ", "_") // one_two_three
+// Наличие пробелов можно проверить с помощью функции
+strings.Contains(firstName, " ")
 
-    // Наличие пробелов можно проверить с помощью функции
-    strings.Contains(firstName, " ")
+// проверяет наличие подстроки в строке
+strings.Contains("hello", "h") // true
 
-    // проверяет наличие подстроки в строке
-    strings.Contains("hello", "h") // true
+// разбивает строку по Юникод символам или по переданному разделителю
+strings.Split("hello", "") // ["h", "e", "l", "l", "o"]
 
-    // разбивает строку по Юникод символам или по переданному разделителю
-    strings.Split("hello", "") // ["h", "e", "l", "l", "o"]
+// склеивает строки из слайса с разделителем
+strings.Join([]string{"hello", "world!"}, " ") // "hello world!"
 
-    // склеивает строки из слайса с разделителем
-    strings.Join([]string{"hello", "world!"}, " ") // "hello world!"
+// склеивает большой объем строк быстро
+sb := strings.Builder{}
 
-    // склеивает большой объем строк быстро
-    sb := strings.Builder{}
+sb.WriteString("hello")
+sb.WriteString(" ")
+sb.WriteString("world")
 
-    sb.WriteString("hello")
-    sb.WriteString(" ")
-    sb.WriteString("world")
+sb.String() // "hello world"
+если работа идет с рунами то нужно использовать такие конструкции
+sb.WriteRune(rune)
+```
 
-    sb.String() // "hello world"
-    если работа идет с рунами то нужно использовать такие конструкции
-    sb.WriteRune(rune)
-
-    
+---
 ## strconv
-Библиотека для ковертации чисел в строку и наоборот
+Библиотека для конвертации чисел в строку и наоборот
 Пример:
 
     import "strconv"
