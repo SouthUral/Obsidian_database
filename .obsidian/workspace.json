@@ -8,26 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "07a9703c55572bbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ООП в Python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6568c0d2452ae59e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "1ae82ecc31c083ff",
             "type": "leaf",
             "state": {
@@ -45,7 +25,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Базовый синтаксис Golang.md",
+                "file": "Модуль \"net-http\" Golang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4cc568992b7fff97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Маркдаун.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03d8234994821ec7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Структура приложения Golang.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,9 +131,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Базовый синтаксис Golang.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "file": "Структура приложения Golang.md",
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -144,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Базовый синтаксис Golang.md",
+                "file": "Структура приложения Golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +161,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -167,11 +171,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Базовый синтаксис Golang.md"
+                "file": "Структура приложения Golang.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -187,16 +192,19 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "8250b19e163fe111",
+  "active": "03d8234994821ec7",
   "lastOpenFiles": [
-    "Класс для хранения констант Enum.md",
-    "Модуль \"net-http\" Golang.md",
-    "Разработка Web приложения на Golang.md",
-    "Стандартная библиотека Golang.md",
-    "Базовый синтаксис Golang.md",
-    "Golang.md",
+    "Фреймворк Go chi.md",
+    "Структура приложения Golang.md",
     "Маркдаун.md",
+    "Модуль \"net-http\" Golang.md",
+    "Стандартная библиотека Golang.md",
     "ООП в Python.md",
+    "Go kit.md",
+    "Базовый синтаксис Golang.md",
+    "Класс для хранения констант Enum.md",
+    "Разработка Web приложения на Golang.md",
+    "Golang.md",
     "Модуль net",
     "Архитектура REST.md",
     "Полезные фишки с ООП Python.md",
@@ -213,9 +221,6 @@
     "Языки программирования.md",
     "Программирование.md",
     "psycopg2.md",
-    "Базовый синтаксис Python.md",
-    "Datetime.md",
-    "Создание функций в PostgreSQL.md",
     "Без названия.canvas",
     "Без названия 3.canvas",
     "Без названия 2.canvas",

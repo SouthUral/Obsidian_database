@@ -98,19 +98,85 @@ package main
 
 import (
 	"net/http"
+	"log"
 )
 
 type MyHandler struct {
 }
 
 func (MyHandler) ServerHTTP(w http.ResponseWriter, r *http.Request) {
-	if r.URL.Path == "/"
-	
+	if r.URL.Path == "/" {
+		w.Write([]byte("Home"))
+		return
+	}
+
+	if r.URL.Path == "/hello" {
+		w.Write([]byte("Hello, user"))
+		return
+	}
+
+	w.WriteHeader(http.StatusNotFound)
+	w.Write([]byte("404 Page Not Found"))
+
 }
 
 func main() {
 	err := http.ListenAndServe(":3000", MyHandler{})
+	if err != nil {
+		log.Fatal(err)
+	}
 }
 
 ```
 
+### Стандартный роутер
+
+Для переключения между различными хендлерами используется мультиплексор (роутер во всех остальных языках). 
+```go
+func main() {
+	// определяем мультиплексор
+	mux := http.NewServeMux()
+	// Добавляем в него обработчики(хендлеры)
+	mux.HandleFunc("/", index)
+	mux.HandleFunc("/", index2)
+
+	// mux реализует интерфейс хендлера, поэтому передаем ее в функцию
+	http.ListenAndServe(":3000", mux)
+	
+}
+```
+>[!info] Замечание
+>если в проекте используется один роутер то можно обойтись без инициализации `mux := http.NewServeMux()`, в этом случае будет задействован мультиплексор по умолчанию `DefaultServeMux`
+```go
+func main() {
+	http.HandleFunc("/", index)
+	http.HandleFunc("/hello/", hello)
+
+	http.ListenAndServe(":3000", nil)
+}
+```
+
+### Обработка 404
+
+В самом обработчике можно сделать проверку на правильность пути
+```go
+
+func hello (w http.ResponseWriter, r *http.Request) {
+	if r.URL.Path != "/hello/" {
+		handler404(w, r)
+	}
+	w.Write([]byte("hello"))
+}
+```
+
+Либо можно сделать обработку с помощью регулярных выражений
+
+```go
+func index(w http.ResponseWriter, r *http.Request) {
+	pathRegexp := regexp.MustCompile(`^/\w+$`)
+	if !pathRegexp.Match([]byte(r.URL.Path)) {
+		handler404(w, r)
+		return	
+	}
+}
+```

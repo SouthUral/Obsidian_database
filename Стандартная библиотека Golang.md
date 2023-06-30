@@ -1,6 +1,13 @@
 [[Golang]]
 ## fmt
-
+`fmt.Sprintf()` - для вставки в строку по шаблону, этот метод вернет отформатированную строку:
+```go
+fmt.Sprintf("Environment variable not found: %s", key)
+```
+`fmt.Fprint()` -fесли нужно строку сразу вывести на экран то можно использовать этот метод:
+```go
+fmt.Fprintf(os.Stderr, "QueryRow failed: %v\n", err)
+```
 
 ## strings
 Используется для работы со строками
