@@ -18,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8250b19e163fe111",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Модуль \"net-http\" Golang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4cc568992b7fff97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Маркдаун.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03d8234994821ec7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pydantic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pydantic.md",
+                "file": "Стандартная библиотека Golang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pydantic.md",
+                "file": "Стандартная библиотека Golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pydantic.md"
+                "file": "Стандартная библиотека Golang.md"
               }
             }
           }
@@ -192,12 +155,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "03d8234994821ec7",
+  "active": "1ae82ecc31c083ff",
   "lastOpenFiles": [
+    "Модуль \"net-http\" Golang.md",
+    "Шифрование данных в Python.md",
+    "Шифрование данных.md",
+    "Маркдаун.md",
+    "Pydantic.md",
     "Структура приложения Golang.md",
     "Фреймворк Go chi.md",
-    "Маркдаун.md",
-    "Модуль \"net-http\" Golang.md",
     "Стандартная библиотека Golang.md",
     "ООП в Python.md",
     "Go kit.md",
@@ -218,9 +184,6 @@
     "Git.md",
     "Технологии.md",
     "Python.md",
-    "Языки программирования.md",
-    "Программирование.md",
-    "psycopg2.md",
     "Без названия.canvas",
     "Без названия 3.canvas",
     "Без названия 2.canvas",
