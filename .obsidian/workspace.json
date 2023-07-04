@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Структура приложения Golang.md",
+                "file": "Pydantic.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Структура приложения Golang.md",
+                "file": "Pydantic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Структура приложения Golang.md",
+                "file": "Pydantic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Структура приложения Golang.md"
+                "file": "Pydantic.md"
               }
             }
           }
@@ -194,8 +194,8 @@
   },
   "active": "03d8234994821ec7",
   "lastOpenFiles": [
-    "Фреймворк Go chi.md",
     "Структура приложения Golang.md",
+    "Фреймворк Go chi.md",
     "Маркдаун.md",
     "Модуль \"net-http\" Golang.md",
     "Стандартная библиотека Golang.md",
