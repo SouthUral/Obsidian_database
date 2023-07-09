@@ -8,67 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1ae82ecc31c083ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Стандартная библиотека Golang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8250b19e163fe111",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Модуль \"net-http\" Golang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4cc568992b7fff97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Маркдаун.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca8dcf7c2242db20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Модуль \"net-http\" Golang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0191e97cc2269f5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Структура приложения Golang.md",
+                "file": "Шифрование данных.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "af3e52ffc2ad4044",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Шифрование данных в Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5fdd482df9539dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Многозадачность в Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07c29a025e17c554",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e54213ba46ee3d6b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -143,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Структура приложения Golang.md",
+                "file": "Многозадачность в Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Структура приложения Golang.md",
+                "file": "Многозадачность в Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Структура приложения Golang.md"
+                "file": "Многозадачность в Python.md"
               }
             }
           }
@@ -204,15 +196,22 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "0191e97cc2269f5d",
+  "active": "d5fdd482df9539dc",
   "lastOpenFiles": [
+    "Многозадачность в Python.md",
+    "асинхронный Python.md",
+    "Процессы и потоки.md",
+    "1_Thread_api_1633091567.png",
+    "1_Thread_api_1633091567.png.crdownload",
+    "Шифрование данных в Python.md",
     "Маркдаун.md",
-    "Модуль \"net-http\" Golang.md",
+    "Шифрование данных.md",
+    "Auth_Sensitive_data_1_1_1629405798.png",
+    "Auth_Sensitive_data_1_1_1629405798.png.crdownload",
     "Структура приложения Golang.md",
+    "Модуль \"net-http\" Golang.md",
     "().md",
     "Pydantic.md",
-    "Шифрование данных.md",
-    "Шифрование данных в Python.md",
     "Фреймворк Go chi.md",
     "Стандартная библиотека Golang.md",
     "ООП в Python.md",
@@ -226,13 +225,10 @@
     "Полезные фишки с ООП Python.md",
     "Работа с PostgreSQL через Python.md",
     "sleep в асинхронном Python.md",
-    "асинхронный Python.md",
     "roadmap для golang разработчика junior level.md",
     "Функциональное тестирование.md",
     "Тестирование.md",
     "Общая теория по IT.md",
-    "Git.md",
-    "Технологии.md",
     "Без названия.canvas",
     "Без названия 3.canvas",
     "Без названия 2.canvas",
