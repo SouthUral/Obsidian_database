@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "Golang",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -13,10 +13,10 @@
   "nodeSizeMultiplier": 0.916666666666667,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.338541666666667,
-  "repelStrength": 20,
-  "linkStrength": 0.984375,
-  "linkDistance": 297,
-  "scale": 0.9966622366320594,
+  "centerStrength": 0.203125,
+  "repelStrength": 13.4375,
+  "linkStrength": 1,
+  "linkDistance": 267,
+  "scale": 0.44296099405869294,
   "close": true
 }

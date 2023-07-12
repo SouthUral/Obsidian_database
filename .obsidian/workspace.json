@@ -20,14 +20,6 @@
             }
           },
           {
-            "id": "07c29a025e17c554",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "ac5db7cf09bad6e4",
             "type": "leaf",
             "state": {
@@ -57,14 +49,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Базовый синтаксис Golang.md",
+                "file": "Работа с Mongo в Golang.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "259e1c61eb453c4b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Базовый синтаксис Golang.md",
+                "file": "Работа с Mongo в Golang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Базовый синтаксис Golang.md",
+                "file": "Работа с Mongo в Golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Базовый синтаксис Golang.md"
+                "file": "Работа с Mongo в Golang.md"
               }
             }
           }
@@ -202,10 +202,13 @@
   },
   "active": "017280b02ac5e799",
   "lastOpenFiles": [
-    "Каналы golang.md",
     "Маркдаун.md",
-    "ООП в Golang.md",
+    "Работа с Mongo в Golang.md",
     "Базовый синтаксис Golang.md",
+    "Работа с БД в Golang.md",
+    "Пример работы с несколькими каналами Go через select.md",
+    "Каналы golang.md",
+    "ООП в Golang.md",
     "многопоточный golang.md",
     "Многозадачность в Python.md",
     "асинхронный Python.md",
@@ -230,9 +233,6 @@
     "Модуль net",
     "Архитектура REST.md",
     "Полезные фишки с ООП Python.md",
-    "Работа с PostgreSQL через Python.md",
-    "sleep в асинхронном Python.md",
-    "roadmap для golang разработчика junior level.md",
     "Без названия.canvas",
     "Без названия 3.canvas",
     "Без названия 2.canvas",
