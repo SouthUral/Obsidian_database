@@ -79,11 +79,11 @@ JSON документы в mongoDB хранятся в двоичном форм
 ```go
 
 type Message struct {
-	id int
-	mess string
+	Id int
+	Mess string
 }
 
-newMes := Message{"id": 1, "mess": "new mess"}
+newMes := Message{id: 1, mess: "new mess"}
 
 insertResult, err := collection.InsertOne(context.TODO(), newMes)
 if err != nil {
@@ -92,6 +92,9 @@ if err != nil {
 
 fmt.Println("Inserted a single document: ", insertResult.InsertedID)
 ```
+>[!info] Важно
+> поля в структуре должны начинаться с заглавной буквы, иначе запись в монго не произойдет
+
 
 #### Вставка нескольких документов
 

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "python",
+  "search": "Go",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 13.4375,
   "linkStrength": 1,
   "linkDistance": 267,
-  "scale": 0.44747395922348393,
+  "scale": 0.6712109388352259,
   "close": true
 }

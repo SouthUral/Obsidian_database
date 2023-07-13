@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ООП в Golang.md",
+                "file": "Каналы golang.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FastAPI.md",
+                "file": "Работа с Mongo в Golang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "575dce4815f3f9d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Базовый синтаксис Golang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53d9e95334e8a797",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Маркдаун.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FastAPI.md",
+                "file": "Базовый синтаксис Golang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FastAPI.md",
+                "file": "Базовый синтаксис Golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FastAPI.md"
+                "file": "Базовый синтаксис Golang.md"
               }
             }
           }
@@ -168,17 +192,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "259e1c61eb453c4b",
+  "active": "575dce4815f3f9d6",
   "lastOpenFiles": [
-    "FastAPI.md",
-    "ООП в Golang.md",
     "Каналы golang.md",
-    "Фреймворки Python.md",
-    "Маркдаун.md",
+    "Пример работы с несколькими каналами Go через select.md",
+    "ООП в Golang.md",
     "Работа с Mongo в Golang.md",
     "Базовый синтаксис Golang.md",
+    "Маркдаун.md",
+    "FastAPI.md",
+    "Фреймворки Python.md",
     "Работа с БД в Golang.md",
-    "Пример работы с несколькими каналами Go через select.md",
     "многопоточный golang.md",
     "Многозадачность в Python.md",
     "асинхронный Python.md",
