@@ -87,7 +87,7 @@ newMes := Message{id: 1, mess: "new mess"}
 
 insertResult, err := collection.InsertOne(context.TODO(), newMes)
 if err != nil {
-	log.Fatal
+	log.Fatal(err)
 }
 
 fmt.Println("Inserted a single document: ", insertResult.InsertedID)
@@ -134,6 +134,37 @@ if err != nil {
 fmt.Printf("Matched %v documents and updated %v documents.\n", updateResult.MatchedCount, updateResult.ModifiedCount)
 ```
 
+```go
+filter := bson.M{"table": "data_device", "database": "test_pgp"}
+
+  
+
+// update := MessTest{
+
+// Table: "updated",
+
+// DataBase: "updated",
+
+// Offset: "100023",
+
+// IsActive: true}
+
+  
+
+updated := bson.M{
+	"$set": bson.M{
+	"table": "updated",
+	"database": "updated",
+	},
+}
+
+  
+
+updateRes, err := collection.UpdateOne(context.TODO(), filter, updated)
+if err != nil {
+	log.Fatal(err)
+}
+```
 ### Поиск документов
 
 Чтобы найти документ, нужен фильтр и указатель на переменную, в которую может быть декодирован результат.

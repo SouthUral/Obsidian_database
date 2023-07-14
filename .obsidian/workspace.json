@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Базовый синтаксис Golang.md",
+                "file": "Работа с Mongo в Golang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Базовый синтаксис Golang.md",
+                "file": "Работа с Mongo в Golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Базовый синтаксис Golang.md"
+                "file": "Работа с Mongo в Golang.md"
               }
             }
           }
@@ -192,13 +192,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "575dce4815f3f9d6",
+  "active": "259e1c61eb453c4b",
   "lastOpenFiles": [
+    "Работа с Mongo в Golang.md",
+    "Базовый синтаксис Golang.md",
     "Каналы golang.md",
     "Пример работы с несколькими каналами Go через select.md",
     "ООП в Golang.md",
-    "Работа с Mongo в Golang.md",
-    "Базовый синтаксис Golang.md",
     "Маркдаун.md",
     "FastAPI.md",
     "Фреймворки Python.md",
