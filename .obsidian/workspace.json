@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "71257a3920c376df",
+        "id": "2ccce3636220bd34",
         "type": "tabs",
         "children": [
           {
-            "id": "d5fdd482df9539dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Каналы golang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "259e1c61eb453c4b",
+            "id": "2464d946b686fd4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,24 +20,12 @@
             }
           },
           {
-            "id": "575dce4815f3f9d6",
+            "id": "7ccc8f40a25ff7ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Базовый синтаксис Golang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53d9e95334e8a797",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Маркдаун.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Работа с Mongo в Golang.md",
+                "file": "Базовый синтаксис Golang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Работа с Mongo в Golang.md",
+                "file": "Базовый синтаксис Golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Работа с Mongo в Golang.md"
+                "file": "Базовый синтаксис Golang.md"
               }
             }
           }
@@ -192,14 +168,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "259e1c61eb453c4b",
+  "active": "7ccc8f40a25ff7ff",
   "lastOpenFiles": [
     "Работа с Mongo в Golang.md",
+    "Маркдаун.md",
     "Базовый синтаксис Golang.md",
     "Каналы golang.md",
     "Пример работы с несколькими каналами Go через select.md",
     "ООП в Golang.md",
-    "Маркдаун.md",
     "FastAPI.md",
     "Фреймворки Python.md",
     "Работа с БД в Golang.md",
