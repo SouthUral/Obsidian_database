@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Базовый синтаксис Golang.md",
+                "file": "Пример работы с несколькими каналами Go через select.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Базовый синтаксис Golang.md",
+                "file": "Пример работы с несколькими каналами Go через select.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Базовый синтаксис Golang.md",
+                "file": "Пример работы с несколькими каналами Go через select.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Базовый синтаксис Golang.md"
+                "file": "Пример работы с несколькими каналами Go через select.md"
               }
             }
           }
@@ -170,9 +170,9 @@
   },
   "active": "7ccc8f40a25ff7ff",
   "lastOpenFiles": [
+    "Базовый синтаксис Golang.md",
     "Работа с Mongo в Golang.md",
     "Маркдаун.md",
-    "Базовый синтаксис Golang.md",
     "Каналы golang.md",
     "Пример работы с несколькими каналами Go через select.md",
     "ООП в Golang.md",
