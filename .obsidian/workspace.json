@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Логирование в golang.md",
+                "file": "Работа с Mongo в Golang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Логирование в golang.md",
+                "file": "Работа с Mongo в Golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Логирование в golang.md"
+                "file": "Работа с Mongo в Golang.md"
               }
             }
           }
@@ -167,15 +166,16 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7ccc8f40a25ff7ff",
+  "active": "2464d946b686fd4d",
   "lastOpenFiles": [
+    "Стандартная библиотека Golang.md",
+    "Работа с Mongo в Golang.md",
     "Логирование в golang.md",
     "Базовый синтаксис Golang.md",
     "2023-07-19.md",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Пример работы с несколькими каналами Go через select.md",
-    "Работа с Mongo в Golang.md",
     "Маркдаун.md",
     "Каналы golang.md",
     "ООП в Golang.md",
@@ -197,7 +197,6 @@
     "().md",
     "Pydantic.md",
     "Фреймворк Go chi.md",
-    "Стандартная библиотека Golang.md",
     "ООП в Python.md",
     "Go kit.md",
     "Класс для хранения констант Enum.md",
