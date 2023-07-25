@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Работа с Mongo в Golang.md",
+                "file": "Модуль \"net-http\" Golang.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Работа с Mongo в Golang.md",
+                "file": "Модуль \"net-http\" Golang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Работа с Mongo в Golang.md",
+                "file": "Модуль \"net-http\" Golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Работа с Mongo в Golang.md"
+                "file": "Модуль \"net-http\" Golang.md"
               }
             }
           }
@@ -168,8 +168,8 @@
   },
   "active": "2464d946b686fd4d",
   "lastOpenFiles": [
-    "Стандартная библиотека Golang.md",
     "Работа с Mongo в Golang.md",
+    "Стандартная библиотека Golang.md",
     "Логирование в golang.md",
     "Базовый синтаксис Golang.md",
     "2023-07-19.md",
