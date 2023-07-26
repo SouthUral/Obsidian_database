@@ -30,8 +30,41 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8bc8b15fee66ec05",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "08f00edbbd8d348c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "logrus golang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "397f5fa03ad872b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "сервер на net/http golang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -105,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Модуль \"net-http\" Golang.md",
+                "file": "сервер на net/http golang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Модуль \"net-http\" Golang.md",
+                "file": "сервер на net/http golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Модуль \"net-http\" Golang.md"
+                "file": "сервер на net/http golang.md"
               }
             }
           }
@@ -166,11 +199,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "2464d946b686fd4d",
+  "active": "397f5fa03ad872b7",
   "lastOpenFiles": [
+    "сервер на net/http golang.md",
+    "сервер на net",
+    "Модуль \"net-http\" Golang.md",
+    "logrus golang.md",
+    "Логирование в golang.md",
     "Работа с Mongo в Golang.md",
     "Стандартная библиотека Golang.md",
-    "Логирование в golang.md",
     "Базовый синтаксис Golang.md",
     "2023-07-19.md",
     "Без названия 1.canvas",
@@ -193,13 +230,10 @@
     "Auth_Sensitive_data_1_1_1629405798.png",
     "Auth_Sensitive_data_1_1_1629405798.png.crdownload",
     "Структура приложения Golang.md",
-    "Модуль \"net-http\" Golang.md",
     "().md",
     "Pydantic.md",
     "Фреймворк Go chi.md",
     "ООП в Python.md",
-    "Go kit.md",
-    "Класс для хранения констант Enum.md",
     "Модуль net",
     "Без названия 3.canvas",
     "Без названия 2.canvas"
