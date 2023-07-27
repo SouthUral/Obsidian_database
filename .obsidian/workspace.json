@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Модуль \"net-http\" Golang.md",
+                "file": "сервер на net/http golang сервер.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,16 +23,24 @@
             "id": "7ccc8f40a25ff7ff",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "8bc8b15fee66ec05",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Логирование в golang.md",
+                "file": "Работа с каналом Go в цикле.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8bc8b15fee66ec05",
+            "id": "08f00edbbd8d348c",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -40,31 +48,30 @@
             }
           },
           {
-            "id": "08f00edbbd8d348c",
+            "id": "7d03cd58b71e39f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "logrus golang.md",
+                "file": "Маркдаун.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "397f5fa03ad872b7",
+            "id": "84a6f70b04c01e04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "сервер на net/http golang.md",
+                "file": "Базовый синтаксис Golang.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "сервер на net/http golang.md",
+                "file": "сервер на net/http golang сервер.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "сервер на net/http golang.md",
+                "file": "сервер на net/http golang сервер.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,12 +185,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "сервер на net/http golang.md"
+                "file": "сервер на net/http golang сервер.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,22 +205,25 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "397f5fa03ad872b7",
+  "active": "2464d946b686fd4d",
   "lastOpenFiles": [
-    "сервер на net/http golang.md",
-    "сервер на net",
-    "Модуль \"net-http\" Golang.md",
-    "logrus golang.md",
     "Логирование в golang.md",
+    "сервер на net/http golang сервер.md",
+    "Работа с каналом Go в цикле.md",
+    "Базовый синтаксис Golang.md",
+    "logrus golang.md",
+    "Пример работы с несколькими каналами Go через select.md",
+    "Каналы golang.md",
+    "Маркдаун.md",
+    "Модуль \"net-http\" Golang.md",
+    "Разработка Web приложения на Golang.md",
+    "Понятия авторизации.md",
+    "сервер на net",
     "Работа с Mongo в Golang.md",
     "Стандартная библиотека Golang.md",
-    "Базовый синтаксис Golang.md",
     "2023-07-19.md",
     "Без названия 1.canvas",
     "Без названия.canvas",
-    "Пример работы с несколькими каналами Go через select.md",
-    "Маркдаун.md",
-    "Каналы golang.md",
     "ООП в Golang.md",
     "FastAPI.md",
     "Фреймворки Python.md",
@@ -231,9 +240,6 @@
     "Auth_Sensitive_data_1_1_1629405798.png.crdownload",
     "Структура приложения Golang.md",
     "().md",
-    "Pydantic.md",
-    "Фреймворк Go chi.md",
-    "ООП в Python.md",
     "Модуль net",
     "Без названия 3.canvas",
     "Без названия 2.canvas"
