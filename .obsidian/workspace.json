@@ -23,8 +23,12 @@
             "id": "7ccc8f40a25ff7ff",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "json Go.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -43,8 +47,12 @@
             "id": "08f00edbbd8d348c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "json Go.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -71,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -145,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "сервер на net/http golang сервер.md",
+                "file": "Базовый синтаксис Golang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "сервер на net/http golang сервер.md",
+                "file": "Базовый синтаксис Golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "сервер на net/http golang сервер.md"
+                "file": "Базовый синтаксис Golang.md"
               }
             }
           }
@@ -205,12 +214,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "2464d946b686fd4d",
+  "active": "84a6f70b04c01e04",
   "lastOpenFiles": [
-    "Логирование в golang.md",
-    "сервер на net/http golang сервер.md",
-    "Работа с каналом Go в цикле.md",
+    "json Go.md",
     "Базовый синтаксис Golang.md",
+    "Работа с каналом Go в цикле.md",
+    "Стандартная библиотека Golang.md",
+    "Go библиотека encoding",
+    "сервер на net/http golang сервер.md",
+    "Логирование в golang.md",
     "logrus golang.md",
     "Пример работы с несколькими каналами Go через select.md",
     "Каналы golang.md",
@@ -220,7 +232,6 @@
     "Понятия авторизации.md",
     "сервер на net",
     "Работа с Mongo в Golang.md",
-    "Стандартная библиотека Golang.md",
     "2023-07-19.md",
     "Без названия 1.canvas",
     "Без названия.canvas",
@@ -239,7 +250,6 @@
     "Auth_Sensitive_data_1_1_1629405798.png",
     "Auth_Sensitive_data_1_1_1629405798.png.crdownload",
     "Структура приложения Golang.md",
-    "().md",
     "Модуль net",
     "Без названия 3.canvas",
     "Без названия 2.canvas"
