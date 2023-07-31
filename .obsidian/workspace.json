@@ -155,7 +155,7 @@
               "type": "backlink",
               "state": {
                 "file": "Базовый синтаксис Golang.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -198,7 +198,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -214,7 +215,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "84a6f70b04c01e04",
+  "active": "91382dc48c66eba7",
   "lastOpenFiles": [
     "json Go.md",
     "Базовый синтаксис Golang.md",
