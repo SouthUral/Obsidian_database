@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Базовый синтаксис Golang.md",
+                "file": "Запрос на получение структуры таблицы Postgres.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8321abb08319246a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Работа с каналом Go в цикле.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "запуск программы без указания пути linux.md",
+                "file": "Запрос на получение структуры таблицы Postgres.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "запуск программы без указания пути linux.md",
+                "file": "Запрос на получение структуры таблицы Postgres.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "запуск программы без указания пути linux.md"
+                "file": "Запрос на получение структуры таблицы Postgres.md"
               }
             }
           }
@@ -227,14 +239,19 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "48b79f33dff0ccfc",
+  "active": "84a6f70b04c01e04",
   "lastOpenFiles": [
-    "linux.md",
-    "запуск программы без указания пути linux.md",
-    "Консольные команды для Golang.md",
-    "json Go.md",
+    "Pasted image 20230815150722.png",
+    "Запрос на получение структуры таблицы Postgres.md",
+    "Архитектура REST.md",
+    "асинхронный Python.md",
+    "Запросы в PostgreSQL.md",
     "Базовый синтаксис Golang.md",
     "Работа с каналом Go в цикле.md",
+    "запуск программы без указания пути linux.md",
+    "linux.md",
+    "Консольные команды для Golang.md",
+    "json Go.md",
     "Стандартная библиотека Golang.md",
     "Go библиотека encoding",
     "сервер на net/http golang сервер.md",
@@ -254,11 +271,6 @@
     "ООП в Golang.md",
     "FastAPI.md",
     "Фреймворки Python.md",
-    "Работа с БД в Golang.md",
-    "многопоточный golang.md",
-    "Многозадачность в Python.md",
-    "асинхронный Python.md",
-    "Процессы и потоки.md",
     "1_Thread_api_1633091567.png",
     "1_Thread_api_1633091567.png.crdownload",
     "Auth_Sensitive_data_1_1_1629405798.png",
