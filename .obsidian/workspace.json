@@ -30,8 +30,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "79ac43966ef33275",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Выгрузка дампа postgresql.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "040701eeb18076d8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Кодирование и запись в json golang.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Кодирование и запись в json golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Кодирование и запись в json golang.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -166,12 +183,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "84a6f70b04c01e04",
+  "active": "040701eeb18076d8",
   "lastOpenFiles": [
     "Кодирование и запись в json golang.md",
+    "Базовый синтаксис Golang.md",
+    "Выгрузка дампа postgresql.md",
     "Декодирование Json в golang.md",
     "json Go.md",
-    "Базовый синтаксис Golang.md",
     "запуск программы без указания пути linux.md",
     "logrus golang.md",
     "чтение json файла.md",
@@ -198,7 +216,6 @@
     "2023-07-19.md",
     "Без названия 1.canvas",
     "Без названия.canvas",
-    "ООП в Golang.md",
     "1_Thread_api_1633091567.png",
     "1_Thread_api_1633091567.png.crdownload",
     "Auth_Sensitive_data_1_1_1629405798.png",
