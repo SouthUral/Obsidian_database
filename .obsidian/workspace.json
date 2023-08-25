@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Базовый синтаксис Golang.md",
+                "file": "Стандартная библиотека Golang.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Стандартная библиотека Golang.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Стандартная библиотека Golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Стандартная библиотека Golang.md"
+              }
             }
           }
         ],
@@ -183,11 +187,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "040701eeb18076d8",
+  "active": "0ad4f1434b9a5945",
   "lastOpenFiles": [
-    "Кодирование и запись в json golang.md",
     "Базовый синтаксис Golang.md",
     "Выгрузка дампа postgresql.md",
+    "Кодирование и запись в json golang.md",
     "Декодирование Json в golang.md",
     "json Go.md",
     "запуск программы без указания пути linux.md",
