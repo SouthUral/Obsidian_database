@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Выгрузка дампа postgresql.md",
+                "file": "Назначение владельца на функцию или таблицу PostgreSQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,12 +47,52 @@
             "id": "040701eeb18076d8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Запрос на получение структуры таблицы Postgres.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "097dba3996edb8fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Работа с каналом Go в цикле.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89b281d18fd0eb68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Стандартная библиотека Golang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1b789985291c3e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Чтение и запись Postgres в Go.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -126,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Стандартная библиотека Golang.md",
+                "file": "Чтение и запись Postgres в Go.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Стандартная библиотека Golang.md",
+                "file": "Чтение и запись Postgres в Go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Стандартная библиотека Golang.md"
+                "file": "Чтение и запись Postgres в Go.md"
               }
             }
           }
@@ -187,25 +227,27 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "0ad4f1434b9a5945",
+  "active": "b1b789985291c3e7",
   "lastOpenFiles": [
-    "Базовый синтаксис Golang.md",
+    "Чтение и запись Postgres в Go.md",
+    "Работа с каналом Go в цикле.md",
+    "Стандартная библиотека Golang.md",
+    "Запрос на получение структуры таблицы Postgres.md",
+    "Назначение владельца на функцию или таблицу PostgreSQL.md",
     "Выгрузка дампа postgresql.md",
+    "Базовый синтаксис Golang.md",
     "Кодирование и запись в json golang.md",
     "Декодирование Json в golang.md",
     "json Go.md",
     "запуск программы без указания пути linux.md",
     "logrus golang.md",
     "чтение json файла.md",
-    "Запрос на получение структуры таблицы Postgres.md",
     "Pasted image 20230815150722.png",
     "Архитектура REST.md",
     "асинхронный Python.md",
     "Запросы в PostgreSQL.md",
-    "Работа с каналом Go в цикле.md",
     "linux.md",
     "Консольные команды для Golang.md",
-    "Стандартная библиотека Golang.md",
     "Go библиотека encoding",
     "сервер на net/http golang сервер.md",
     "Логирование в golang.md",
@@ -216,8 +258,6 @@
     "Разработка Web приложения на Golang.md",
     "Понятия авторизации.md",
     "сервер на net",
-    "Работа с Mongo в Golang.md",
-    "2023-07-19.md",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "1_Thread_api_1633091567.png",
