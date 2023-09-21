@@ -4,95 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "2ccce3636220bd34",
+        "id": "96eb69e3abe61007",
         "type": "tabs",
         "children": [
           {
-            "id": "84a6f70b04c01e04",
+            "id": "6a1962bf4fa8a96a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Кодирование и запись в json golang.md",
+                "file": "Каналы golang.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0ad4f1434b9a5945",
+            "id": "4dc6bbb36a6cf533",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Стандартная библиотека Golang.md",
+                "file": "Выгрузка дампа postgresql.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "79ac43966ef33275",
+            "id": "8f80b44d14967d77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Назначение владельца на функцию или таблицу PostgreSQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "040701eeb18076d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Запрос на получение структуры таблицы Postgres.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "097dba3996edb8fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Работа с каналом Go в цикле.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89b281d18fd0eb68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Стандартная библиотека Golang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1b789985291c3e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Чтение и запись Postgres в Go.md",
+                "file": "Особенности проброса ip локальной БД в docker.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Чтение и запись Postgres в Go.md",
+                "file": "Особенности проброса ip локальной БД в docker.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Чтение и запись Postgres в Go.md",
+                "file": "Особенности проброса ip локальной БД в docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +158,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Чтение и запись Postgres в Go.md"
+                "file": "Особенности проброса ip локальной БД в docker.md"
+              }
+            }
+          },
+          {
+            "id": "07f585ea77d6809d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -227,16 +189,25 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "b1b789985291c3e7",
+  "active": "8f80b44d14967d77",
   "lastOpenFiles": [
-    "Чтение и запись Postgres в Go.md",
-    "Работа с каналом Go в цикле.md",
-    "Стандартная библиотека Golang.md",
-    "Запрос на получение структуры таблицы Postgres.md",
-    "Назначение владельца на функцию или таблицу PostgreSQL.md",
+    "docker-compose.md",
+    "Особенности проброса ip локальной БД в docker.md",
     "Выгрузка дампа postgresql.md",
-    "Базовый синтаксис Golang.md",
+    "Команды docker-compose.md",
+    "docker.md",
+    "Блокировка горутины в Golang без блокировки остальных горутин.md",
+    "Каналы golang.md",
+    "Консольные команды для Golang.md",
+    "Стандартная библиотека Golang.md",
+    "Работа с Mongo в Golang.md",
+    "асинхронный Python.md",
     "Кодирование и запись в json golang.md",
+    "Назначение владельца на функцию или таблицу PostgreSQL.md",
+    "Запрос на получение структуры таблицы Postgres.md",
+    "Работа с каналом Go в цикле.md",
+    "Чтение и запись Postgres в Go.md",
+    "Базовый синтаксис Golang.md",
     "Декодирование Json в golang.md",
     "json Go.md",
     "запуск программы без указания пути linux.md",
@@ -244,19 +215,10 @@
     "чтение json файла.md",
     "Pasted image 20230815150722.png",
     "Архитектура REST.md",
-    "асинхронный Python.md",
     "Запросы в PostgreSQL.md",
     "linux.md",
-    "Консольные команды для Golang.md",
     "Go библиотека encoding",
     "сервер на net/http golang сервер.md",
-    "Логирование в golang.md",
-    "Пример работы с несколькими каналами Go через select.md",
-    "Каналы golang.md",
-    "Маркдаун.md",
-    "Модуль \"net-http\" Golang.md",
-    "Разработка Web приложения на Golang.md",
-    "Понятия авторизации.md",
     "сервер на net",
     "Без названия 1.canvas",
     "Без названия.canvas",
