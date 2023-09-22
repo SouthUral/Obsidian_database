@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Особенности проброса ip локальной БД в docker.md",
+                "file": "Команды docker-compose.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Особенности проброса ip локальной БД в docker.md",
+                "file": "Команды docker-compose.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Особенности проброса ip локальной БД в docker.md",
+                "file": "Команды docker-compose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Особенности проброса ip локальной БД в docker.md"
+                "file": "Команды docker-compose.md"
               }
             }
           },
@@ -191,8 +191,12 @@
   },
   "active": "8f80b44d14967d77",
   "lastOpenFiles": [
-    "docker-compose.md",
+    "Маркдаун.md",
+    "roadmap для golang разработчика junior level.md",
+    "Архитектура REST.md",
+    "асинхронный Python.md",
     "Особенности проброса ip локальной БД в docker.md",
+    "docker-compose.md",
     "Выгрузка дампа postgresql.md",
     "Команды docker-compose.md",
     "docker.md",
@@ -201,7 +205,6 @@
     "Консольные команды для Golang.md",
     "Стандартная библиотека Golang.md",
     "Работа с Mongo в Golang.md",
-    "асинхронный Python.md",
     "Кодирование и запись в json golang.md",
     "Назначение владельца на функцию или таблицу PostgreSQL.md",
     "Запрос на получение структуры таблицы Postgres.md",
@@ -214,11 +217,8 @@
     "logrus golang.md",
     "чтение json файла.md",
     "Pasted image 20230815150722.png",
-    "Архитектура REST.md",
     "Запросы в PostgreSQL.md",
-    "linux.md",
     "Go библиотека encoding",
-    "сервер на net/http golang сервер.md",
     "сервер на net",
     "Без названия 1.canvas",
     "Без названия.canvas",
