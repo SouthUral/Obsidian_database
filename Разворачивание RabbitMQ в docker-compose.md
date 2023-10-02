@@ -1,4 +1,6 @@
 [[Rabbit MQ]]
+[[docker]]
+[[docker-compose]]
 
 [ссылка на статью на хабре](https://habr.com/ru/companies/slurm/articles/704208/)
 
