@@ -1,4 +1,4 @@
-[[Golang]]
+[[Работа с БД в Golang]]
 
 ```go
 package main
