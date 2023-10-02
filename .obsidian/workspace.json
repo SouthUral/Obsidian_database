@@ -85,14 +85,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Приведение типов golang.md",
+                "file": "Загрузка переменных окружения (env vars) golang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c1249bc0d3fabf1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "4948fae01207f523",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Работа с RabbitMQ через golang.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -166,7 +186,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Приведение типов golang.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +202,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Приведение типов golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,9 +223,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Приведение типов golang.md"
-              }
+              "state": {}
             }
           },
           {
@@ -237,17 +253,21 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "cf64c6ac21118420",
+  "active": "2c1249bc0d3fabf1",
   "lastOpenFiles": [
+    "Работа с RabbitMQ через golang.md",
+    "logrus golang.md",
+    "Загрузка переменных окружения (env vars) golang.md",
+    "Каналы golang.md",
+    "Выгрузка дампа postgresql.md",
+    "Вопросы на собеседовании golang разработчика.md",
+    "Базовый синтаксис Golang.md",
     "2023-09-25.md",
     "Приведение типов golang.md",
-    "Вопросы на собеседовании golang разработчика.md",
     "2023-07-19.md",
     "type switch golang.md",
     "Маркдаун.md",
     "switch golang.md",
-    "Базовый синтаксис Golang.md",
-    "Выгрузка дампа postgresql.md",
     "roadmap для golang разработчика junior level.md",
     "Подходы программирования.md",
     "Подходы.md",
@@ -259,12 +279,8 @@
     "docker-compose.md",
     "docker.md",
     "Блокировка горутины в Golang без блокировки остальных горутин.md",
-    "Каналы golang.md",
     "Консольные команды для Golang.md",
     "Стандартная библиотека Golang.md",
-    "Работа с Mongo в Golang.md",
-    "Кодирование и запись в json golang.md",
-    "Назначение владельца на функцию или таблицу PostgreSQL.md",
     "Pasted image 20230815150722.png",
     "Go библиотека encoding",
     "сервер на net",
