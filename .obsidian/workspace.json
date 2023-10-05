@@ -76,15 +76,15 @@
             }
           },
           {
-            "id": "3580aee0282fc62d",
+            "id": "d27ecdbce34aad72",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rabbit MQ.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +174,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rabbit MQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,9 +195,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Rabbit MQ.md"
-              }
+              "state": {}
             }
           },
           {
@@ -229,15 +225,26 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "f45e2c2f5f0ed394",
+  "active": "d27ecdbce34aad72",
   "lastOpenFiles": [
-    "Pasted image 20231005125826.png",
-    "Маркдаун.md",
+    "PostgreSQL.md",
     "Rabbit MQ.md",
+    "Разворачивание RabbitMQ в docker-compose.md",
+    "docker.md",
+    "Маркдаун.md",
+    "Python.md",
+    "Pasted image 20231005170438.png",
+    "Pasted image 20231005170356.png",
     "Базовый синтаксис Golang.md",
+    "Pasted image 20231005150314.png",
+    "Pasted image 20231005150234.png",
+    "Pasted image 20231005145005.png",
+    "Pasted image 20231005144928.png",
+    "Pasted image 20231005143802.png",
+    "Pasted image 20231005143321.png",
+    "Pasted image 20231005125826.png",
     "Каналы golang.md",
     "Pasted image 20231004150247.png",
-    "Разворачивание RabbitMQ в docker-compose.md",
     "ООП в Golang.md",
     "Работа с несколькими репозиториями в GIT.md",
     "Git.md",
@@ -245,8 +252,6 @@
     "Команды git.md",
     "Git push новой ветки.md",
     "2023-09-25.md",
-    "Pasted image 20231002134020.png",
-    "Pasted image 20231002132656.png",
     "Загрузка переменных окружения (env vars) golang.md",
     "Базы данных.md",
     "Работа с RabbitMQ через golang.md",
@@ -258,16 +263,11 @@
     "2023-07-19.md",
     "type switch golang.md",
     "switch golang.md",
-    "roadmap для golang разработчика junior level.md",
-    "Подходы программирования.md",
-    "Pasted image 20230815150722.png",
     "Go библиотека encoding",
     "сервер на net",
     "Без названия 1.canvas",
     "Без названия.canvas",
-    "1_Thread_api_1633091567.png",
     "1_Thread_api_1633091567.png.crdownload",
-    "Auth_Sensitive_data_1_1_1629405798.png",
     "Auth_Sensitive_data_1_1_1629405798.png.crdownload",
     "Модуль net",
     "Без названия 3.canvas",
