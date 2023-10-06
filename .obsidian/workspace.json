@@ -8,44 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a1962bf4fa8a96a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "4dc6bbb36a6cf533",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Выгрузка дампа postgresql.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "348ac2223e9ab554",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вопросы на собеседовании golang разработчика.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b604b9f12c5e302",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Базовый синтаксис Golang.md",
+                "file": "Блокировка горутины в Golang без блокировки остальных горутин.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,12 +47,16 @@
             "id": "d27ecdbce34aad72",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Разворачивание RabbitMQ в docker-compose.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -158,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Разворачивание RabbitMQ в docker-compose.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Разворачивание RabbitMQ в docker-compose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Разворачивание RabbitMQ в docker-compose.md"
+              }
             }
           },
           {
@@ -227,24 +203,27 @@
   },
   "active": "d27ecdbce34aad72",
   "lastOpenFiles": [
-    "PostgreSQL.md",
+    "Работа с RabbitMQ через golang.md",
     "Rabbit MQ.md",
+    "Блокировка горутины в Golang без блокировки остальных горутин.md",
+    "Вопросы на собеседовании golang разработчика.md",
+    "Маркдаун.md",
+    "Pasted image 20231006152620.png",
+    "Pasted image 20231006152447.png",
+    "Pasted image 20231006152410.png",
+    "Pasted image 20231006152331.png",
+    "Pasted image 20231006152303.png",
+    "Pasted image 20231006152233.png",
+    "Pasted image 20231006151955.png",
+    "Pasted image 20231006151749.png",
+    "Базовый синтаксис Golang.md",
+    "PostgreSQL.md",
     "Разворачивание RabbitMQ в docker-compose.md",
     "docker.md",
-    "Маркдаун.md",
     "Python.md",
     "Pasted image 20231005170438.png",
     "Pasted image 20231005170356.png",
-    "Базовый синтаксис Golang.md",
-    "Pasted image 20231005150314.png",
-    "Pasted image 20231005150234.png",
-    "Pasted image 20231005145005.png",
-    "Pasted image 20231005144928.png",
-    "Pasted image 20231005143802.png",
-    "Pasted image 20231005143321.png",
-    "Pasted image 20231005125826.png",
     "Каналы golang.md",
-    "Pasted image 20231004150247.png",
     "ООП в Golang.md",
     "Работа с несколькими репозиториями в GIT.md",
     "Git.md",
@@ -254,15 +233,12 @@
     "2023-09-25.md",
     "Загрузка переменных окружения (env vars) golang.md",
     "Базы данных.md",
-    "Работа с RabbitMQ через golang.md",
     "Чтение и запись Postgres в Go.md",
     "logrus golang.md",
     "Выгрузка дампа postgresql.md",
-    "Вопросы на собеседовании golang разработчика.md",
     "Приведение типов golang.md",
     "2023-07-19.md",
     "type switch golang.md",
-    "switch golang.md",
     "Go библиотека encoding",
     "сервер на net",
     "Без названия 1.canvas",
