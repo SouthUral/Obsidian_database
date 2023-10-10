@@ -76,6 +76,24 @@ func declaringQueue(rabbitChan *amqp.Channel, nameQueue string) (amqp.Queue, err
 }
 ```
 
+#### Binding очереди к exchange
+```go
+// Метод для bindig очереди к exchange
+func bindingQueue(rabbitChan *amqp.Channel, nameQueue, nameExchange, routingKey string) error {
+	err := rabbitChan.QueueBind(
+		nameQueue, // queue name
+		routingKey, // routing key
+		nameExchange, // name exchange
+		false, // noWait
+		nil,
+	)
+	if err != nil {
+			log.Errorf("Ошибка binding очереди %s, к exchange %s : %s", nameQueue, nameExchange, err.Error())
+	}
+	return err
+}
+```
+
 #### Отправка сообщения (простой пример)
 ```Go
 // Метод для отправки сообщений
