@@ -66,9 +66,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "81d6d5d5a4701b8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Процессы и потоки.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e069caac3dcdee4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Тестирование Golang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -142,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Работа с RabbitMQ через golang.md",
+                "file": "Тестирование Golang.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Работа с RabbitMQ через golang.md",
+                "file": "Тестирование Golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Работа с RabbitMQ через golang.md"
+                "file": "Тестирование Golang.md"
               }
             }
           },
@@ -213,10 +237,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "3d20fc8d6988e0a8",
+  "active": "1e069caac3dcdee4",
   "lastOpenFiles": [
-    "Rabbit MQ.md",
+    "Тестирование Golang.md",
+    "Процессы и потоки.md",
+    "Styleguide Golang.md",
+    "многопоточный golang, конкурентность.md",
+    "Запрос на просмотр связей таблицы Postgres.md",
     "Работа с RabbitMQ через golang.md",
+    "Rabbit MQ.md",
     "Маркдаун.md",
     "Разворачивание RabbitMQ в docker-compose.md",
     "Блокировка горутины в Golang без блокировки остальных горутин.md",
@@ -246,11 +275,6 @@
     "Загрузка переменных окружения (env vars) golang.md",
     "Базы данных.md",
     "Чтение и запись Postgres в Go.md",
-    "logrus golang.md",
-    "Выгрузка дампа postgresql.md",
-    "Приведение типов golang.md",
-    "2023-07-19.md",
-    "type switch golang.md",
     "Go библиотека encoding",
     "сервер на net",
     "Без названия 1.canvas",
