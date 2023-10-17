@@ -124,7 +124,7 @@ func TestCreatePerson(t *testing.T) {
 --- FAIL: TestCreatePerson (0.00s)
     work_person_test.go:16:   workperson.Person{
                 Name:      "Dennis",
-                Age:       37,
+                Age:       37cmp.Diff,
         -       DateAdded: s"0001-01-01 00:00:00 +0000 UTC",
         +       DateAdded: s"2023-10-12 17:30:05.956216049 +0300 MSK m=+0.000996680",
           }
@@ -140,5 +140,33 @@ comparer := cmp.Comparer(func(x, y Person) bool {
 	return x.Name == y.Name && x.Age == y.Age
 })
 ```
-330
 
+>[!info] Важно
+>Функция, которую передали в ==cmp.Comparer== должна принимать аргумента одинакового типа и возвращать булево значение. Она так же должна быть __симметричной__ (_не зависящей от порядка параметров_),__детерминированной__ (_
+>всегда возвращающей один и тот же результат для тех же входных данных_) и __чистой__ (_не модифицирующей свои параметры_)
+
+
+Поменяем вызов функции `cmp.Diff()` передав туда пользовательский компаратор:
+```go
+import (
+	"testing"
+
+	cmp "github.com/google/go-cmp/cmp"
+)
+
+func TestCreatePerson(t *testing.T) {
+	expected := Person{
+		Name: "Dennis",
+		Age: 37,
+	}
+
+	comparer := cmp.Comparer(func(x, y Person) bool {
+		return x.Name == y.Name && x.Age == y.Age
+	})
+	
+	result := CreatePerson("Dennis", 37)
+	if diff := cmp.Diff(expected, result, comparer); diff != "" {
+		t.Error(diff)
+	}
+}
+```
