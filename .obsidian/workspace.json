@@ -54,9 +54,41 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6341447717d7e5d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Маркдаун.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c163836f0154f097",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Типы Golang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f58c723c0040553",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -130,7 +162,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Тестирование Golang.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +178,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Тестирование Golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +199,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Тестирование Golang.md"
-              }
+              "state": {}
             }
           },
           {
@@ -201,12 +229,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "ef782a6c853e0625",
+  "active": "5f58c723c0040553",
   "lastOpenFiles": [
+    "Приведение типов golang.md",
+    "Типы Golang.md",
+    "Маркдаун.md",
+    "switch golang.md",
+    "Базовый синтаксис Golang.md",
     "Задачи, проекты, планы.md",
     "Тестирование Golang.md",
+    "Pasted image 20231019152521.png",
     "roadmap для golang разработчика junior level.md",
-    "Базовый синтаксис Golang.md",
     "Процессы и потоки.md",
     "Работа с RabbitMQ через golang.md",
     "Декодирование Json в golang.md",
@@ -224,12 +257,8 @@
     "Rabbit MQ.md",
     "Чтение и запись Postgres в Go.md",
     "Многозадачность в Python.md",
-    "switch golang.md",
     "Pasted image 20231006151955.png",
     "Как задавать значения по умолчанию для таблицы Postgres.md",
-    "Команды git.md",
-    "Класс для хранения констант Enum.md",
-    "Базовый синтаксис Python.md",
     "1_Thread_api_1633091567.png",
     "Pasted image 20231006152620.png",
     "Pasted image 20231006152447.png",
@@ -238,7 +267,6 @@
     "Pasted image 20231006152303.png",
     "Pasted image 20231006152233.png",
     "Pasted image 20231006151749.png",
-    "Pasted image 20231005170438.png",
     "Go библиотека encoding",
     "сервер на net",
     "Без названия 1.canvas",
