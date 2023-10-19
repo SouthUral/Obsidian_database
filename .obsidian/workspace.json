@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "348ac2223e9ab554",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Блокировка горутины в Golang без блокировки остальных горутин.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f45e2c2f5f0ed394",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rabbit MQ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ced3d73ba78ee03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Маркдаун.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d27ecdbce34aad72",
             "type": "leaf",
             "state": {
@@ -56,55 +20,42 @@
             }
           },
           {
-            "id": "3d20fc8d6988e0a8",
+            "id": "a350727f32f57d00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Работа с RabbitMQ через golang.md",
+                "file": "Базовый синтаксис Golang.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "81d6d5d5a4701b8e",
+            "id": "04f8856d925d1da0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Процессы и потоки.md",
+                "file": "roadmap для golang разработчика junior level.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1e069caac3dcdee4",
+            "id": "ef782a6c853e0625",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Задачи, проекты, планы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31b9e0331ce15bcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Чтение и запись Postgres в Go.md",
+                "file": "Тестирование Golang.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -251,11 +202,16 @@
   },
   "active": "d27ecdbce34aad72",
   "lastOpenFiles": [
+    "roadmap для golang разработчика junior level.md",
+    "Тестирование Golang.md",
+    "Задачи, проекты, планы.md",
+    "Базовый синтаксис Golang.md",
+    "Процессы и потоки.md",
+    "Работа с RabbitMQ через golang.md",
     "Декодирование Json в golang.md",
     "Вопросы на собеседовании golang разработчика.md",
     "Выгрузка дампа postgresql.md",
     "Загрузка переменных окружения (env vars) golang.md",
-    "Задачи, проекты, планы.md",
     "Запрос на обновление записи в PostgreSQL.md",
     "Запрос на получение структуры таблицы Postgres.md",
     "Запрос на просмотр связей таблицы Postgres.md",
@@ -265,8 +221,6 @@
     "Итератор.md",
     "Итерация.md",
     "Rabbit MQ.md",
-    "Работа с RabbitMQ через golang.md",
-    "Процессы и потоки.md",
     "Чтение и запись Postgres в Go.md",
     "Многозадачность в Python.md",
     "switch golang.md",
@@ -275,10 +229,7 @@
     "Команды git.md",
     "Класс для хранения констант Enum.md",
     "Базовый синтаксис Python.md",
-    "2023-09-25.md",
     "1_Thread_api_1633091567.png",
-    "сервер на net/http golang сервер.md",
-    "().md",
     "Pasted image 20231006152620.png",
     "Pasted image 20231006152447.png",
     "Pasted image 20231006152410.png",
