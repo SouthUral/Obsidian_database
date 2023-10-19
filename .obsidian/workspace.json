@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -129,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Задачи, проекты, планы.md",
+                "file": "Тестирование Golang.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Задачи, проекты, планы.md",
+                "file": "Тестирование Golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Задачи, проекты, планы.md"
+                "file": "Тестирование Golang.md"
               }
             }
           },
@@ -200,11 +201,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "d27ecdbce34aad72",
+  "active": "ef782a6c853e0625",
   "lastOpenFiles": [
-    "roadmap для golang разработчика junior level.md",
-    "Тестирование Golang.md",
     "Задачи, проекты, планы.md",
+    "Тестирование Golang.md",
+    "roadmap для golang разработчика junior level.md",
     "Базовый синтаксис Golang.md",
     "Процессы и потоки.md",
     "Работа с RabbitMQ через golang.md",
