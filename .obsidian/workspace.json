@@ -83,12 +83,28 @@
             "id": "5f58c723c0040553",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "многопоточный golang, конкурентность.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6a3fb094f3486f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Паттерны конкурентного программирования в Go.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -162,6 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Паттерны конкурентного программирования в Go.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,6 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Паттерны конкурентного программирования в Go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +217,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Паттерны конкурентного программирования в Go.md"
+              }
             }
           },
           {
@@ -229,14 +249,16 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "5f58c723c0040553",
+  "active": "c6a3fb094f3486f4",
   "lastOpenFiles": [
+    "Паттерны конкурентного программирования в Go.md",
+    "многопоточный golang, конкурентность.md",
+    "Задачи, проекты, планы.md",
     "Приведение типов golang.md",
     "Типы Golang.md",
     "Маркдаун.md",
     "switch golang.md",
     "Базовый синтаксис Golang.md",
-    "Задачи, проекты, планы.md",
     "Тестирование Golang.md",
     "Pasted image 20231019152521.png",
     "roadmap для golang разработчика junior level.md",
@@ -256,9 +278,7 @@
     "Итерация.md",
     "Rabbit MQ.md",
     "Чтение и запись Postgres в Go.md",
-    "Многозадачность в Python.md",
     "Pasted image 20231006151955.png",
-    "Как задавать значения по умолчанию для таблицы Postgres.md",
     "1_Thread_api_1633091567.png",
     "Pasted image 20231006152620.png",
     "Pasted image 20231006152447.png",
