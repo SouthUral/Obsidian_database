@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Проект по ведению задач.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef782a6c853e0625",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Задачи, проекты, планы.md",
                 "mode": "source",
                 "source": false
@@ -32,67 +44,19 @@
             }
           },
           {
-            "id": "04f8856d925d1da0",
+            "id": "dcd7a3447ce2fb15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roadmap для golang разработчика junior level.md",
+                "file": "Каналы golang.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ef782a6c853e0625",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Тестирование Golang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6341447717d7e5d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Маркдаун.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c163836f0154f097",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Типы Golang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f58c723c0040553",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "многопоточный golang, конкурентность.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6a3fb094f3486f4",
+            "id": "de146ed329a814c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -102,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "183ac4ce64e8711d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Маркдаун.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -178,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Паттерны конкурентного программирования в Go.md",
+                "file": "Каналы golang.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Паттерны конкурентного программирования в Go.md",
+                "file": "Каналы golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Паттерны конкурентного программирования в Go.md"
+                "file": "Каналы golang.md"
               }
             }
           },
@@ -249,19 +225,25 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "c6a3fb094f3486f4",
+  "active": "dcd7a3447ce2fb15",
   "lastOpenFiles": [
     "Паттерны конкурентного программирования в Go.md",
+    "Блокировка горутины в Golang без блокировки остальных горутин.md",
     "многопоточный golang, конкурентность.md",
-    "Задачи, проекты, планы.md",
-    "Приведение типов golang.md",
-    "Типы Golang.md",
     "Маркдаун.md",
-    "switch golang.md",
+    "Чтение и запись Postgres в Go.md",
+    "Каналы golang.md",
+    "Pasted image 20231024160300.png",
+    "Задачи, проекты, планы.md",
+    "Проект по ведению задач.md",
     "Базовый синтаксис Golang.md",
+    "Текущие задачи.md",
     "Тестирование Golang.md",
-    "Pasted image 20231019152521.png",
     "roadmap для golang разработчика junior level.md",
+    "Типы Golang.md",
+    "Приведение типов golang.md",
+    "switch golang.md",
+    "Pasted image 20231019152521.png",
     "Процессы и потоки.md",
     "Работа с RabbitMQ через golang.md",
     "Декодирование Json в golang.md",
@@ -273,11 +255,6 @@
     "Запрос на просмотр связей таблицы Postgres.md",
     "Запросы в PostgreSQL.md",
     "запуск программы без указания пути linux.md",
-    "Изменение предыдущего коммита.md",
-    "Итератор.md",
-    "Итерация.md",
-    "Rabbit MQ.md",
-    "Чтение и запись Postgres в Go.md",
     "Pasted image 20231006151955.png",
     "1_Thread_api_1633091567.png",
     "Pasted image 20231006152620.png",
@@ -286,7 +263,6 @@
     "Pasted image 20231006152331.png",
     "Pasted image 20231006152303.png",
     "Pasted image 20231006152233.png",
-    "Pasted image 20231006151749.png",
     "Go библиотека encoding",
     "сервер на net",
     "Без названия 1.canvas",
