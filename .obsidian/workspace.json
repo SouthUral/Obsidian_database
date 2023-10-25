@@ -32,24 +32,24 @@
             }
           },
           {
-            "id": "9b64e59f6c01482d",
+            "id": "2d5cd81053e942ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Текущие задачи.md",
+                "file": "Задачи, проекты, планы.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7b588028c80f07eb",
+            "id": "9a855081e5e4f813",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проект по ведению задач.md",
+                "file": "Паттерны конкурентного программирования в Go.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Проект по ведению задач.md",
+                "file": "Паттерны конкурентного программирования в Go.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Проект по ведению задач.md",
+                "file": "Паттерны конкурентного программирования в Go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Проект по ведению задач.md"
+                "file": "Паттерны конкурентного программирования в Go.md"
               }
             }
           },
@@ -201,18 +201,19 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7b588028c80f07eb",
+  "active": "9a855081e5e4f813",
   "lastOpenFiles": [
     "Каналы golang.md",
-    "Паттерны конкурентного программирования в Go.md",
+    "Задачи, проекты, планы.md",
     "Текущие задачи.md",
+    "Паттерны конкурентного программирования в Go.md",
+    "Pasted image 20231025121804.png",
     "Проект по ведению задач.md",
     "Маркдаун.md",
     "Блокировка горутины в Golang без блокировки остальных горутин.md",
     "многопоточный golang, конкурентность.md",
     "Чтение и запись Postgres в Go.md",
     "Pasted image 20231024160300.png",
-    "Задачи, проекты, планы.md",
     "Базовый синтаксис Golang.md",
     "Тестирование Golang.md",
     "roadmap для golang разработчика junior level.md",
@@ -230,7 +231,6 @@
     "Запрос на получение структуры таблицы Postgres.md",
     "Запрос на просмотр связей таблицы Postgres.md",
     "Запросы в PostgreSQL.md",
-    "запуск программы без указания пути linux.md",
     "Pasted image 20231006151955.png",
     "1_Thread_api_1633091567.png",
     "Pasted image 20231006152620.png",
@@ -238,7 +238,6 @@
     "Pasted image 20231006152410.png",
     "Pasted image 20231006152331.png",
     "Pasted image 20231006152303.png",
-    "Pasted image 20231006152233.png",
     "Go библиотека encoding",
     "сервер на net",
     "Без названия 1.canvas",

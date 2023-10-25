@@ -34,3 +34,69 @@ func searchData(s string, searchers []func(string) []string) []string {
 
 ### Прекращение выполнения горутины с помощью функции отмены
 ___
+```Go
+func countTo(max int) (<-chan int, func()) {
+	ch := make(chan int)
+	done := make(chan struct{})
+	cancel := func() {
+		close(done)
+	}
+	go func() {
+		for i := 0; i < max; i++ {
+			select {
+			case <-done:
+				break
+			default:
+				ch <- i
+			}
+		}
+		close(ch)
+		return
+	}()
+	return ch, cancel
+}
+
+func main() {
+	ch, cancel := countTo(10)
+	for i := range ch {
+		if i > 5 {
+			break
+		}
+		fmt.Println(i)
+	}
+	cancel()
+}
+```
+Функция `countTo()` создает два канала, канал для возвращения данных и сигнальный канал `done`. Вместо того чтобы возвращать канал `done` напрямую, мы создаем замыкание, которое закрывает канал `done` и возвращаем это замыкание. 
+
+Схематическое представление:
+![[Pasted image 20231025121804.png]]
+
+### Противодавление
+```Go
+type PressureGauge struct {
+	ch chan struct{}
+}
+
+func New(limit int) *PressureGauge {
+	ch := make(chan struct{}, limit)
+	for i := 0; i < limit; i++ {
+		ch <- struct{}{}
+	}
+	return  &PressureGauge{
+		ch: ch
+	}
+}
+
+func (pg *PressureGauge) Process(f func()) error {
+	select {
+	case <- pg.ch:
+		f()
+		pg.ch <- struct{}{}
+		return nil
+	default:
+		return errors.New("no more copacity")
+	}
+}
+```
+Смысл тут такой: с помощью функции `New()` создается структура `PressureGauge` которая будет содержать _буферизованный канал_ c вместимостью `limit`, который будет полностью заполнен пустыми структурами. Далее можно контролировать количество раз, сколько нам нужно чтобы целевая функция выполнялась (в текущем случае это как раз параметр `limit`). Передавая целевую функцию в метод `Process` мы контролируем количество раз, сколько эта функция может быть вызвана, если структуры в `PressureGauge.ch` закончатся, функцию больше нельзя будет вызвать.
