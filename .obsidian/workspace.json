@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d27ecdbce34aad72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Проект по ведению задач.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef782a6c853e0625",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Задачи, проекты, планы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a350727f32f57d00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Базовый синтаксис Golang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dcd7a3447ce2fb15",
             "type": "leaf",
             "state": {
@@ -68,12 +32,24 @@
             }
           },
           {
-            "id": "183ac4ce64e8711d",
+            "id": "9b64e59f6c01482d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Маркдаун.md",
+                "file": "Текущие задачи.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b588028c80f07eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Проект по ведению задач.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Каналы golang.md",
+                "file": "Проект по ведению задач.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Каналы golang.md",
+                "file": "Проект по ведению задач.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Каналы golang.md"
+                "file": "Проект по ведению задач.md"
               }
             }
           },
@@ -225,19 +201,19 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "dcd7a3447ce2fb15",
+  "active": "7b588028c80f07eb",
   "lastOpenFiles": [
+    "Каналы golang.md",
     "Паттерны конкурентного программирования в Go.md",
+    "Текущие задачи.md",
+    "Проект по ведению задач.md",
+    "Маркдаун.md",
     "Блокировка горутины в Golang без блокировки остальных горутин.md",
     "многопоточный golang, конкурентность.md",
-    "Маркдаун.md",
     "Чтение и запись Postgres в Go.md",
-    "Каналы golang.md",
     "Pasted image 20231024160300.png",
     "Задачи, проекты, планы.md",
-    "Проект по ведению задач.md",
     "Базовый синтаксис Golang.md",
-    "Текущие задачи.md",
     "Тестирование Golang.md",
     "roadmap для golang разработчика junior level.md",
     "Типы Golang.md",
