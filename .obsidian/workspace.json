@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Вопросы на собеседовании golang разработчика.md",
+                "file": "Паттерны конкурентного программирования в Go.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Вопросы на собеседовании golang разработчика.md",
+                "file": "Паттерны конкурентного программирования в Go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Вопросы на собеседовании golang разработчика.md"
+                "file": "Паттерны конкурентного программирования в Go.md"
               }
             }
           },
@@ -213,10 +213,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "463e589408669575",
+  "active": "9a855081e5e4f813",
   "lastOpenFiles": [
-    "Паттерны конкурентного программирования в Go.md",
     "Каналы golang.md",
+    "Паттерны конкурентного программирования в Go.md",
+    "Вопросы на собеседовании golang разработчика.md",
+    "Выгрузка дампа postgresql.md",
     "Задачи, проекты, планы.md",
     "Текущие задачи.md",
     "Pasted image 20231025121804.png",
@@ -236,8 +238,6 @@
     "Процессы и потоки.md",
     "Работа с RabbitMQ через golang.md",
     "Декодирование Json в golang.md",
-    "Вопросы на собеседовании golang разработчика.md",
-    "Выгрузка дампа postgresql.md",
     "Загрузка переменных окружения (env vars) golang.md",
     "Запрос на обновление записи в PostgreSQL.md",
     "Запрос на получение структуры таблицы Postgres.md",
