@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "Postgres",
+  "search": "Rabbit",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 13.4375,
   "linkStrength": 1,
   "linkDistance": 267,
-  "scale": 0.5244895540824929,
+  "scale": 1.7701522450284137,
   "close": true
 }
