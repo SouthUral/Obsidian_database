@@ -125,7 +125,7 @@ services:
   image: rabbitmq:3.13-rc-management
   hostname: rabbitmq
   restart: always
-  enviroment:
+  environment:
    - RABBITMQ_DEFAULT_USER=test_user
    - RABBITMQ_DEFAULT_PASS=rmpassword
    - RABBITMQ_SERVER_ADDITIONAL_ERL_ARGS=-rabbit log_levels [{connection,error},{default,error}] disk_free_limit 2147483648

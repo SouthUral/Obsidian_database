@@ -20,3 +20,8 @@ git branch -d имя_ветки
 ```shell
 git checkout -b имя_ветки
 ```
+
+#### Переименование удаленного репозитория (локально)
+```Shell
+git remote rename old_name new_name
+```

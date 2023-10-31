@@ -20,84 +20,12 @@
             }
           },
           {
-            "id": "de146ed329a814c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Паттерны конкурентного программирования в Go.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2d5cd81053e942ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Задачи, проекты, планы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a855081e5e4f813",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Паттерны конкурентного программирования в Go.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "463e589408669575",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Вопросы на собеседовании golang разработчика.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3136f642cbd8019",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rabbit MQ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29749b0a4238a989",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Система отправки событий.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea1e388e15d7bc8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Задачи, проекты, планы.md",
+                "file": "Особенности проброса ip локальной БД в docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,14 +37,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проекты.md",
+                "file": "команды docker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eacca9d2d927408f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Команды git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a9131081430b16d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Загрузка переменных окружения (env vars) golang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c5d3848cb27193a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Работа с RabbitMQ через golang.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -190,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Система отправки событий.md",
+                "file": "Работа с RabbitMQ через golang.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Система отправки событий.md",
+                "file": "Работа с RabbitMQ через golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Система отправки событий.md"
+                "file": "Работа с RabbitMQ через golang.md"
               }
             }
           },
@@ -261,15 +225,25 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "29749b0a4238a989",
+  "active": "2c5d3848cb27193a",
   "lastOpenFiles": [
+    "Базовый синтаксис Golang.md",
+    "Загрузка переменных окружения (env vars) golang.md",
     "Rabbit MQ.md",
+    "Особенности проброса ip локальной БД в docker.md",
+    "linux.md",
+    "запуск программы без указания пути linux.md",
     "Система отправки событий.md",
+    "Вопросы на собеседовании golang разработчика.md",
+    "команды docker.md",
+    "Команды git.md",
     "Задачи, проекты, планы.md",
-    "Проекты.md",
     "Каналы golang.md",
     "Паттерны конкурентного программирования в Go.md",
-    "Вопросы на собеседовании golang разработчика.md",
+    "Разворачивание RabbitMQ в docker-compose.md",
+    "Команды docker-compose.md",
+    "Работа с несколькими репозиториями в GIT.md",
+    "Проекты.md",
     "Выгрузка дампа postgresql.md",
     "Текущие задачи.md",
     "Pasted image 20231025121804.png",
@@ -279,19 +253,9 @@
     "многопоточный golang, конкурентность.md",
     "Чтение и запись Postgres в Go.md",
     "Pasted image 20231024160300.png",
-    "Базовый синтаксис Golang.md",
     "Тестирование Golang.md",
     "roadmap для golang разработчика junior level.md",
-    "Типы Golang.md",
-    "Приведение типов golang.md",
-    "switch golang.md",
     "Pasted image 20231019152521.png",
-    "Процессы и потоки.md",
-    "Работа с RabbitMQ через golang.md",
-    "Декодирование Json в golang.md",
-    "Загрузка переменных окружения (env vars) golang.md",
-    "Запрос на обновление записи в PostgreSQL.md",
-    "Запрос на получение структуры таблицы Postgres.md",
     "Pasted image 20231006151955.png",
     "1_Thread_api_1633091567.png",
     "Pasted image 20231006152620.png",
