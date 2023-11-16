@@ -11,8 +11,12 @@
             "id": "dcd7a3447ce2fb15",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Каналы golang.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -38,9 +42,56 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "070cff57656ec88e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gRPC golang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aac0cb7f3af034ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "logrus golang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0cf62e373746678",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Базовый синтаксис Golang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c5242ce377ea4f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Модули Golang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protobuf синтаксис.md",
+                "file": "Каналы golang.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protobuf синтаксис.md",
+                "file": "Каналы golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protobuf синтаксис.md"
+                "file": "Каналы golang.md"
               }
             }
           },
@@ -168,7 +219,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -184,13 +236,18 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "393435113612e27c",
+  "active": "dcd7a3447ce2fb15",
   "lastOpenFiles": [
+    "Protobuf синтаксис.md",
+    "gRPC golang.md",
+    "Модули Golang.md",
+    "Пакеты Golang.md",
+    "Базовый синтаксис Golang.md",
+    "logrus golang.md",
+    "Логирование в golang.md",
     "gRPC.md",
     "IPC.md",
     "Особенности проброса ip локальной БД в docker.md",
-    "Protobuf синтаксис.md",
-    "gRPC golang.md",
     "Каналы golang.md",
     "команды docker.md",
     "Команды git.md",
@@ -202,16 +259,11 @@
     "многопоточный golang, конкурентность.md",
     "Запрос на обновление записи в PostgreSQL.md",
     "Запросы в PostgreSQL.md",
-    "Базовый синтаксис Golang.md",
     "Паттерны конкурентного программирования в Go.md",
     "json Go.md",
     "Декодирование Json в golang.md",
     "linux.md",
     "запуск программы без указания пути linux.md",
-    "Система отправки событий.md",
-    "Вопросы на собеседовании golang разработчика.md",
-    "Задачи, проекты, планы.md",
-    "Разворачивание RabbitMQ в docker-compose.md",
     "Pasted image 20231025121804.png",
     "Pasted image 20231024160300.png",
     "Pasted image 20231019152521.png",
