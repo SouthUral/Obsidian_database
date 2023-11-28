@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Каналы golang.md",
+                "file": "Базовый синтаксис Golang.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gRPC.md",
+                "file": "Задачи на 27.11.2023 - 27.12.2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protobuf синтаксис.md",
+                "file": "Задачи, проекты, планы.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +90,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d53a3cc3d443e05e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Каналы golang.md",
+                "file": "Задачи на 27.11.2023 - 27.12.2023.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Каналы golang.md",
+                "file": "Задачи на 27.11.2023 - 27.12.2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Каналы golang.md"
+                "file": "Задачи на 27.11.2023 - 27.12.2023.md"
               }
             }
           },
@@ -236,34 +245,34 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "dcd7a3447ce2fb15",
+  "active": "2d5cd81053e942ed",
   "lastOpenFiles": [
+    "Базовый синтаксис Golang.md",
+    "Задачи на 27.11.2023 - 27.12.2023.md",
+    "Процессы и потоки.md",
+    "Задачи, проекты, планы.md",
+    "Вопросы на собеседовании golang разработчика.md",
+    "Общие вопросы на собеседовании.md",
+    "gRPC.md",
     "Protobuf синтаксис.md",
+    "многопоточный golang, конкурентность.md",
+    "Кодирование и запись в json golang.md",
+    "Каналы golang.md",
     "gRPC golang.md",
     "Модули Golang.md",
     "Пакеты Golang.md",
-    "Базовый синтаксис Golang.md",
     "logrus golang.md",
     "Логирование в golang.md",
-    "gRPC.md",
     "IPC.md",
     "Особенности проброса ip локальной БД в docker.md",
-    "Каналы golang.md",
     "команды docker.md",
     "Команды git.md",
     "Загрузка переменных окружения (env vars) golang.md",
-    "Кодирование и запись в json golang.md",
     "Rabbit MQ.md",
     "Работа с RabbitMQ через golang.md",
     "2023-11-13.md",
-    "многопоточный golang, конкурентность.md",
     "Запрос на обновление записи в PostgreSQL.md",
     "Запросы в PostgreSQL.md",
-    "Паттерны конкурентного программирования в Go.md",
-    "json Go.md",
-    "Декодирование Json в golang.md",
-    "linux.md",
-    "запуск программы без указания пути linux.md",
     "Pasted image 20231025121804.png",
     "Pasted image 20231024160300.png",
     "Pasted image 20231019152521.png",
