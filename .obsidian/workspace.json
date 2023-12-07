@@ -59,12 +59,27 @@
             "id": "d53a3cc3d443e05e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Процессы и потоки.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b73007f57180f2d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "многопоточный golang, конкурентность.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Система отправки событий.md",
+                "file": "Вопросы на собеседовании golang разработчика.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Система отправки событий.md",
+                "file": "Вопросы на собеседовании golang разработчика.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Система отправки событий.md"
+                "file": "Вопросы на собеседовании golang разработчика.md"
               }
             }
           },
@@ -201,44 +216,44 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "aac0cb7f3af034ae",
+  "active": "2d5cd81053e942ed",
   "lastOpenFiles": [
+    "Базовый синтаксис Golang.md",
+    "многопоточный golang, конкурентность.md",
+    "Паттерны конкурентного программирования в Go.md",
+    "Процессы и потоки.md",
+    "Модули Golang.md",
+    "Система отправки событий.md",
     "Задачи, проекты, планы.md",
     "Задачи на 27.11.2023 - 27.12.2023.md",
-    "Базовый синтаксис Golang.md",
     "Вопросы на собеседовании golang разработчика.md",
     "gRPC golang.md",
     "logrus golang.md",
     "2023-09-25.md",
     "Текущие задачи.md",
     "Общие вопросы на собеседовании.md",
-    "Система отправки событий.md",
     "Kafka.md",
     "Pasted image 20231129110446.png",
     "Pasted image 20231129105527.png",
     "Rabbit MQ.md",
     "Брокеры сообщений.md",
     "Технологии.md",
-    "Процессы и потоки.md",
     "gRPC.md",
     "Protobuf синтаксис.md",
-    "многопоточный golang, конкурентность.md",
     "Кодирование и запись в json golang.md",
     "Каналы golang.md",
-    "Модули Golang.md",
     "Пакеты Golang.md",
     "Логирование в golang.md",
     "IPC.md",
     "Особенности проброса ip локальной БД в docker.md",
-    "команды docker.md",
     "Pasted image 20231025121804.png",
     "Pasted image 20231024160300.png",
     "Pasted image 20231019152521.png",
