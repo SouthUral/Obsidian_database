@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "08ec6ea1efb2f2af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Консольные команды для Golang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Система отправки событий.md",
+                "file": "Консольные команды для Golang.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Система отправки событий.md",
+                "file": "Консольные команды для Golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Система отправки событий.md"
+                "file": "Консольные команды для Golang.md"
               }
             }
           },
@@ -190,16 +202,16 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "aac0cb7f3af034ae",
+  "active": "08ec6ea1efb2f2af",
   "lastOpenFiles": [
+    "Базовый синтаксис Golang.md",
+    "Система отправки событий.md",
     "Состояния гонки - race condition.md",
     "Контекст golang.md",
     "Pasted image 20231215113935.png",
     "многопоточный golang, конкурентность.md",
     "Тестирование Golang.md",
-    "Базовый синтаксис Golang.md",
     "Каналы golang.md",
-    "Система отправки событий.md",
     "Процессы и потоки.md",
     "Кодирование и запись в json golang.md",
     "Паттерны конкурентного программирования в Go.md",
