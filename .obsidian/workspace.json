@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Паттерны конкурентного программирования в Go.md",
+                "file": "Планирование Январь 2024.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "c6cff3f952509304",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
               }
             }
           },
@@ -49,14 +59,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Консольные команды для Golang.md",
+                "file": "Базовый синтаксис Golang.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Консольные команды для Golang.md",
+                "file": "Планирование Январь 2024.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Консольные команды для Golang.md",
+                "file": "Планирование Январь 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Консольные команды для Golang.md"
+                "file": "Планирование Январь 2024.md"
               }
             }
           },
@@ -181,12 +190,13 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,23 +212,28 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "08ec6ea1efb2f2af",
+  "active": "2d5cd81053e942ed",
   "lastOpenFiles": [
-    "Базовый синтаксис Golang.md",
-    "Система отправки событий.md",
-    "Состояния гонки - race condition.md",
+    "Задачи, проекты, планы.md",
+    "Планирование Январь 2024.md",
+    "Проект по ведению задач.md",
+    "Тестирование Golang.md",
+    "Паттерны конкурентного программирования в Go.md",
+    "Каналы golang.md",
+    "Работа с PostgreSQL через Python.md",
     "Контекст golang.md",
+    "Базовый синтаксис Golang.md",
+    "().md",
+    "Система отправки событий.md",
+    "Консольные команды для Golang.md",
+    "Состояния гонки - race condition.md",
     "Pasted image 20231215113935.png",
     "многопоточный golang, конкурентность.md",
-    "Тестирование Golang.md",
-    "Каналы golang.md",
     "Процессы и потоки.md",
     "Кодирование и запись в json golang.md",
-    "Паттерны конкурентного программирования в Go.md",
     "Golang.md",
     "Модули Golang.md",
     "Вопросы на собеседовании golang разработчика.md",
-    "Задачи, проекты, планы.md",
     "Задачи на 27.11.2023 - 27.12.2023.md",
     "gRPC golang.md",
     "logrus golang.md",
@@ -228,10 +243,6 @@
     "Kafka.md",
     "Pasted image 20231129110446.png",
     "Pasted image 20231129105527.png",
-    "Rabbit MQ.md",
-    "Брокеры сообщений.md",
-    "Технологии.md",
-    "gRPC.md",
     "Pasted image 20231025121804.png",
     "Pasted image 20231024160300.png",
     "Pasted image 20231019152521.png",
