@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Планирование Январь 2024.md",
+                "file": "Мои заметки.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "многопоточный golang, конкурентность.md",
+                "file": "Работа с RabbitMQ через golang.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Планирование Январь 2024.md",
+                "file": "Работа с RabbitMQ через golang.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Планирование Январь 2024.md",
+                "file": "Работа с RabbitMQ через golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Планирование Январь 2024.md"
+                "file": "Работа с RabbitMQ через golang.md"
               }
             }
           },
@@ -212,10 +213,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "2d5cd81053e942ed",
+  "active": "070cff57656ec88e",
   "lastOpenFiles": [
-    "Задачи, проекты, планы.md",
+    "многопоточный golang, конкурентность.md",
+    "Мои заметки.md",
     "Планирование Январь 2024.md",
+    "Задачи, проекты, планы.md",
     "Проект по ведению задач.md",
     "Тестирование Golang.md",
     "Паттерны конкурентного программирования в Go.md",
@@ -228,7 +231,6 @@
     "Консольные команды для Golang.md",
     "Состояния гонки - race condition.md",
     "Pasted image 20231215113935.png",
-    "многопоточный golang, конкурентность.md",
     "Процессы и потоки.md",
     "Кодирование и запись в json golang.md",
     "Golang.md",
@@ -240,7 +242,6 @@
     "2023-09-25.md",
     "Текущие задачи.md",
     "Общие вопросы на собеседовании.md",
-    "Kafka.md",
     "Pasted image 20231129110446.png",
     "Pasted image 20231129105527.png",
     "Pasted image 20231025121804.png",
