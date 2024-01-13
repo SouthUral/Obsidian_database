@@ -27,3 +27,5 @@ type TeamScores map[string]Score
 >>реализацию для всех объявленных в нем методов.
 
 В ==Golang== все типы являются либо _абстрактными_ либо _конкретными_.
+
+[Видео по интерфейсам](https://www.youtube.com/watch?v=vR-UVn-5AOs&t=10s)
