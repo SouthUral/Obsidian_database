@@ -18,3 +18,5 @@ printenv USER
 ```shell
 env VAR1="value VAR1"
 ```
+
+## Перемещение файла
