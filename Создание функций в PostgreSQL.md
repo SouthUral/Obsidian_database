@@ -73,3 +73,31 @@ $$ LANGUAGE plpgsql;
 SELECT * FROM sh_disp.add_session(1, 2, 3.14, 4, '2022-01-01 12:00:00');
 ```
 Этот запрос добавит новую запись в таблицу ==sh_disp.driver_sessions== с указанными значениями ==object_id==, ==driver_id==, ==av_speed==, ==offset_mess== и ==mess_date==, а затем вернет таблицу с результатом запроса, содержащую столбец ==id_session==.
+
+Еще пример из практики
+```sql
+CREATE OR REPLACE FUNCTION device.get_offset()
+RETURNS INTEGER AS $$
+declare offset int;
+begin
+	select m.id_offset into offset
+	from device.messages as m
+	order by m.id desc
+	limit 1;
+	return offset;
+END;
+$$ LANGUAGE plpgsql;
+```
+
+```sql
+CREATE OR REPLACE FUNCTION device.write_message(
+message bytea,
+offset_id integer
+)
+RETURNS void AS $$
+BEGIN
+	INSERT INTO device.messages (id_offset, message)
+	VALUES (offset_id, message);
+END;
+$$ LANGUAGE plpgsql;
+```

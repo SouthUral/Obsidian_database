@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Разворачивание RabbitMQ в docker-compose.md",
+                "file": "Работа с RabbitMQ через golang.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,50 +25,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Выгрузка дампа postgresql.md",
+                "file": "Базовый синтаксис Golang.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fa131fe7ff0e5c59",
+            "id": "e86212cc042047da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "консольные команды linux.md",
+                "file": "работа с ошибками в Go.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "24792b921c2ba509",
+            "id": "8f88174f092eeb94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "logrus golang.md",
+                "file": "Чистая архитектура в Golang.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "463ded03e302f12b",
+            "id": "7e644c60d10d1f1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Консольные команды для Golang.md",
+                "file": "Структура приложения Golang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ab310d840fd0ccd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Каналы golang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03ab54a125112399",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Проекты.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -143,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logrus golang.md",
+                "file": "Структура приложения Golang.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "logrus golang.md",
+                "file": "Структура приложения Golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "logrus golang.md"
+                "file": "Структура приложения Golang.md"
               }
             }
           },
@@ -200,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -208,44 +232,44 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "24792b921c2ba509",
+  "active": "7e644c60d10d1f1d",
   "lastOpenFiles": [
+    "Проекты.md",
+    "Каналы golang.md",
+    "Структура приложения Golang.md",
+    "Чистая архитектура в Golang.md",
+    "Golang.md",
+    "Go.md",
+    "работа с ошибками в Go.md",
+    "Базовый синтаксис Golang.md",
+    "Разворачивание RabbitMQ в docker-compose.md",
+    "Создание функций в PostgreSQL.md",
+    "Разворачивание Go сервиса в Docker.md",
+    "разворачивание  postgreSQL через docker-compose.md",
+    "Работа с RabbitMQ через golang.md",
+    "Выгрузка дампа postgresql.md",
+    "Rabbit MQ.md",
+    "Как создавать таблицы в Postgres.md",
     "Консольные команды для Golang.md",
     "консольные команды linux.md",
+    "PostgreSQL.md",
     "logrus golang.md",
     "Особенности проброса ip локальной БД в docker.md",
-    "Выгрузка дампа postgresql.md",
-    "Разворачивание RabbitMQ в docker-compose.md",
     "docker-compose.md",
     "linux.md",
     "Базы данных.md",
-    "PostgreSQL.md",
     "Маркдаун.md",
     "Система отправки событий.md",
-    "Базовый синтаксис Golang.md",
-    "Архитектура REST.md",
-    "многопоточный golang, конкурентность.md",
     "Pasted image 20240115133351.png",
     "Pasted image 20240113194705.png",
-    "Задачи, проекты, планы.md",
-    "Работа с RabbitMQ через golang.md",
-    "Типы Golang.md",
-    "Мои заметки.md",
-    "Типы Golang, Интерфесы.md",
-    "Планирование Январь 2024.md",
-    "Проект по ведению задач.md",
-    "Тестирование Golang.md",
-    "Паттерны конкурентного программирования в Go.md",
-    "Каналы golang.md",
-    "Работа с PostgreSQL через Python.md",
     "Pasted image 20231215113935.png",
     "Pasted image 20231129110446.png",
     "Pasted image 20231129105527.png",

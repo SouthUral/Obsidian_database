@@ -1,6 +1,7 @@
 [[многопоточный golang, конкурентность]]
 
 [ссылка на статью на хабре](https://habr.com/ru/articles/490336/)
+[Видео с канала Николая Тузова](https://www.youtube.com/watch?v=ZTJcaP4G4JM)
 
 ### Что такое канал в Golang
 ___
