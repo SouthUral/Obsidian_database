@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "rabbit",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 13.4375,
   "linkStrength": 1,
   "linkDistance": 267,
-  "scale": 0.15858701651485507,
-  "close": true
+  "scale": 0.8618836365217472,
+  "close": false
 }

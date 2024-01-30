@@ -8,91 +8,122 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f69236a587940ee8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Работа с RabbitMQ через golang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32fd654bab8ab72a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Базовый синтаксис Golang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e86212cc042047da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "работа с ошибками в Go.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f88174f092eeb94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Чистая архитектура в Golang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e644c60d10d1f1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Структура приложения Golang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ab310d840fd0ccd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Каналы golang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "03ab54a125112399",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проекты.md",
+                "file": "проекты.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "744d9d8d6de4ae4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "команды docker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee9ce131d7be57af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RabbitMQ streams.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c02e8684f13e782f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RabbitMQ streams.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "287551d9aae01120",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "agg-data-per-shift.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6fa30eb199e780d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dataview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9bda6e2e53e3fa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Система отправки событий.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
+      },
+      {
+        "id": "130e3d7917dd4b7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33814c0a92439436",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dataview.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31327f2203668ff6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-01-30.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2cbb7cbbc64b7a60",
@@ -167,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Структура приложения Golang.md",
+                "file": "Dataview.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Структура приложения Golang.md",
+                "file": "Dataview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Структура приложения Golang.md"
+                "file": "Dataview.md"
               }
             }
           },
@@ -224,7 +256,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -240,34 +272,34 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7e644c60d10d1f1d",
+  "active": "a6fa30eb199e780d",
   "lastOpenFiles": [
-    "Проекты.md",
+    "2024-01-30.md",
+    "Dataview.md",
+    "agg-data-per-shift.md",
+    "RabbitMQ streams.md",
+    "Система отправки событий.md",
+    "Работа в Golang со stream в RabbitMQ.md",
+    "Задачи, проекты, планы.md",
+    "проекты.md",
+    "команды docker.md",
     "Каналы golang.md",
     "Структура приложения Golang.md",
     "Чистая архитектура в Golang.md",
+    "работа с ошибками в Go.md",
+    "Работа с RabbitMQ через golang.md",
+    "Базовый синтаксис Golang.md",
+    "Rabbit MQ.md",
     "Golang.md",
     "Go.md",
-    "работа с ошибками в Go.md",
-    "Базовый синтаксис Golang.md",
     "Разворачивание RabbitMQ в docker-compose.md",
     "Создание функций в PostgreSQL.md",
     "Разворачивание Go сервиса в Docker.md",
     "разворачивание  postgreSQL через docker-compose.md",
-    "Работа с RabbitMQ через golang.md",
     "Выгрузка дампа postgresql.md",
-    "Rabbit MQ.md",
     "Как создавать таблицы в Postgres.md",
     "Консольные команды для Golang.md",
     "консольные команды linux.md",
-    "PostgreSQL.md",
-    "logrus golang.md",
-    "Особенности проброса ip локальной БД в docker.md",
-    "docker-compose.md",
-    "linux.md",
-    "Базы данных.md",
-    "Маркдаун.md",
-    "Система отправки событий.md",
     "Pasted image 20240115133351.png",
     "Pasted image 20240113194705.png",
     "Pasted image 20231215113935.png",
