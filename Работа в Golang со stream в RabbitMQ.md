@@ -20,6 +20,7 @@ docker run -it --rm --name rabbitmq -p 5552:5552 -p 15672:15672\
 docker exec rabbitmq rabbitmq-plugins enable rabbitmq_stream_management
 ```
 
+## Подключение
 Стандартное подключение:
 ```go
 env, err := stream.NewEnvironment(
@@ -34,4 +35,11 @@ env, err := stream.NewEnvironment(
 ```go
 stream.NewEnvironmentOptions().
 SetMaxProducersPerClient(2))
+```
+
+## Создание stream
+```go
+err = env.DeclareStream(streamName,
+		stream.NewStreamOptions().
+		SetMaxLengthBytes(stream.ByteCapacity{}.GB(2)))
 ```
