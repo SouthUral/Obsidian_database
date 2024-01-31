@@ -19,3 +19,13 @@ docker run -it --rm --name rabbitmq -p 5552:5552 -p 15672:15672\
 ```shell
 docker exec rabbitmq rabbitmq-plugins enable rabbitmq_stream_management
 ```
+
+Стандартное подключение:
+```go
+env, err := stream.NewEnvironment(
+		stream.NewEnvironmentOptions().
+			SetHost("localhost").
+			SetPort(5552).
+			SetUser("guest").
+			SetPassword("guest"))
+```
