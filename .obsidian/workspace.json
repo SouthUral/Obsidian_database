@@ -20,30 +20,6 @@
             }
           },
           {
-            "id": "9dc0e6b066616951",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/work/sync_tables.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "793ddba85968d6fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/work/sync_tables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0e547e3e9880e64b",
             "type": "leaf",
             "state": {
@@ -63,12 +39,12 @@
               "state": {
                 "file": "Home_page.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"

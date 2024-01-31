@@ -11,11 +11,12 @@ banner_y: 0.484
 due today
 not done
 short mode
+sort by priority
 ```
 ## Задачи в работе
 ```tasks
 due today
-in_progress
+
 ```
 ## Завершенные задачи
 ```tasks
