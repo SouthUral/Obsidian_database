@@ -29,3 +29,9 @@ env, err := stream.NewEnvironment(
 			SetUser("guest").
 			SetPassword("guest"))
 ```
+
+Можно указать максимальное количество consumers, по умолчанию стоит 1. Лучше использовать значение по умолчанию.
+```go
+stream.NewEnvironmentOptions().
+SetMaxProducersPerClient(2))
+```
