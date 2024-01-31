@@ -9,13 +9,14 @@ banner_y: 0.484
 ## Незавершенные задачи
 ```tasks
 due today
-filter by function task.status.name == "IN_PROGRESS"
+not done
 short mode
 ```
 ## Задачи в работе
 ```tasks
 due today
-
+filter by function task.status.type === "IN_PROGRESS"
+short mode
 ```
 ## Завершенные задачи
 ```tasks
