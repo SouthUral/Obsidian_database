@@ -62,7 +62,22 @@ committedChunkId, err := statsAfter.CommittedChunkId()
 ```
 
 ## Публикация сообщений в stream
-Определяем отправителя
+Определяем отправителя:
 ```go
 producer, err :=  env.NewProducer("my-stream", nil)
+```
+
+Можно сделать подробное описание отправителя:
+```go
+type ProducerOptions struct {
+	Name       string // имя отправителя
+	QueueSize  int // размер внутренней очереди
+	BatchSize  int // размер пакета
+	BatchPublishingDelay int    // Period to send a batch of messages.
+}
+```
+
+Есть два варианта отправки сообщений:
+```Go
+
 ```
