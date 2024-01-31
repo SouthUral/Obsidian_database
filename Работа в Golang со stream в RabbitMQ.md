@@ -43,3 +43,17 @@ err = env.DeclareStream(streamName,
 		stream.NewStreamOptions().
 		SetMaxLengthBytes(stream.ByteCapacity{}.GB(2)))
 ```
+
+## Получение информации о stream
+Для получение статистики по __stream__ нужно использовать __environment.StreamStats__:
+```go
+stats, err := environment.StreamStats(testStreamName)
+
+// метод для получения первого оффсета из stream
+// вернет ошибку если первого оффсета нет (стрим пустой)
+firstOffset, err := stats.FirstOffset()
+
+// метод для получения последнего оффсета из стрима
+// вернет
+lastOffset, err := stats.LastOffset()
+```
