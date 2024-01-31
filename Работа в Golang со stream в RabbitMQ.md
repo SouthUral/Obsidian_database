@@ -79,5 +79,23 @@ type ProducerOptions struct {
 
 Есть два варианта отправки сообщений:
 ```Go
+// первый вариант
+// отправка одного сообщения
+var message message.StreamMessage
+message = amqp.NewMessage([]byte("hello"))
+err = producer.Send(message)
 
+// второй вариант
+// отправка пакета сообщений
+var messages []message.StreamMessage
+for z := 0; z < 10; z++ {
+  messages = append(messages, amqp.NewMessage([]byte("hello")))
+}
+err = producer.BatchSend(messages)
 ```
+
+## Закрытие отправителя
+```go
+producer.Close()
+```
+ если другого отправителя не будет на этом коннекте то коннект за
