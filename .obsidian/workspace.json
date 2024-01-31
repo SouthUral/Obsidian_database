@@ -4,126 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "42a316e9f1aed55d",
+        "id": "05faafc378e0d198",
         "type": "tabs",
         "children": [
           {
-            "id": "03ab54a125112399",
+            "id": "fffb64ae60c7416f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "проекты.md",
+                "file": "Projects/work/agg-data-per-shift.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "744d9d8d6de4ae4d",
+            "id": "9dc0e6b066616951",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "команды docker.md",
+                "file": "Projects/work/sync_tables.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "793ddba85968d6fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/work/sync_tables.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ee9ce131d7be57af",
+            "id": "0e547e3e9880e64b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RabbitMQ streams.md",
+                "file": "Projects/work/Система отправки событий.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c02e8684f13e782f",
+            "id": "8a0415af29de6c46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RabbitMQ streams.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "287551d9aae01120",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "agg-data-per-shift.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6fa30eb199e780d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dataview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9bda6e2e53e3fa2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Система отправки событий.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "130e3d7917dd4b7b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "33814c0a92439436",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dataview.md",
+                "file": "Home_page.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "31327f2203668ff6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-01-30.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -177,13 +122,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2cbb7cbbc64b7a60",
@@ -199,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dataview.md",
+                "file": "Home_page.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dataview.md",
+                "file": "Home_page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dataview.md"
+                "file": "Home_page.md"
               }
             }
           },
@@ -260,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,47 +213,53 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "a6fa30eb199e780d",
+  "active": "8a0415af29de6c46",
   "lastOpenFiles": [
-    "2024-01-30.md",
-    "Dataview.md",
-    "agg-data-per-shift.md",
-    "RabbitMQ streams.md",
-    "Система отправки событий.md",
-    "Работа в Golang со stream в RabbitMQ.md",
-    "Задачи, проекты, планы.md",
+    "Projects/work/agg-data-per-shift.md",
+    "Projects/work/sync_tables.md",
+    "Projects/work/Система отправки событий.md",
+    "Home_page.md",
     "проекты.md",
+    "Задачи, проекты, планы.md",
+    "banners/premium_photo-1672115680863-9353a690495a.png",
+    "banners/anthony-reungere-s6xt1mwF_iU-unsplash.jpg",
+    "banners/premium_photo-1680582107403-04dfac02efc3.png",
+    "banners",
+    "Dataview.md",
+    "2024-01-30.md",
+    "Блокировка горутины в Golang без блокировки остальных горутин.md",
+    "Projects/health",
+    "Projects/learning",
+    "Projects/work",
+    "Projects",
+    "Библиотеки Python.md",
+    "Базовый синтаксис Python.md",
+    "Базовый синтаксис Golang.md",
+    "асинхронный Python.md",
+    "Архитектура REST.md",
+    "1_Thread_api_1633091567.png",
+    "2023-09-25.md",
+    "2023-11-13.md",
+    "http golang сервер.md",
+    "().md",
+    "RabbitMQ streams.md",
+    "Работа в Golang со stream в RabbitMQ.md",
     "команды docker.md",
     "Каналы golang.md",
     "Структура приложения Golang.md",
     "Чистая архитектура в Golang.md",
     "работа с ошибками в Go.md",
     "Работа с RabbitMQ через golang.md",
-    "Базовый синтаксис Golang.md",
-    "Rabbit MQ.md",
-    "Golang.md",
-    "Go.md",
-    "Разворачивание RabbitMQ в docker-compose.md",
-    "Создание функций в PostgreSQL.md",
-    "Разворачивание Go сервиса в Docker.md",
-    "разворачивание  postgreSQL через docker-compose.md",
-    "Выгрузка дампа postgresql.md",
-    "Как создавать таблицы в Postgres.md",
-    "Консольные команды для Golang.md",
-    "консольные команды linux.md",
     "Pasted image 20240115133351.png",
     "Pasted image 20240113194705.png",
     "Pasted image 20231215113935.png",
     "Pasted image 20231129110446.png",
     "Pasted image 20231129105527.png",
     "Pasted image 20231025121804.png",
-    "Pasted image 20231024160300.png",
-    "Pasted image 20231019152521.png",
-    "Pasted image 20231006151955.png",
-    "1_Thread_api_1633091567.png",
     "Go библиотека encoding",
     "сервер на net",
     "Без названия 1.canvas",

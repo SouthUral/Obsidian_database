@@ -1,4 +1,7 @@
 [
   "obsidian-git",
-  "dataview"
+  "dataview",
+  "obsidian-tasks-plugin",
+  "homepage",
+  "obsidian-banners"
 ]
