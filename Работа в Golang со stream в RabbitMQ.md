@@ -81,12 +81,14 @@ type ProducerOptions struct {
 ```Go
 // первый вариант
 // отправка одного сообщения
+// этот метод медленее но используется чаще и в целом он предпочтительнее
 var message message.StreamMessage
 message = amqp.NewMessage([]byte("hello"))
 err = producer.Send(message)
 
 // второй вариант
 // отправка пакета сообщений
+// отправка производится быстрее
 var messages []message.StreamMessage
 for z := 0; z < 10; z++ {
   messages = append(messages, amqp.NewMessage([]byte("hello")))
@@ -94,8 +96,28 @@ for z := 0; z < 10; z++ {
 err = producer.BatchSend(messages)
 ```
 
+для каждого отправления сервер предоставляет отчет, получил ли он сообщение.
+```go
+chPublishConfirm := producer.NotifyPublishConfirmation()
+handlePublishConfirm(chPublishConfirm)
+
+func handlePublishConfirm(confirms stream.ChannelPublishConfirm) {
+	go func() {
+		for confirmed := range confirms {
+			for _, msg := range confirmed {
+				if msg.IsConfirmed() {
+					fmt.Printf("message %s stored \n  ", msg.GetMessage().GetData())
+				} else {
+					fmt.Printf("message %s failed \n  ", msg.GetMessage().GetData())
+				}
+			}
+		}
+	}()
+}
+```
 ## Закрытие отправителя
 ```go
 producer.Close()
 ```
- если другого отправителя не будет на этом коннекте то коннект за
+ если другого отправителя не будет на этом коннекте то коннект закроется. (надо проверить)
+ 
