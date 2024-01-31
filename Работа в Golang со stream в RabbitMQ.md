@@ -54,6 +54,15 @@ stats, err := environment.StreamStats(testStreamName)
 firstOffset, err := stats.FirstOffset()
 
 // метод для получения последнего оффсета из стрима
-// вернет
+// вернет ошибку если нет сообщений в стриме
 lastOffset, err := stats.LastOffset()
+
+// закомиченный оффсет, пока не ясно что это такое!!!
+committedChunkId, err := statsAfter.CommittedChunkId()
+```
+
+## Публикация сообщений в stream
+Определяем отправителя
+```go
+producer, err :=  env.NewProducer("my-stream", nil)
 ```

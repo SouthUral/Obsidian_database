@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2cbb7cbbc64b7a60",
@@ -193,7 +194,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "bcd8e20913e0e3b5",
+  "active": "f72eb5c3ea6adf3c",
   "lastOpenFiles": [
     "Home_page.md",
     "Projects/work/agg-data-per-shift.md",
