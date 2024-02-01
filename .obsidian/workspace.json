@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Работа в Golang со stream в RabbitMQ.md",
+                "file": "Home_page.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Работа в Golang со stream в RabbitMQ.md",
+                "file": "Home_page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Работа в Golang со stream в RabbitMQ.md"
+                "file": "Home_page.md"
               }
             }
           },
@@ -194,11 +194,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "58c58bac2be1d910",
+  "active": "04f5acbd8b8e7e0e",
   "lastOpenFiles": [
+    "Работа в Golang со stream в RabbitMQ.md",
     "Home_page.md",
     "Projects/work/agg-data-per-shift.md",
-    "Работа в Golang со stream в RabbitMQ.md",
     "Projects/work/Система отправки событий.md",
     "Projects/work/sync_tables.md",
     "проекты.md",
