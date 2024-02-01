@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/learning/Учебные задачи.md",
-                "mode": "preview",
+                "file": "Projects/learning/golang/Golang обучение.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -97,8 +97,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/learning/golang/Golang обучение.md",
-                "mode": "preview",
+                "file": "Projects/learning/golang/Golang задачи.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/learning/golang/Golang обучение.md",
+                "file": "Projects/learning/golang/Golang задачи.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/learning/golang/Golang обучение.md",
+                "file": "Projects/learning/golang/Golang задачи.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/learning/golang/Golang обучение.md"
+                "file": "Projects/learning/golang/Golang задачи.md"
               }
             }
           },
@@ -261,10 +261,12 @@
   },
   "active": "1c2d95e71d568804",
   "lastOpenFiles": [
-    "Базовый синтаксис Golang.md",
     "Projects/learning/golang/Golang обучение.md",
+    "Projects/learning/golang/Golang задачи.md",
     "Projects/learning/Учебные задачи по разработке.md",
     "Projects/learning/Учебные задачи.md",
+    "Projects/work/Рабочие задачи.md",
+    "Базовый синтаксис Golang.md",
     "Home_page.md",
     "Работа с PostgreSQL через Golang.md",
     "Чтение и запись Postgres в Go.md",
@@ -278,7 +280,6 @@
     "banners/banner_go-9b8733250036c66a86bf103fb4a01804.png",
     "banners/banner_go-9b8733250036c66a86bf103fb4a01804.png.crdownload",
     "banners/Deploying-a-Golang-Application-with-Kubernetes.png",
-    "Projects/work/Рабочие задачи.md",
     "banners/ian-dooley-DJ7bWa-Gwks-unsplash.jpg",
     "banners/janko-ferlic-sfL_QOnmy00-unsplash.jpg",
     "Projects/work/agg-data-per-shift.md",
@@ -302,7 +303,6 @@
     "Архитектура REST.md",
     "1_Thread_api_1633091567.png",
     "2023-09-25.md",
-    "2023-11-13.md",
     "Pasted image 20240115133351.png",
     "Go библиотека encoding",
     "сервер на net",
