@@ -1,7 +1,8 @@
 ---
 cssclasses:
   - dashboard
-banner: "![[ian-dooley-DJ7bWa-Gwks-unsplash.jpg]]"
+banner: "![[Deploying-a-Golang-Application-with-Kubernetes.png]]"
+banner_y: 0.368
 ---
 
 # Описание

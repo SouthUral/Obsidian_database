@@ -74,7 +74,7 @@
               "type": "markdown",
               "state": {
                 "file": "Golang обучение.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -231,6 +231,7 @@
   },
   "active": "bf2d3de9f5d40935",
   "lastOpenFiles": [
+    "banners/Deploying-a-Golang-Application-with-Kubernetes.png",
     "Projects/learning/Учебные задачи по разработке.md",
     "Projects/learning/Учебные задачи.md",
     "Golang обучение.md",
@@ -267,7 +268,6 @@
     "().md",
     "RabbitMQ streams.md",
     "команды docker.md",
-    "Каналы golang.md",
     "Pasted image 20240115133351.png",
     "Pasted image 20240113194705.png",
     "Pasted image 20231215113935.png",
