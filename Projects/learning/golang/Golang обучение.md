@@ -15,6 +15,11 @@ tags:
 
 
 # Открытые задачи
+```tasks
+not done
+short mode
+tags include #study #go 
+```
 
 
 # Темы
