@@ -31,11 +31,16 @@ short mode
 due today
 done
 ```
+
+# TasksThisWeek
 ## Открытые задачи неделю
 ```tasks
-has start date
+happens in this week
 ```
-
+## Задачи которые нужно выполнить до конца недели
+```tasks
+cancelled in this week
+```
 # Work
 [[Рабочие задачи]]
 
