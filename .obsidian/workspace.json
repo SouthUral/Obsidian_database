@@ -62,6 +62,18 @@
               "type": "markdown",
               "state": {
                 "file": "Projects/learning/golang/Golang обучение.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a82e440e010bba6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/learning/Учебные задачи по разработке.md",
                 "mode": "source",
                 "source": true
               }
@@ -76,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/learning/golang/Golang задачи.md",
+                "file": "Projects/learning/Учебные задачи по разработке.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/learning/golang/Golang задачи.md",
+                "file": "Projects/learning/Учебные задачи по разработке.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/learning/golang/Golang задачи.md"
+                "file": "Projects/learning/Учебные задачи по разработке.md"
               }
             }
           },
@@ -223,17 +235,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8d2106253ba4b623",
+  "active": "a82e440e010bba6a",
   "lastOpenFiles": [
-    "многопоточный golang, конкурентность.md",
+    "Projects/learning/Учебные задачи.md",
+    "Home_page.md",
     "Projects/learning/golang/Golang обучение.md",
     "Projects/learning/golang/Golang задачи.md",
+    "многопоточный golang, конкурентность.md",
     "Работа в Golang со stream в RabbitMQ.md",
-    "Projects/learning/Учебные задачи.md",
     "Чтение и запись Postgres в Go.md",
     "Работа с PostgreSQL через Golang.md",
     "Projects/learning/Учебные задачи по разработке.md",
-    "Home_page.md",
     "Projects/work/Рабочие задачи.md",
     "Базовый синтаксис Golang.md",
     "Работа с БД в Golang.md",

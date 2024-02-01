@@ -18,7 +18,7 @@ tags:
 ```tasks
 not done
 short mode
-tags include #study #go 
+tags include #go 
 ```
 
 
