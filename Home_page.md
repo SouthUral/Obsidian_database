@@ -7,7 +7,7 @@ banner_y: 0.484
 # OverdueTasks
 Просроченные задачи
 ```tasks
-due yersterday
+due yesterday
 ```
 
 # AllTasksToday
