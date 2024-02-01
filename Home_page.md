@@ -33,10 +33,10 @@ done
 
 
 # Work
+[[Рабочие задачи]]
 
 
-
-# WorkProjects
+## WorkProjects
 ```dataview
 TABLE WITHOUT ID
 	file.link AS "Рабочие проекты",
@@ -57,3 +57,4 @@ FROM #work
 
 
 # EducationalTasks
+[[Учебные задачи]]
