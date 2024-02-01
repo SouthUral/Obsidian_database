@@ -124,9 +124,25 @@ producer.Close()
 ## Consumer
 ```go
 
+handleMessages := func(consumerContext stream.ConsumerContext, message *amqp.Message) {
+		if atomic.AddInt32(&count, 1)%1000 == 0 {
+			fmt.Printf("cousumed %d  messages \n", atomic.LoadInt32(&count))
+			// AVOID to store for each single message, it will reduce the performances
+			// The server keeps the consume tracking using the consumer name
+			err := consumerContext.Consumer.StoreOffset()
+			if err != nil {
+				CheckErr(err)
+			}
+		}
+
+	}
+
 consumer, err := env.NewConsumer(
-	"my_stream",
-	
+		streamName,
+		handleMessages,
+		stream.NewConsumerOptions().
+			SetConsumerName("my_consumer").                  // set a consumer name
+			SetOffset(stream.OffsetSpecification{}.First())) 
 )
 ```
  
