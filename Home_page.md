@@ -13,7 +13,7 @@ due yesterday
 # AllTasksToday
 
 
-## Незавершенные задачи
+## Открытые задачи на день
 ```tasks
 due today
 not done
@@ -31,7 +31,10 @@ short mode
 due today
 done
 ```
-
+## Открытые задачи неделю
+```tasks
+has start date
+```
 
 # Work
 [[Рабочие задачи]]
