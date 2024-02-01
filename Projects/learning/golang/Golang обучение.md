@@ -25,7 +25,9 @@ tags:
 [[http golang сервер]]
 [[Работа с RabbitMQ через golang]]
 [[Работа с Mongo в Golang]]
-[[Чтение и запись Postgres в Go]]
+[[Работа с PostgreSQL через Golang]]
+[[Чистая архитектура в Golang]]
+[[Разворачивание Go сервиса в Docker]]
 ## Изученный материал
 
 ## Темы для изучения
