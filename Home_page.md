@@ -17,6 +17,7 @@ due yesterday
 ```tasks
 due today
 not done
+has tags
 short mode
 ```
 ## Задачи в работе

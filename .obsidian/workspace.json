@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "bcd4c461a961c303",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/work/agg-data-per-shift.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8d2106253ba4b623",
             "type": "leaf",
             "state": {
@@ -74,8 +86,20 @@
               "type": "markdown",
               "state": {
                 "file": "Projects/learning/Учебные задачи по разработке.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "7c30812c8d00c50e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/work/agg-data-per-shift.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -88,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/learning/Учебные задачи по разработке.md",
+                "file": "Projects/work/agg-data-per-shift.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/learning/Учебные задачи по разработке.md",
+                "file": "Projects/work/agg-data-per-shift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/learning/Учебные задачи по разработке.md"
+                "file": "Projects/work/agg-data-per-shift.md"
               }
             }
           },
@@ -235,14 +259,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a82e440e010bba6a",
+  "active": "bcd4c461a961c303",
   "lastOpenFiles": [
-    "Projects/learning/golang/Golang обучение.md",
-    "Projects/work/Рабочие задачи.md",
-    "Projects/learning/golang/Golang задачи.md",
-    "Projects/learning/Учебные задачи по разработке.md",
-    "Projects/learning/Учебные задачи.md",
     "Home_page.md",
+    "Projects/work/Рабочие задачи.md",
+    "Projects/work/agg-data-per-shift.md",
+    "Projects/learning/Учебные задачи по разработке.md",
+    "Projects/learning/golang/Golang обучение.md",
+    "Projects/learning/golang/Golang задачи.md",
+    "Projects/learning/Учебные задачи.md",
     "многопоточный golang, конкурентность.md",
     "Работа в Golang со stream в RabbitMQ.md",
     "Чтение и запись Postgres в Go.md",
@@ -258,7 +283,6 @@
     "banners/Deploying-a-Golang-Application-with-Kubernetes.png",
     "banners/ian-dooley-DJ7bWa-Gwks-unsplash.jpg",
     "banners/janko-ferlic-sfL_QOnmy00-unsplash.jpg",
-    "Projects/work/agg-data-per-shift.md",
     "Projects/work/Система отправки событий.md",
     "Projects/work/sync_tables.md",
     "проекты.md",
