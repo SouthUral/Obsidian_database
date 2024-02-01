@@ -120,4 +120,6 @@ func handlePublishConfirm(confirms stream.ChannelPublishConfirm) {
 producer.Close()
 ```
  если другого отправителя не будет на этом коннекте то коннект закроется. (надо проверить)
+
+
  
