@@ -144,5 +144,8 @@ consumer, err := env.NewConsumer(
 			SetConsumerName("my_consumer").                  // set a consumer name
 			SetOffset(stream.OffsetSpecification{}.First())) 
 )
+
+// закрытие Consumer
+err = consumer.Close()
 ```
  
