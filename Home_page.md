@@ -39,7 +39,7 @@ happens in this week
 ```
 ## Задачи которые нужно выполнить до конца недели
 ```tasks
-cancelled in this week
+scheduled in this week
 ```
 # Work
 [[Рабочие задачи]]
