@@ -121,5 +121,12 @@ producer.Close()
 ```
  если другого отправителя не будет на этом коннекте то коннект закроется. (надо проверить)
 
+## Consumer
+```go
 
+consumer, err := env.NewConsumer(
+	"my_stream",
+	
+)
+```
  
