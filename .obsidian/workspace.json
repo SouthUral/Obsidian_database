@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "05faafc378e0d198",
+        "id": "b4ea756ce2ba07ac",
         "type": "tabs",
         "children": [
           {
-            "id": "fffb64ae60c7416f",
+            "id": "382e6298176fe581",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,26 +20,14 @@
             }
           },
           {
-            "id": "8a0415af29de6c46",
+            "id": "bb27c00e2b6b4b55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Home_page.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bcd8e20913e0e3b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Работа в Golang со stream в RabbitMQ.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -194,11 +182,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8a0415af29de6c46",
+  "active": "bb27c00e2b6b4b55",
   "lastOpenFiles": [
-    "Работа в Golang со stream в RabbitMQ.md",
-    "Home_page.md",
     "Projects/work/agg-data-per-shift.md",
+    "Home_page.md",
+    "Работа в Golang со stream в RabbitMQ.md",
     "Projects/work/Система отправки событий.md",
     "Projects/work/sync_tables.md",
     "проекты.md",

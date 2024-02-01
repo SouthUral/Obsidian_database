@@ -4,7 +4,14 @@ cssclasses:
 banner: "![[premium_photo-1672115680863-9353a690495a.png]]"
 banner_y: 0.484
 ---
+# OverdueTasks
+Просроченные задачи
+```tasks
+due yersterday
+```
+
 # AllTasksToday
+
 
 ## Незавершенные задачи
 ```tasks
