@@ -73,14 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Golang обучение.md",
-                "mode": "preview",
+                "file": "Projects/learning/golang/Golang обучение.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Golang обучение.md",
+                "file": "Projects/learning/Учебные задачи по разработке.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Golang обучение.md",
+                "file": "Projects/learning/Учебные задачи по разработке.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Golang обучение.md"
+                "file": "Projects/learning/Учебные задачи по разработке.md"
               }
             }
           },
@@ -229,13 +229,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "bf2d3de9f5d40935",
+  "active": "00a48d253da9736e",
   "lastOpenFiles": [
+    "Работа в Golang со stream в RabbitMQ.md",
+    "Projects/learning/golang/Golang обучение.md",
+    "Projects/learning/golang",
+    "banners/banner_go-9b8733250036c66a86bf103fb4a01804.png",
+    "banners/banner_go-9b8733250036c66a86bf103fb4a01804.png.crdownload",
     "banners/Deploying-a-Golang-Application-with-Kubernetes.png",
     "Projects/learning/Учебные задачи по разработке.md",
     "Projects/learning/Учебные задачи.md",
-    "Golang обучение.md",
-    "Работа в Golang со stream в RabbitMQ.md",
     "Home_page.md",
     "Projects/work/Рабочие задачи.md",
     "banners/ian-dooley-DJ7bWa-Gwks-unsplash.jpg",
@@ -270,15 +273,11 @@
     "команды docker.md",
     "Pasted image 20240115133351.png",
     "Pasted image 20240113194705.png",
-    "Pasted image 20231215113935.png",
-    "Pasted image 20231129110446.png",
     "Go библиотека encoding",
     "сервер на net",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "1_Thread_api_1633091567.png.crdownload",
-    "Auth_Sensitive_data_1_1_1629405798.png.crdownload",
-    "Модуль net",
     "Без названия 3.canvas",
     "Без названия 2.canvas"
   ]
