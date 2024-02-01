@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/learning/Учебные задачи.md",
-                "mode": "source",
+                "file": "Projects/learning/Учебные задачи по разработке.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/learning/Учебные задачи по разработке.md",
+                "file": "Golang обучение.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/learning/Учебные задачи по разработке.md",
+                "file": "Golang обучение.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/learning/Учебные задачи по разработке.md",
+                "file": "Golang обучение.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/learning/Учебные задачи по разработке.md"
+                "file": "Golang обучение.md"
               }
             }
           },
@@ -231,11 +231,12 @@
   },
   "active": "bf2d3de9f5d40935",
   "lastOpenFiles": [
-    "Projects/learning/Учебные задачи.md",
-    "Home_page.md",
     "Projects/learning/Учебные задачи по разработке.md",
-    "Projects/work/Рабочие задачи.md",
+    "Projects/learning/Учебные задачи.md",
+    "Golang обучение.md",
     "Работа в Golang со stream в RabbitMQ.md",
+    "Home_page.md",
+    "Projects/work/Рабочие задачи.md",
     "banners/ian-dooley-DJ7bWa-Gwks-unsplash.jpg",
     "banners/janko-ferlic-sfL_QOnmy00-unsplash.jpg",
     "Projects/work/agg-data-per-shift.md",
@@ -267,7 +268,6 @@
     "RabbitMQ streams.md",
     "команды docker.md",
     "Каналы golang.md",
-    "Структура приложения Golang.md",
     "Pasted image 20240115133351.png",
     "Pasted image 20240113194705.png",
     "Pasted image 20231215113935.png",
