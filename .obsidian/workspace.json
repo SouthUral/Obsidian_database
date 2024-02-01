@@ -98,18 +98,6 @@
               "type": "markdown",
               "state": {
                 "file": "Projects/learning/golang/Golang обучение.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19d6c0d1a13983fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Базовый синтаксис Golang.md",
                 "mode": "preview",
                 "source": false
               }
@@ -124,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -198,6 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects/learning/golang/Golang обучение.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,6 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projects/learning/golang/Golang обучение.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +225,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projects/learning/golang/Golang обучение.md"
+              }
             }
           },
           {
@@ -267,8 +259,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "88bc258f42155ad1",
+  "active": "1c2d95e71d568804",
   "lastOpenFiles": [
+    "Базовый синтаксис Golang.md",
     "Projects/learning/golang/Golang обучение.md",
     "Projects/learning/Учебные задачи по разработке.md",
     "Projects/learning/Учебные задачи.md",
@@ -279,7 +272,6 @@
     "многопоточный golang, конкурентность.md",
     "Каналы golang.md",
     "Блокировка горутины в Golang без блокировки остальных горутин.md",
-    "Базовый синтаксис Golang.md",
     "banners/artem-sapegin-b18TRXc8UPQ-unsplash.jpg",
     "Работа в Golang со stream в RabbitMQ.md",
     "Projects/learning/golang",
