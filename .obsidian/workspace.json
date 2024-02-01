@@ -37,9 +37,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home_page.md",
+                "file": "Projects/learning/Учебные задачи.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -50,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "Projects/learning/Учебные задачи.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/learning/Учебные задачи.md",
+                "file": "Projects/learning/Учебные задачи по разработке.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/learning/Учебные задачи.md",
+                "file": "Projects/learning/Учебные задачи по разработке.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/learning/Учебные задачи.md",
+                "file": "Projects/learning/Учебные задачи по разработке.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/learning/Учебные задачи.md"
+                "file": "Projects/learning/Учебные задачи по разработке.md"
               }
             }
           },
@@ -231,8 +231,9 @@
   },
   "active": "bf2d3de9f5d40935",
   "lastOpenFiles": [
-    "Home_page.md",
     "Projects/learning/Учебные задачи.md",
+    "Home_page.md",
+    "Projects/learning/Учебные задачи по разработке.md",
     "Projects/work/Рабочие задачи.md",
     "Работа в Golang со stream в RabbitMQ.md",
     "banners/ian-dooley-DJ7bWa-Gwks-unsplash.jpg",
