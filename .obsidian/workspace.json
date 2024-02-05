@@ -33,9 +33,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/work/Работа над путевыми листами.md",
+                "file": "Схематичная карта работы модуля путевых листов.md",
                 "mode": "source",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "b39cc75d20c2c564",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/work/Работа над путевыми листами.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71ce7846eede4aa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home_page.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -114,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/work/Работа над путевыми листами.md",
+                "file": "Схематичная карта работы модуля путевых листов.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/work/Работа над путевыми листами.md",
+                "file": "Схематичная карта работы модуля путевых листов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/work/Работа над путевыми листами.md"
+                "file": "Схематичная карта работы модуля путевых листов.md"
               }
             }
           },
@@ -189,9 +213,10 @@
   },
   "active": "d440a38c9d78d515",
   "lastOpenFiles": [
-    "Projects/work/Система отправки событий.md",
     "Projects/work/Работа над путевыми листами.md",
     "Home_page.md",
+    "Схематичная карта работы модуля путевых листов.md",
+    "Projects/work/Система отправки событий.md",
     "Projects/work/sync_tables.md",
     "Projects/work/agg-data-per-shift.md",
     "Projects/work/Рабочие задачи.md",
@@ -229,7 +254,6 @@
     "Библиотеки Python.md",
     "Базовый синтаксис Python.md",
     "асинхронный Python.md",
-    "Архитектура REST.md",
     "1_Thread_api_1633091567.png",
     "Pasted image 20240115133351.png",
     "Go библиотека encoding",
