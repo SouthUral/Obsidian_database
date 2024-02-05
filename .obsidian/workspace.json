@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2cbb7cbbc64b7a60",
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Схематичная карта работы модуля путевых листов.md",
+                "file": "Home_page.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Схематичная карта работы модуля путевых листов.md",
+                "file": "Home_page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Схематичная карта работы модуля путевых листов.md"
+                "file": "Home_page.md"
               }
             }
           },
@@ -211,8 +212,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d440a38c9d78d515",
+  "active": "71ce7846eede4aa3",
   "lastOpenFiles": [
+    "Projects/learning/Учебные задачи.md",
+    "Projects/learning/Учебные задачи по разработке.md",
+    "Projects/learning/golang/Golang обучение.md",
     "Projects/work/Работа над путевыми листами.md",
     "Home_page.md",
     "Схематичная карта работы модуля путевых листов.md",
@@ -220,10 +224,7 @@
     "Projects/work/sync_tables.md",
     "Projects/work/agg-data-per-shift.md",
     "Projects/work/Рабочие задачи.md",
-    "Projects/learning/Учебные задачи по разработке.md",
-    "Projects/learning/golang/Golang обучение.md",
     "Projects/learning/golang/Golang задачи.md",
-    "Projects/learning/Учебные задачи.md",
     "многопоточный golang, конкурентность.md",
     "Работа в Golang со stream в RabbitMQ.md",
     "Чтение и запись Postgres в Go.md",
