@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/work/Работа над путевыми листами.md",
+                "file": "Схематичная карта работы модуля путевых листов.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,14 +57,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home_page.md",
+                "file": "Projects/learning/Учебные задачи.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home_page.md",
+                "file": "Схематичная карта работы модуля путевых листов.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home_page.md",
+                "file": "Схематичная карта работы модуля путевых листов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home_page.md"
+                "file": "Схематичная карта работы модуля путевых листов.md"
               }
             }
           },
@@ -212,13 +212,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "71ce7846eede4aa3",
+  "active": "b39cc75d20c2c564",
   "lastOpenFiles": [
+    "Projects/work/Работа над путевыми листами.md",
     "Projects/learning/Учебные задачи.md",
+    "Home_page.md",
     "Projects/learning/Учебные задачи по разработке.md",
     "Projects/learning/golang/Golang обучение.md",
-    "Projects/work/Работа над путевыми листами.md",
-    "Home_page.md",
     "Схематичная карта работы модуля путевых листов.md",
     "Projects/work/Система отправки событий.md",
     "Projects/work/sync_tables.md",
