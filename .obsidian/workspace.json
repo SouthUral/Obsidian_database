@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a9e4bec25bac58ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/work/Система отправки событий.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Схематичная карта работы модуля путевых листов.md",
+                "file": "Projects/work/Система отправки событий.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Схематичная карта работы модуля путевых листов.md",
+                "file": "Projects/work/Система отправки событий.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Схематичная карта работы модуля путевых листов.md"
+                "file": "Projects/work/Система отправки событий.md"
               }
             }
           },
@@ -167,10 +180,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d7f1e7135a5fb78e",
+  "active": "a9e4bec25bac58ea",
   "lastOpenFiles": [
-    "Схематичная карта работы модуля путевых листов.md",
     "Home_page.md",
+    "Схематичная карта работы модуля путевых листов.md",
     "Projects/work/Работа над путевыми листами.md",
     "Projects/learning/Учебные задачи.md",
     "Projects/learning/Учебные задачи по разработке.md",
