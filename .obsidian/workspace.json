@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Собеседования.md",
+                "file": "Projects/learning/Собеседования.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Собеседования.md",
+                "file": "Projects/learning/Собеседования.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Собеседования.md",
+                "file": "Projects/learning/Собеседования.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Собеседования.md"
+                "file": "Projects/learning/Собеседования.md"
               }
             }
           },
@@ -179,10 +179,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "600f73bd38907afa",
+  "active": "f72eb5c3ea6adf3c",
   "lastOpenFiles": [
     "Projects/learning/Учебные задачи.md",
-    "Собеседования.md",
+    "Projects/learning/Собеседования.md",
     "Home_page.md",
     "Projects/work/Система отправки событий.md",
     "Схематичная карта работы модуля путевых листов.md",
