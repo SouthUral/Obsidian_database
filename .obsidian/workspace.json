@@ -73,8 +73,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home_page.md",
-                "mode": "preview",
+                "file": "Projects/learning/Собеседования.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home_page.md",
+                "file": "Projects/learning/Собеседования.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home_page.md",
+                "file": "Projects/learning/Собеседования.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home_page.md"
+                "file": "Projects/learning/Собеседования.md"
               }
             }
           },
@@ -253,9 +253,9 @@
   },
   "active": "3093a77b51b36f3e",
   "lastOpenFiles": [
+    "Home_page.md",
     "Projects/learning/Собеседования.md",
     "Projects/learning/Учебные задачи по разработке.md",
-    "Home_page.md",
     "Projects/learning/Учебные задачи.md",
     "Чистая архитектура в Golang.md",
     "Projects/work/Система отправки событий.md",
