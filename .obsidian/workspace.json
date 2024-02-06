@@ -25,8 +25,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/learning/Собеседования.md",
+                "file": "Алгоритмы.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cadff7b32f77e83b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/learning/Учебные задачи по разработке.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/learning/Собеседования.md",
+                "file": "Алгоритмы.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/learning/Собеседования.md",
+                "file": "Алгоритмы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/learning/Собеседования.md"
+                "file": "Алгоритмы.md"
               }
             }
           },
@@ -179,15 +191,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f72eb5c3ea6adf3c",
+  "active": "600f73bd38907afa",
   "lastOpenFiles": [
+    "Projects/learning/Учебные задачи по разработке.md",
     "Projects/learning/Учебные задачи.md",
-    "Projects/learning/Собеседования.md",
     "Home_page.md",
     "Projects/work/Система отправки событий.md",
+    "Алгоритмы.md",
+    "Projects/learning/Собеседования.md",
     "Схематичная карта работы модуля путевых листов.md",
     "Projects/work/Работа над путевыми листами.md",
-    "Projects/learning/Учебные задачи по разработке.md",
     "Projects/learning/golang/Golang обучение.md",
     "Projects/work/sync_tables.md",
     "Projects/work/agg-data-per-shift.md",
@@ -221,7 +234,6 @@
     "Projects/work",
     "Projects",
     "Библиотеки Python.md",
-    "Базовый синтаксис Python.md",
     "1_Thread_api_1633091567.png",
     "Pasted image 20240115133351.png",
     "Go библиотека encoding",
