@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home_page.md",
-                "mode": "preview",
+                "file": "Схематичная карта работы модуля путевых листов.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home_page.md",
+                "file": "Схематичная карта работы модуля путевых листов.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home_page.md",
+                "file": "Схематичная карта работы модуля путевых листов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home_page.md"
+                "file": "Схематичная карта работы модуля путевых листов.md"
               }
             }
           },
@@ -168,8 +168,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f72eb5c3ea6adf3c",
+  "active": "a96b32ac2b7e485b",
   "lastOpenFiles": [
+    "Projects/work/Работа над путевыми листами.md",
     "Home_page.md",
     "Projects/learning/Собеседования.md",
     "Projects/learning/Учебные задачи по разработке.md",
@@ -181,7 +182,6 @@
     "PostgreSQL.md",
     "Projects/learning/golang/Golang обучение.md",
     "Схематичная карта работы модуля путевых листов.md",
-    "Projects/work/Работа над путевыми листами.md",
     "Projects/work/sync_tables.md",
     "Projects/work/agg-data-per-shift.md",
     "Projects/work/Рабочие задачи.md",
