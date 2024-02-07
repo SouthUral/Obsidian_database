@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Схематичная карта работы модуля путевых листов.md",
-                "mode": "source",
+                "file": "Projects/work/Система отправки событий.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Схематичная карта работы модуля путевых листов.md",
+                "file": "Projects/work/Система отправки событий.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Схематичная карта работы модуля путевых листов.md",
+                "file": "Projects/work/Система отправки событий.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Схематичная карта работы модуля путевых листов.md"
+                "file": "Projects/work/Система отправки событий.md"
               }
             }
           },
@@ -170,8 +170,9 @@
   },
   "active": "c98e64cacd860d89",
   "lastOpenFiles": [
-    "Projects/work/Работа над путевыми листами.md",
     "Home_page.md",
+    "Projects/work/Работа над путевыми листами.md",
+    "Схематичная карта работы модуля путевых листов.md",
     "Projects/learning/Собеседования.md",
     "Projects/learning/Учебные задачи по разработке.md",
     "Projects/learning/Учебные задачи.md",
@@ -181,7 +182,6 @@
     "SQL.md",
     "PostgreSQL.md",
     "Projects/learning/golang/Golang обучение.md",
-    "Схематичная карта работы модуля путевых листов.md",
     "Projects/work/sync_tables.md",
     "Projects/work/agg-data-per-shift.md",
     "Projects/work/Рабочие задачи.md",
