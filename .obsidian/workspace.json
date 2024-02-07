@@ -4,107 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cc52e50c13831144",
+        "id": "cfec2df6adec2d00",
         "type": "tabs",
         "children": [
           {
-            "id": "b64324f3a0f0b0f3",
+            "id": "a96b32ac2b7e485b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/work/Система отправки событий.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "600f73bd38907afa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Алгоритмы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cadff7b32f77e83b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Чистая архитектура в Golang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5215cc34ef13bfbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/learning/Учебные задачи по разработке.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3f125ef6640d8e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/learning/Собеседования.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3093a77b51b36f3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/learning/Собеседования.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c4831dbe1ef0fe4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "602fb4959a015a2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/learning/Учебные задачи по разработке.md",
-                "mode": "source",
+                "file": "Home_page.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2cbb7cbbc64b7a60",
@@ -178,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/learning/Собеседования.md",
+                "file": "Home_page.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/learning/Собеседования.md",
+                "file": "Home_page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/learning/Собеседования.md"
+                "file": "Home_page.md"
               }
             }
           },
@@ -238,20 +154,21 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "homepage:Open homepage": false
     }
   },
-  "active": "3093a77b51b36f3e",
+  "active": "f72eb5c3ea6adf3c",
   "lastOpenFiles": [
     "Home_page.md",
     "Projects/learning/Собеседования.md",
