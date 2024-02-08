@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9dd51f7793480ed7",
+        "id": "e925bf0aa0be02e5",
         "type": "tabs",
         "children": [
           {
-            "id": "89e8ceef8855361f",
+            "id": "287749109a4150b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Схематичная карта работы модуля путевых листов.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Схематичная карта работы модуля путевых листов.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Схематичная карта работы модуля путевых листов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Схематичная карта работы модуля путевых листов.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,8 +160,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "89e8ceef8855361f",
+  "active": "287749109a4150b9",
   "lastOpenFiles": [
+    "Rabbit MQ.md",
+    "Projects/learning/golang/Golang обучение.md",
     "Home_page.md",
     "Projects/work/Работа над путевыми листами.md",
     "Схематичная карта работы модуля путевых листов.md",
@@ -181,7 +175,6 @@
     "Алгоритмы.md",
     "SQL.md",
     "PostgreSQL.md",
-    "Projects/learning/golang/Golang обучение.md",
     "Projects/work/sync_tables.md",
     "Projects/work/agg-data-per-shift.md",
     "Projects/work/Рабочие задачи.md",
@@ -202,7 +195,6 @@
     "banners/ian-dooley-DJ7bWa-Gwks-unsplash.jpg",
     "banners/janko-ferlic-sfL_QOnmy00-unsplash.jpg",
     "проекты.md",
-    "Задачи, проекты, планы.md",
     "banners/premium_photo-1672115680863-9353a690495a.png",
     "banners/anthony-reungere-s6xt1mwF_iU-unsplash.jpg",
     "banners/premium_photo-1680582107403-04dfac02efc3.png",
