@@ -33,22 +33,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home_page.md",
-                "mode": "preview",
+                "file": "Projects/work/Система отправки событий.md",
+                "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "799a800460d1960e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,8 +94,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Схематичная карта работы модуля путевых листов.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Схематичная карта работы модуля путевых листов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Схематичная карта работы модуля путевых листов.md"
+              }
             }
           },
           {
@@ -193,13 +188,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "799a800460d1960e",
+  "active": "1b7d626fa46b4ff7",
   "lastOpenFiles": [
+    "Projects/work/Система отправки событий.md",
+    "Home_page.md",
     "Схематичная карта работы модуля путевых листов.md",
     "Работа с БД в Golang.md",
     "многопоточный golang, конкурентность.md",
     "Консольные команды для Golang.md",
-    "Home_page.md",
     "roadmap для golang разработчика junior level.md",
     "Projects/learning/golang/Golang обучение.md",
     "Особенности проброса ip локальной БД в docker.md",
@@ -210,7 +206,6 @@
     "Projects/learning/Учебные задачи по разработке.md",
     "Projects/learning/Учебные задачи.md",
     "Чистая архитектура в Golang.md",
-    "Projects/work/Система отправки событий.md",
     "Алгоритмы.md",
     "SQL.md",
     "PostgreSQL.md",
