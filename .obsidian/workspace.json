@@ -19,12 +19,8 @@
             "id": "1b7d626fa46b4ff7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Схематичная карта работы модуля путевых листов.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -114,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Схематичная карта работы модуля путевых листов.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Схематичная карта работы модуля путевых листов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Схематичная карта работы модуля путевых листов.md"
-              }
+              "state": {}
             }
           },
           {
@@ -190,9 +182,9 @@
   },
   "active": "1b7d626fa46b4ff7",
   "lastOpenFiles": [
+    "Схематичная карта работы модуля путевых листов.md",
     "Projects/work/Система отправки событий.md",
     "Home_page.md",
-    "Схематичная карта работы модуля путевых листов.md",
     "Работа с БД в Golang.md",
     "многопоточный golang, конкурентность.md",
     "Консольные команды для Golang.md",
