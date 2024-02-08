@@ -36,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2cbb7cbbc64b7a60",
@@ -110,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects/work/Система отправки событий.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projects/work/Система отправки событий.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projects/work/Система отправки событий.md"
+              }
             }
           },
           {
@@ -180,7 +185,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1b7d626fa46b4ff7",
+  "active": "8051f7a105315848",
   "lastOpenFiles": [
     "Схематичная карта работы модуля путевых листов.md",
     "Projects/work/Система отправки событий.md",
