@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "1b7d626fa46b4ff7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Схематичная карта работы модуля путевых листов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Схематичная карта работы модуля путевых листов.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Схематичная карта работы модуля путевых листов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Схематичная карта работы модуля путевых листов.md"
+              }
             }
           },
           {
@@ -160,11 +177,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "287749109a4150b9",
+  "active": "1b7d626fa46b4ff7",
   "lastOpenFiles": [
-    "Rabbit MQ.md",
-    "Projects/learning/golang/Golang обучение.md",
     "Home_page.md",
+    "roadmap для golang разработчика junior level.md",
+    "Projects/learning/golang/Golang обучение.md",
+    "Особенности проброса ip локальной БД в docker.md",
+    "команды docker.md",
+    "Rabbit MQ.md",
     "Projects/work/Работа над путевыми листами.md",
     "Схематичная карта работы модуля путевых листов.md",
     "Projects/learning/Собеседования.md",
@@ -185,8 +205,6 @@
     "Работа с PostgreSQL через Golang.md",
     "Базовый синтаксис Golang.md",
     "Работа с БД в Golang.md",
-    "Каналы golang.md",
-    "Блокировка горутины в Golang без блокировки остальных горутин.md",
     "banners/artem-sapegin-b18TRXc8UPQ-unsplash.jpg",
     "Projects/learning/golang",
     "banners/banner_go-9b8733250036c66a86bf103fb4a01804.png",
@@ -194,7 +212,6 @@
     "banners/Deploying-a-Golang-Application-with-Kubernetes.png",
     "banners/ian-dooley-DJ7bWa-Gwks-unsplash.jpg",
     "banners/janko-ferlic-sfL_QOnmy00-unsplash.jpg",
-    "проекты.md",
     "banners/premium_photo-1672115680863-9353a690495a.png",
     "banners/anthony-reungere-s6xt1mwF_iU-unsplash.jpg",
     "banners/premium_photo-1680582107403-04dfac02efc3.png",
