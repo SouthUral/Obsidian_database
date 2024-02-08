@@ -38,9 +38,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "799a800460d1960e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Получение",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,12 +102,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2cbb7cbbc64b7a60",
@@ -115,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Схематичная карта работы модуля путевых листов.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +139,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Схематичная карта работы модуля путевых листов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +160,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Схематичная карта работы модуля путевых листов.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,10 +193,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1b7d626fa46b4ff7",
+  "active": "799a800460d1960e",
   "lastOpenFiles": [
-    "Home_page.md",
     "Схематичная карта работы модуля путевых листов.md",
+    "Работа с БД в Golang.md",
+    "многопоточный golang, конкурентность.md",
+    "Консольные команды для Golang.md",
+    "Home_page.md",
     "roadmap для golang разработчика junior level.md",
     "Projects/learning/golang/Golang обучение.md",
     "Особенности проброса ip локальной БД в docker.md",
@@ -211,12 +218,9 @@
     "Projects/work/agg-data-per-shift.md",
     "Projects/work/Рабочие задачи.md",
     "Projects/learning/golang/Golang задачи.md",
-    "многопоточный golang, конкурентность.md",
     "Работа в Golang со stream в RabbitMQ.md",
     "Чтение и запись Postgres в Go.md",
     "Работа с PostgreSQL через Golang.md",
-    "Базовый синтаксис Golang.md",
-    "Работа с БД в Golang.md",
     "banners/artem-sapegin-b18TRXc8UPQ-unsplash.jpg",
     "Projects/learning/golang",
     "banners/banner_go-9b8733250036c66a86bf103fb4a01804.png",
