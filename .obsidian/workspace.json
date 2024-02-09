@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Выгрузка дампа postgresql.md",
+                "file": "Разворачивание Go сервиса в Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Выгрузка дампа postgresql.md",
+                "file": "Разворачивание Go сервиса в Docker.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Выгрузка дампа postgresql.md",
+                "file": "Разворачивание Go сервиса в Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Выгрузка дампа postgresql.md"
+                "file": "Разворачивание Go сервиса в Docker.md"
               }
             }
           },
@@ -167,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,6 +182,8 @@
   },
   "active": "950a49130674b610",
   "lastOpenFiles": [
+    "Go.md",
+    "Выгрузка дампа postgresql.md",
     "Создание функций в PostgreSQL.md",
     "Как создавать таблицы в Postgres.md",
     "Projects/work/agg-data-per-shift.md",
@@ -207,8 +208,6 @@
     "PostgreSQL.md",
     "Projects/work/sync_tables.md",
     "Projects/work/Рабочие задачи.md",
-    "Projects/learning/golang/Golang задачи.md",
-    "Работа в Golang со stream в RabbitMQ.md",
     "banners/artem-sapegin-b18TRXc8UPQ-unsplash.jpg",
     "Projects/learning/golang",
     "banners/banner_go-9b8733250036c66a86bf103fb4a01804.png",

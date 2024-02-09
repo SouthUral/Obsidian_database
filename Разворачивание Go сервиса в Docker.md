@@ -1,4 +1,4 @@
-[[Go]]
+
 [[docker]]
 
 [видео](https://www.youtube.com/watch?v=ZEd0giJegVI)
