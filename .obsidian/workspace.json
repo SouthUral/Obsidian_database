@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "Как создавать таблицы в Postgres.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "Как создавать таблицы в Postgres.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "Как создавать таблицы в Postgres.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md"
+                "file": "Как создавать таблицы в Postgres.md"
               }
             }
           },
@@ -183,6 +183,7 @@
   },
   "active": "950a49130674b610",
   "lastOpenFiles": [
+    "Projects/work/agg-data-per-shift.md",
     "Home_page.md",
     "Схематичная карта работы модуля путевых листов.md",
     "Projects/work/Работа над путевыми листами.md",
@@ -203,7 +204,6 @@
     "SQL.md",
     "PostgreSQL.md",
     "Projects/work/sync_tables.md",
-    "Projects/work/agg-data-per-shift.md",
     "Projects/work/Рабочие задачи.md",
     "Projects/learning/golang/Golang задачи.md",
     "Работа в Golang со stream в RabbitMQ.md",
