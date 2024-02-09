@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Создание функций в PostgreSQL.md",
+                "file": "Выгрузка дампа postgresql.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Создание функций в PostgreSQL.md",
+                "file": "Выгрузка дампа postgresql.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Создание функций в PostgreSQL.md",
+                "file": "Выгрузка дампа postgresql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Создание функций в PostgreSQL.md"
+                "file": "Выгрузка дампа postgresql.md"
               }
             }
           },
@@ -183,6 +183,7 @@
   },
   "active": "950a49130674b610",
   "lastOpenFiles": [
+    "Создание функций в PostgreSQL.md",
     "Как создавать таблицы в Postgres.md",
     "Projects/work/agg-data-per-shift.md",
     "Home_page.md",
@@ -208,7 +209,6 @@
     "Projects/work/Рабочие задачи.md",
     "Projects/learning/golang/Golang задачи.md",
     "Работа в Golang со stream в RabbitMQ.md",
-    "Чтение и запись Postgres в Go.md",
     "banners/artem-sapegin-b18TRXc8UPQ-unsplash.jpg",
     "Projects/learning/golang",
     "banners/banner_go-9b8733250036c66a86bf103fb4a01804.png",
