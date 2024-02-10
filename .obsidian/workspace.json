@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8ce32c37b02e0904",
+        "id": "915a239cebbbc8e6",
         "type": "tabs",
         "children": [
           {
-            "id": "796ad0375926c7fc",
+            "id": "29851aa98010af2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Схематичная карта работы модуля путевых листов.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "950a49130674b610",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rabbit MQ.md",
+                "file": "Projects/work/Система отправки событий/Система отправки событий.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2cbb7cbbc64b7a60",
@@ -107,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rabbit MQ.md",
+                "file": "Projects/work/Система отправки событий/Система отправки событий.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rabbit MQ.md",
+                "file": "Projects/work/Система отправки событий/Система отправки событий.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rabbit MQ.md"
+                "file": "Projects/work/Система отправки событий/Система отправки событий.md"
               }
             }
           },
@@ -167,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,8 +167,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "950a49130674b610",
+  "active": "f72eb5c3ea6adf3c",
   "lastOpenFiles": [
+    "Projects/work/Система отправки событий",
+    "Home_page.md",
     "Разворачивание RabbitMQ в docker-compose.md",
     "docker-compose.md",
     "Команды docker-compose.md",
@@ -192,10 +181,9 @@
     "Создание функций в PostgreSQL.md",
     "Как создавать таблицы в Postgres.md",
     "Projects/work/agg-data-per-shift.md",
-    "Home_page.md",
     "Схематичная карта работы модуля путевых листов.md",
     "Projects/work/Работа над путевыми листами.md",
-    "Projects/work/Система отправки событий.md",
+    "Projects/work/Система отправки событий/Система отправки событий.md",
     "Работа с БД в Golang.md",
     "многопоточный golang, конкурентность.md",
     "Консольные команды для Golang.md",
@@ -207,7 +195,6 @@
     "Projects/learning/Собеседования.md",
     "Projects/learning/Учебные задачи по разработке.md",
     "Projects/learning/Учебные задачи.md",
-    "Чистая архитектура в Golang.md",
     "banners/artem-sapegin-b18TRXc8UPQ-unsplash.jpg",
     "Projects/learning/golang",
     "banners/banner_go-9b8733250036c66a86bf103fb4a01804.png",
