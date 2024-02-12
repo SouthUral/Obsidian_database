@@ -35,12 +35,24 @@
             "id": "dd231e7c272d7101",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "http сервис на go (расшифровка статьи).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "028298b9c11b85ae",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -185,11 +197,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "dd231e7c272d7101",
+  "active": "028298b9c11b85ae",
   "lastOpenFiles": [
-    "Разработка Web приложения на Golang.md",
-    "http golang сервер.md",
     "Home_page.md",
+    "http golang сервер.md",
+    "http сервис на go (расшифровка статьи).md",
+    "Разработка Web приложения на Golang.md",
     "Projects/work/Система отправки событий",
     "Разворачивание RabbitMQ в docker-compose.md",
     "docker-compose.md",
@@ -213,7 +226,6 @@
     "команды docker.md",
     "Rabbit MQ.md",
     "Projects/learning/Собеседования.md",
-    "Projects/learning/Учебные задачи по разработке.md",
     "banners/artem-sapegin-b18TRXc8UPQ-unsplash.jpg",
     "Projects/learning/golang",
     "banners/banner_go-9b8733250036c66a86bf103fb4a01804.png",

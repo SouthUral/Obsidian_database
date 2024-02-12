@@ -1,5 +1,6 @@
 [[Модуль "net-http" Golang]]
 
+
 Работающий простой сервер с настроенным логированием:
 ```go
 package main
@@ -47,3 +48,4 @@ func midlware(handler http.HandlerFunc) http.HandlerFunc {
 	}
 }
 ```
+
