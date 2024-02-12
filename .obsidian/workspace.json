@@ -8,31 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6000175884b74157",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/learning/golang/Golang задачи.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4a8ee3a2d3c7b9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "506fbe625b4480ee",
+            "id": "028298b9c11b85ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,53 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3a1675790517e883",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "http golang сервер.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd231e7c272d7101",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "http сервис на go (расшифровка статьи).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "028298b9c11b85ae",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "53d949930ed49023",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "сервисы для изучения Golang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,7 +168,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "506fbe625b4480ee",
+  "active": "028298b9c11b85ae",
   "lastOpenFiles": [
     "Projects/work/agg-data-per-shift.md",
     "Home_page.md",
