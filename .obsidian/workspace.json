@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3a1675790517e883",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home_page.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home_page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home_page.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,10 +173,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6000175884b74157",
+  "active": "3a1675790517e883",
   "lastOpenFiles": [
-    "Projects/work/Система отправки событий",
     "Home_page.md",
+    "Projects/work/Система отправки событий",
     "Разворачивание RabbitMQ в docker-compose.md",
     "docker-compose.md",
     "Команды docker-compose.md",
@@ -217,7 +222,6 @@
     "сервер на net",
     "Без названия 1.canvas",
     "Без названия.canvas",
-    "1_Thread_api_1633091567.png.crdownload",
     "Без названия 3.canvas",
     "Без названия 2.canvas"
   ]
