@@ -77,6 +77,7 @@ go func() {
 var wg sync.WaitGroup
 wg.Add(1)
 
+// горутина, которая должна остановить сервер при отмене контекста
 go func() {
 	defer wg.Done()
 	<-ctx.Done()
