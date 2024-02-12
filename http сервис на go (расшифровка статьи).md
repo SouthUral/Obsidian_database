@@ -4,4 +4,14 @@
 
 Статья содержит лучшие современные практики для реализации http сервера на golang
 
+# Конструктор NewServer
+Пример кода:
+```go
 
+func NewServer(
+	logger *Logger
+	config *Config
+	commentStore *CommentStore
+	anotherStore *AnotherStore
+)
+```
