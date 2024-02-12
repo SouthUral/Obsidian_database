@@ -50,6 +50,18 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "53d949930ed49023",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "сервисы для изучения Golang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -199,9 +211,11 @@
   },
   "active": "028298b9c11b85ae",
   "lastOpenFiles": [
+    "сервисы для изучения Golang.md",
+    "Golang.md",
+    "http сервис на go (расшифровка статьи).md",
     "Home_page.md",
     "http golang сервер.md",
-    "http сервис на go (расшифровка статьи).md",
     "Разработка Web приложения на Golang.md",
     "Projects/work/Система отправки событий",
     "Разворачивание RabbitMQ в docker-compose.md",
@@ -224,8 +238,6 @@
     "Projects/learning/golang/Golang обучение.md",
     "Особенности проброса ip локальной БД в docker.md",
     "команды docker.md",
-    "Rabbit MQ.md",
-    "Projects/learning/Собеседования.md",
     "banners/artem-sapegin-b18TRXc8UPQ-unsplash.jpg",
     "Projects/learning/golang",
     "banners/banner_go-9b8733250036c66a86bf103fb4a01804.png",
