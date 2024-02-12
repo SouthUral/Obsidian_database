@@ -8,14 +8,17 @@
 Пример кода:
 ```go
 
-// 
+// функция является конструктором обработчика для сервера
 func NewServer(
-	logger *Logger
-	config *Config
-	commentStore *CommentStore
+	logger *Logger // указатель на объект логгера
+	config *Config // указатель на объект содержащий конфиг
+	commentStore *CommentStore // указатель на объект, который хранит комментарии
 	anotherStore *AnotherStore
 ) http.Handler {
+	// создается объект ServeMux который используется для маршрутизации запросов
 	mux := http.NewServeMux()
+
+	// функция добавляет маршруты для различных запросов
 	addRouters(
 		mux, 
 		Logger,
