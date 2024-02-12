@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "506fbe625b4480ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home_page.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3a1675790517e883",
             "type": "leaf",
             "state": {
@@ -76,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -151,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "Home_page.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "Home_page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md"
+                "file": "Home_page.md"
               }
             }
           },
@@ -225,8 +237,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e4a8ee3a2d3c7b9f",
+  "active": "506fbe625b4480ee",
   "lastOpenFiles": [
+    "Projects/work/agg-data-per-shift.md",
     "Home_page.md",
     "Projects/learning/golang/Golang задачи.md",
     "http сервис на go (расшифровка статьи).md",
@@ -244,7 +257,6 @@
     "Выгрузка дампа postgresql.md",
     "Создание функций в PostgreSQL.md",
     "Как создавать таблицы в Postgres.md",
-    "Projects/work/agg-data-per-shift.md",
     "Схематичная карта работы модуля путевых листов.md",
     "Projects/work/Работа над путевыми листами.md",
     "Projects/work/Система отправки событий/Система отправки событий.md",
