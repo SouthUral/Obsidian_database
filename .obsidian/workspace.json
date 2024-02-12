@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home_page.md",
-                "mode": "preview",
+                "file": "Структура приложения Golang.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home_page.md",
+                "file": "Структура приложения Golang.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home_page.md",
+                "file": "Структура приложения Golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home_page.md"
+                "file": "Структура приложения Golang.md"
               }
             }
           },
@@ -170,8 +170,8 @@
   },
   "active": "e4674a29cba84f48",
   "lastOpenFiles": [
-    "Projects/work/agg-data-per-shift.md",
     "Home_page.md",
+    "Projects/work/agg-data-per-shift.md",
     "Projects/learning/golang/Golang задачи.md",
     "http сервис на go (расшифровка статьи).md",
     "http golang сервер.md",
