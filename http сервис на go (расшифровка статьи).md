@@ -41,5 +41,50 @@ func NewServer(
 Через миддлвары обеспечивается вся дополнительная логика, как, например, авторизация, ведение журнала:
 
 ```Go
+var handler http.Handler = mux
+handler = logging.NewLoggingMiddleware(logger, handler)
+handler = logging.NewGoogleTraceIDMiddleware(logger, handler)
+handler = checkAuthHeaders(handler)
+return handler
+```
 
+# Настройка сервера
+```Go
+// создание обработчика
+srv := NewServer(
+	logger,
+	config,
+	tenantsStore,
+	slackLinkStore,
+	msteamsLinkStore,
+	proxy,
+)
+
+// настройка сервера
+httpServer := &http.Server{
+	Addr:    net.JoinHostPort(config.Host, config.Port),
+	Handler: srv,
+}
+
+// в горутине производится запуск сервера
+go func() {
+	log.Printf("listening on %s\n", httpServer.Addr)
+	if err := httpServer.ListenAndServe(); err != nil && err != http.ErrServerClosed {
+		fmt.Fprintf(os.Stderr, "error listening and serving: %s\n", err)
+	}
+}()
+
+var wg sync.WaitGroup
+wg.Add(1)
+
+go func() {
+	defer wg.Done()
+	<-ctx.Done()
+	if err := httpServer.Shutdown(ctx); err != nil {
+		fmt.Fprintf(os.Stderr, "error shutting down http server: %s\n", err)
+	}
+}()
+
+wg.Wait()
+return nil
 ```
