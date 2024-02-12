@@ -28,10 +28,12 @@ func NewServer(
 	)
 
 	var handler http.Handler = mux
+	// добавляются мидллвары
 	handler = someMiddleare(handler)
 	handler = someMiddleare1(handler)
 	handler = someMiddleare2(handler)
-	
+
+	// возвращается обработчик
 	return handler
 }
 ```
