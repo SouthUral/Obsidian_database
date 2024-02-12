@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home_page.md",
-                "mode": "preview",
+                "file": "Projects/learning/golang/Golang задачи.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4a8ee3a2d3c7b9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/work/agg-data-per-shift.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -64,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "http сервис на go (расшифровка статьи).md",
+                "file": "Projects/work/agg-data-per-shift.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "http сервис на go (расшифровка статьи).md",
+                "file": "Projects/work/agg-data-per-shift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "http сервис на go (расшифровка статьи).md"
+                "file": "Projects/work/agg-data-per-shift.md"
               }
             }
           },
@@ -213,13 +225,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "dd231e7c272d7101",
+  "active": "e4a8ee3a2d3c7b9f",
   "lastOpenFiles": [
-    "http golang сервер.md",
+    "Home_page.md",
+    "Projects/learning/golang/Golang задачи.md",
     "http сервис на go (расшифровка статьи).md",
+    "http golang сервер.md",
     "сервисы для изучения Golang.md",
     "Golang.md",
-    "Home_page.md",
     "Разработка Web приложения на Golang.md",
     "Projects/work/Система отправки событий",
     "Разворачивание RabbitMQ в docker-compose.md",
@@ -241,7 +254,6 @@
     "roadmap для golang разработчика junior level.md",
     "Projects/learning/golang/Golang обучение.md",
     "Особенности проброса ip локальной БД в docker.md",
-    "команды docker.md",
     "banners/artem-sapegin-b18TRXc8UPQ-unsplash.jpg",
     "Projects/learning/golang",
     "banners/banner_go-9b8733250036c66a86bf103fb4a01804.png",
