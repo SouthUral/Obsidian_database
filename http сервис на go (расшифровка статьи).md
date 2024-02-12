@@ -8,6 +8,7 @@
 Пример кода:
 ```go
 
+// 
 func NewServer(
 	logger *Logger
 	config *Config
@@ -22,5 +23,12 @@ func NewServer(
 		commentStore,
 		anotherStore,
 	)
+
+	var handler http.Handler = mux
+	handler = someMiddleare(handler)
+	handler = someMiddleare1(handler)
+	handler = someMiddleare2(handler)
+	
+	return handler
 }
 ```
