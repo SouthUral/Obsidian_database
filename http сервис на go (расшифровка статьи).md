@@ -13,5 +13,14 @@ func NewServer(
 	config *Config
 	commentStore *CommentStore
 	anotherStore *AnotherStore
-)
+) http.Handler {
+	mux := http.NewServeMux()
+	addRouters(
+		mux, 
+		Logger,
+		Config,
+		commentStore,
+		anotherStore,
+	)
+}
 ```

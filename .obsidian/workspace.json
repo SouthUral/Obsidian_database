@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "http сервис на go (расшифровка статьи).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,6 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "http сервис на go (расшифровка статьи).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +178,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "http сервис на go (расшифровка статьи).md"
+              }
             }
           },
           {
@@ -209,13 +213,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "028298b9c11b85ae",
+  "active": "dd231e7c272d7101",
   "lastOpenFiles": [
+    "http golang сервер.md",
+    "http сервис на go (расшифровка статьи).md",
     "сервисы для изучения Golang.md",
     "Golang.md",
-    "http сервис на go (расшифровка статьи).md",
     "Home_page.md",
-    "http golang сервер.md",
     "Разработка Web приложения на Golang.md",
     "Projects/work/Система отправки событий",
     "Разворачивание RabbitMQ в docker-compose.md",
