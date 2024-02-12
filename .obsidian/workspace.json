@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "915a239cebbbc8e6",
+        "id": "846f669e6de2497a",
         "type": "tabs",
         "children": [
           {
-            "id": "29851aa98010af2a",
+            "id": "6000175884b74157",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/work/Система отправки событий/Система отправки событий.md",
-                "mode": "source",
+                "file": "Home_page.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/work/Система отправки событий/Система отправки событий.md",
+                "file": "Home_page.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/work/Система отправки событий/Система отправки событий.md",
+                "file": "Home_page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/work/Система отправки событий/Система отправки событий.md"
+                "file": "Home_page.md"
               }
             }
           },
@@ -167,7 +167,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f72eb5c3ea6adf3c",
+  "active": "6000175884b74157",
   "lastOpenFiles": [
     "Projects/work/Система отправки событий",
     "Home_page.md",
