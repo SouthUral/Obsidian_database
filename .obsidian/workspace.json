@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Projects/learning/golang/Golang задачи.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0012b6b449c90626",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Home_page.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,13 +181,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "52628a62ae824145",
+  "active": "0012b6b449c90626",
   "lastOpenFiles": [
+    "Projects/learning/golang/Golang задачи.md",
+    "Projects/learning/golang/Golang обучение.md",
+    "Projects/learning/Учебные задачи по разработке.md",
+    "Projects/learning/Учебные задачи.md",
     "Home_page.md",
     "Работа с PostgreSQL через Golang.md",
     "Работа с БД в Golang.md",
     "Projects/work/agg-data-per-shift.md",
-    "Projects/learning/golang/Golang задачи.md",
     "http сервис на go (расшифровка статьи).md",
     "http golang сервер.md",
     "сервисы для изучения Golang.md",
@@ -194,9 +210,6 @@
     "Projects/work/Работа над путевыми листами.md",
     "Projects/work/Система отправки событий/Система отправки событий.md",
     "многопоточный golang, конкурентность.md",
-    "Консольные команды для Golang.md",
-    "roadmap для golang разработчика junior level.md",
-    "Projects/learning/golang/Golang обучение.md",
     "banners/artem-sapegin-b18TRXc8UPQ-unsplash.jpg",
     "Projects/learning/golang",
     "banners/banner_go-9b8733250036c66a86bf103fb4a01804.png",
