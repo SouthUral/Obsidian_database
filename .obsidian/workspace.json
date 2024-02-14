@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "24c258962901f43d",
+        "id": "1d7a9be104b158e8",
         "type": "tabs",
         "children": [
           {
-            "id": "52628a62ae824145",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/learning/golang/Golang задачи.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0012b6b449c90626",
+            "id": "5720342377f6ca8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,7 +168,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0012b6b449c90626",
+  "active": "5720342377f6ca8f",
   "lastOpenFiles": [
     "Projects/learning/golang/Golang задачи.md",
     "Projects/learning/golang/Golang обучение.md",
