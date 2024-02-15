@@ -24,4 +24,6 @@ pg_dump -h spbsrvasdpg3 -p 5432 -U postgres -E UTF8 --clean --create -v -Fc poly
 Загрузка дампа в БД:
 ```shell
 pg_restore -p 5433 --create -d postgres -v -Fc poly_bgp-data
+
+pg_restore -U kovalenko -p 5433 -h localhost --create -d db_test -v -Fd dump_data 
 ```
