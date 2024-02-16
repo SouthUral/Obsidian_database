@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1d7a9be104b158e8",
+        "id": "5fab632ea6e2fbe2",
         "type": "tabs",
         "children": [
           {
-            "id": "5720342377f6ca8f",
+            "id": "d48d5fd113f92fee",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "87786e7bb143a167",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "разворачивание  postgreSQL через docker-compose.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42aad61893f2d9da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Выгрузка дампа postgresql.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "887bbe3e0b2d728f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Создание функций в PostgreSQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Создание функций в PostgreSQL.md",
+                "file": "Home_page.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Создание функций в PostgreSQL.md",
+                "file": "Home_page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Создание функций в PostgreSQL.md"
+                "file": "Home_page.md"
               }
             }
           },
@@ -203,7 +166,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "887bbe3e0b2d728f",
+  "active": "d48d5fd113f92fee",
   "lastOpenFiles": [
     "Выгрузка дампа postgresql.md",
     "разворачивание  postgreSQL через docker-compose.md",
