@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home_page.md",
-                "mode": "preview",
+                "file": "работа с ошибками в Go.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home_page.md",
+                "file": "работа с ошибками в Go.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home_page.md",
+                "file": "работа с ошибками в Go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home_page.md"
+                "file": "работа с ошибками в Go.md"
               }
             }
           },
@@ -168,9 +168,9 @@
   },
   "active": "d48d5fd113f92fee",
   "lastOpenFiles": [
+    "Home_page.md",
     "Выгрузка дампа postgresql.md",
     "разворачивание  postgreSQL через docker-compose.md",
-    "Home_page.md",
     "Projects/learning/golang/Golang задачи.md",
     "Projects/learning/golang/Golang обучение.md",
     "Projects/learning/Учебные задачи по разработке.md",
