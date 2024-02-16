@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "работа с ошибками в Go.md",
+                "file": "json Go.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "работа с ошибками в Go.md",
+                "file": "json Go.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "работа с ошибками в Go.md",
+                "file": "json Go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "работа с ошибками в Go.md"
+                "file": "json Go.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "d48d5fd113f92fee",
   "lastOpenFiles": [
+    "работа с ошибками в Go.md",
     "Home_page.md",
     "Выгрузка дампа postgresql.md",
     "разворачивание  postgreSQL через docker-compose.md",
@@ -194,7 +195,6 @@
     "Схематичная карта работы модуля путевых листов.md",
     "Projects/work/Работа над путевыми листами.md",
     "Projects/work/Система отправки событий/Система отправки событий.md",
-    "многопоточный golang, конкурентность.md",
     "banners/artem-sapegin-b18TRXc8UPQ-unsplash.jpg",
     "Projects/learning/golang",
     "banners/banner_go-9b8733250036c66a86bf103fb4a01804.png",
