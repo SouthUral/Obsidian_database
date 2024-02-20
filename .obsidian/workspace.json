@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "json Go.md",
+                "file": "Projects/work/agg-data-per-shift.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "json Go.md",
+                "file": "Projects/work/agg-data-per-shift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "json Go.md"
+                "file": "Projects/work/agg-data-per-shift.md"
               }
             }
           },
@@ -181,11 +180,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fbfdc42117f92298",
+  "active": "a7b8b2ffb965fb47",
   "lastOpenFiles": [
+    "json Go.md",
     "Projects/work/agg-data-per-shift.md",
     "Home_page.md",
-    "json Go.md",
     "работа с ошибками в Go.md",
     "Выгрузка дампа postgresql.md",
     "разворачивание  postgreSQL через docker-compose.md",
