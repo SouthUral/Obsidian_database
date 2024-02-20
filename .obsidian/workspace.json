@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "18597566a5a36616",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pydantic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pydantic.md",
+                "file": "json Go.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pydantic.md",
+                "file": "json Go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pydantic.md"
+                "file": "json Go.md"
               }
             }
           },
@@ -205,8 +193,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "18597566a5a36616",
+  "active": "1e39c1f1cb618b5d",
   "lastOpenFiles": [
+    "Pydantic.md",
     "json Go.md",
     "Стандартная библиотека Golang.md",
     "Projects/work/agg-data-per-shift.md",
@@ -233,7 +222,6 @@
     "Go.md",
     "Создание функций в PostgreSQL.md",
     "Как создавать таблицы в Postgres.md",
-    "Схематичная карта работы модуля путевых листов.md",
     "banners/artem-sapegin-b18TRXc8UPQ-unsplash.jpg",
     "Projects/learning/golang",
     "banners/banner_go-9b8733250036c66a86bf103fb4a01804.png",
