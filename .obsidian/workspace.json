@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "18597566a5a36616",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pydantic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "json Go.md",
+                "file": "Pydantic.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "json Go.md",
+                "file": "Pydantic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "json Go.md"
+                "file": "Pydantic.md"
               }
             }
           },
@@ -193,10 +205,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1e39c1f1cb618b5d",
+  "active": "18597566a5a36616",
   "lastOpenFiles": [
-    "Стандартная библиотека Golang.md",
     "json Go.md",
+    "Стандартная библиотека Golang.md",
     "Projects/work/agg-data-per-shift.md",
     "Home_page.md",
     "работа с ошибками в Go.md",
