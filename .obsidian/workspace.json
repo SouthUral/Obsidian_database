@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fbfdc42117f92298",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Projects/work/agg-data-per-shift.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,8 +173,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a7b8b2ffb965fb47",
+  "active": "fbfdc42117f92298",
   "lastOpenFiles": [
+    "Projects/work/agg-data-per-shift.md",
     "Home_page.md",
     "json Go.md",
     "работа с ошибками в Go.md",
@@ -181,7 +187,6 @@
     "Projects/learning/Учебные задачи.md",
     "Работа с PostgreSQL через Golang.md",
     "Работа с БД в Golang.md",
-    "Projects/work/agg-data-per-shift.md",
     "http сервис на go (расшифровка статьи).md",
     "http golang сервер.md",
     "сервисы для изучения Golang.md",
