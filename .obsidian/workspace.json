@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "json Go.md",
+                "file": "Стандартная библиотека Golang.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "Стандартная библиотека Golang.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "Стандартная библиотека Golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md"
+                "file": "Стандартная библиотека Golang.md"
               }
             }
           },
@@ -180,7 +181,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a7b8b2ffb965fb47",
+  "active": "fbfdc42117f92298",
   "lastOpenFiles": [
     "json Go.md",
     "Projects/work/agg-data-per-shift.md",
