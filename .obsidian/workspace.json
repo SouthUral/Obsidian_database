@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logrus golang.md",
+                "file": "Projects/work/agg-data-per-shift.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "logrus golang.md",
+                "file": "Projects/work/agg-data-per-shift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "logrus golang.md"
+                "file": "Projects/work/agg-data-per-shift.md"
               }
             }
           },
@@ -205,8 +204,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d03da7458690599a",
+  "active": "a7b8b2ffb965fb47",
   "lastOpenFiles": [
+    "logrus golang.md",
     "Логирование в golang.md",
     "Projects/work/agg-data-per-shift.md",
     "json Go.md",
@@ -233,7 +233,6 @@
     "Команды docker-compose.md",
     "Разворачивание Go сервиса в Docker.md",
     "Go.md",
-    "Создание функций в PostgreSQL.md",
     "banners/artem-sapegin-b18TRXc8UPQ-unsplash.jpg",
     "Projects/learning/golang",
     "banners/banner_go-9b8733250036c66a86bf103fb4a01804.png",
