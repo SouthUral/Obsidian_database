@@ -42,8 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d03da7458690599a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "logrus golang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -119,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "logrus golang.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "logrus golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md"
+                "file": "logrus golang.md"
               }
             }
           },
@@ -192,12 +205,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a7b8b2ffb965fb47",
+  "active": "d03da7458690599a",
   "lastOpenFiles": [
+    "Логирование в golang.md",
+    "Projects/work/agg-data-per-shift.md",
     "json Go.md",
     "Pydantic.md",
     "Стандартная библиотека Golang.md",
-    "Projects/work/agg-data-per-shift.md",
     "Home_page.md",
     "работа с ошибками в Go.md",
     "Выгрузка дампа postgresql.md",
@@ -220,7 +234,6 @@
     "Разворачивание Go сервиса в Docker.md",
     "Go.md",
     "Создание функций в PostgreSQL.md",
-    "Как создавать таблицы в Postgres.md",
     "banners/artem-sapegin-b18TRXc8UPQ-unsplash.jpg",
     "Projects/learning/golang",
     "banners/banner_go-9b8733250036c66a86bf103fb4a01804.png",
