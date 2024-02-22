@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "map",
+                "query": "tag:#work",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,7 +168,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6911217adf208e15",
+  "active": "e388845b39213f00",
   "lastOpenFiles": [
     "Home_page.md",
     "Projects/work/agg-data-per-shift.md",
