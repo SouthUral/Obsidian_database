@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "Manjaro.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "Manjaro.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "Manjaro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md"
+                "file": "Manjaro.md"
               }
             }
           },
@@ -170,10 +170,11 @@
   },
   "active": "a6acdc6e3b225e90",
   "lastOpenFiles": [
+    "Projects/work/agg-data-per-shift.md",
+    "Manjaro.md",
     "Home_page.md",
     "logrus golang.md",
     "Логирование в golang.md",
-    "Projects/work/agg-data-per-shift.md",
     "json Go.md",
     "Pydantic.md",
     "Стандартная библиотека Golang.md",
@@ -196,7 +197,6 @@
     "docker-compose.md",
     "Команды docker-compose.md",
     "Разворачивание Go сервиса в Docker.md",
-    "Go.md",
     "banners/artem-sapegin-b18TRXc8UPQ-unsplash.jpg",
     "Projects/learning/golang",
     "banners/banner_go-9b8733250036c66a86bf103fb4a01804.png",
