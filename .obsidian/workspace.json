@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "118358669a401659",
+        "id": "d2ea2cc2783096ee",
         "type": "tabs",
         "children": [
           {
-            "id": "a6acdc6e3b225e90",
+            "id": "f14babed5108a98c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Manjaro.md",
-                "mode": "source",
+                "file": "Home_page.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Manjaro.md",
+                "file": "Home_page.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Manjaro.md",
+                "file": "Home_page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Manjaro.md"
+                "file": "Home_page.md"
               }
             }
           },
@@ -168,7 +168,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a6acdc6e3b225e90",
+  "active": "f14babed5108a98c",
   "lastOpenFiles": [
     "Projects/work/agg-data-per-shift.md",
     "Manjaro.md",
