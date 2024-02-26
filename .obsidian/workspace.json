@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3f3a531bf0f8cd37",
+        "id": "aa6075e6694e3b2c",
         "type": "tabs",
         "children": [
           {
-            "id": "a5b420febca24a13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99588b9e2450d6d0",
+            "id": "14dcd4160b9407a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -107,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "Home_page.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "Home_page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md"
+                "file": "Home_page.md"
               }
             }
           },
@@ -180,7 +168,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a5b420febca24a13",
+  "active": "14dcd4160b9407a8",
   "lastOpenFiles": [
     "Home_page.md",
     "Projects/work/agg-data-per-shift.md",
