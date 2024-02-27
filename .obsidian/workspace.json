@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b5932df92c8e2a15",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Projects/work/agg-data-per-shift.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,11 +172,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "da3add6d9cf6f879",
+  "active": "b5932df92c8e2a15",
   "lastOpenFiles": [
+    "Projects/work/agg-data-per-shift.md",
     "Projects/work/Система отправки событий/Система отправки событий.md",
     "Home_page.md",
-    "Projects/work/agg-data-per-shift.md",
     "Manjaro.md",
     "logrus golang.md",
     "Логирование в golang.md",
