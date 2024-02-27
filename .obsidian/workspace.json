@@ -35,8 +35,15 @@
             "id": "446c3d1a542c7fa3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Без названия.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
             }
           }
         ],
@@ -115,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Без названия.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Без названия.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Без названия.canvas"
+              }
             }
           },
           {
@@ -186,6 +197,7 @@
   },
   "active": "446c3d1a542c7fa3",
   "lastOpenFiles": [
+    "Без названия.canvas",
     "Projects/work/agg-data-per-shift.md",
     "Тестирование Golang.md",
     "Projects/work/Система отправки событий/Система отправки событий.md",
@@ -212,7 +224,6 @@
     "Разработка Web приложения на Golang.md",
     "Projects/work/Система отправки событий",
     "Разворачивание RabbitMQ в docker-compose.md",
-    "docker-compose.md",
     "banners/artem-sapegin-b18TRXc8UPQ-unsplash.jpg",
     "Projects/learning/golang",
     "banners/banner_go-9b8733250036c66a86bf103fb4a01804.png",
@@ -233,7 +244,6 @@
     "Go библиотека encoding",
     "сервер на net",
     "Без названия 1.canvas",
-    "Без названия.canvas",
     "Без названия 3.canvas",
     "Без названия 2.canvas"
   ]
