@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "aa6075e6694e3b2c",
+        "id": "637223833305615e",
         "type": "tabs",
         "children": [
           {
-            "id": "14dcd4160b9407a8",
+            "id": "4105923828e3384e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
-                "mode": "source",
+                "file": "Home_page.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "Home_page.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "Home_page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md"
+                "file": "Home_page.md"
               }
             }
           },
@@ -168,7 +168,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "14dcd4160b9407a8",
+  "active": "4105923828e3384e",
   "lastOpenFiles": [
     "Home_page.md",
     "Projects/work/agg-data-per-shift.md",
