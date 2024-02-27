@@ -30,8 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "446c3d1a542c7fa3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +131,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Projects/work/agg-data-per-shift.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,10 +184,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "da3add6d9cf6f879",
+  "active": "446c3d1a542c7fa3",
   "lastOpenFiles": [
-    "Тестирование Golang.md",
     "Projects/work/agg-data-per-shift.md",
+    "Тестирование Golang.md",
     "Projects/work/Система отправки событий/Система отправки событий.md",
     "Home_page.md",
     "Manjaro.md",
