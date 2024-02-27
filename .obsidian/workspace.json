@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Без названия.canvas",
+                "file": "Projects/work/agg-data-per-shift.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Без названия.canvas",
+                "file": "Projects/work/agg-data-per-shift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия.canvas"
+                "file": "Projects/work/agg-data-per-shift.md"
               }
             }
           },
@@ -195,11 +194,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "446c3d1a542c7fa3",
+  "active": "da3add6d9cf6f879",
   "lastOpenFiles": [
+    "Тестирование Golang.md",
     "Без названия.canvas",
     "Projects/work/agg-data-per-shift.md",
-    "Тестирование Golang.md",
     "Projects/work/Система отправки событий/Система отправки событий.md",
     "Home_page.md",
     "Manjaro.md",
