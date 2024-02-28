@@ -170,6 +170,7 @@
   },
   "active": "ca01b692105ebfb7",
   "lastOpenFiles": [
+    "Без названия 1.canvas",
     "Home_page.md",
     "Protobuf синтаксис.md",
     "Чтение и запись Postgres в Go.md",
@@ -179,7 +180,6 @@
     "Загрузка переменных окружения (env vars) golang.md",
     "Библиотеки Python.md",
     "Базовый синтаксис Python.md",
-    "Без названия 1.canvas",
     "Работа с PostgreSQL через Golang.md",
     "Projects/learning/golang/Golang обучение.md",
     "Projects/learning/Учебные задачи по разработке.md",
@@ -197,7 +197,6 @@
     "Pydantic.md",
     "Стандартная библиотека Golang.md",
     "работа с ошибками в Go.md",
-    "Выгрузка дампа postgresql.md",
     "Projects/work/Система отправки событий",
     "banners/artem-sapegin-b18TRXc8UPQ-unsplash.jpg",
     "Projects/learning/golang",
