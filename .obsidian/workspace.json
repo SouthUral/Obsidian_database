@@ -4,45 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3f98173481dbdf46",
+        "id": "4080af4e3f74a2c4",
         "type": "tabs",
         "children": [
           {
-            "id": "da3add6d9cf6f879",
+            "id": "05570f5195a28b4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
-                "mode": "source",
+                "file": "Home_page.md",
+                "mode": "preview",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "b5932df92c8e2a15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Тестирование Golang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "446c3d1a542c7fa3",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Без названия.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
               }
             }
           }
@@ -121,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "Home_page.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "Home_page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md"
+                "file": "Home_page.md"
               }
             }
           },
@@ -194,7 +167,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "da3add6d9cf6f879",
+  "active": "05570f5195a28b4f",
   "lastOpenFiles": [
     "Тестирование Golang.md",
     "Без названия.canvas",
