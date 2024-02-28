@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "db106d5ee9c11620",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Работа с PostgreSQL через Golang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Работа с PostgreSQL через Golang.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Работа с PostgreSQL через Golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Работа с PostgreSQL через Golang.md"
+              }
             }
           },
           {
@@ -160,8 +177,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "9731ea4c110801af",
+  "active": "db106d5ee9c11620",
   "lastOpenFiles": [
+    "Чтение и запись Postgres в Go.md",
     "Home_page.md",
     "Загрузка переменных окружения (env vars) golang.md",
     "сервисы для изучения Golang.md",
@@ -197,7 +215,6 @@
     "Projects/work/Рабочие задачи.md",
     "Projects/work/Работа над путевыми листами.md",
     "Projects/work/sync_tables.md",
-    "Projects/work/agg-data-per-shift.md",
     "Projects/learning/golang",
     "Projects/work",
     "Projects/learning",
