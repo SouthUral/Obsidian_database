@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a9aeee6e3be8d933",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Структура приложения Golang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "Структура приложения Golang.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "Структура приложения Golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md"
+                "file": "Структура приложения Golang.md"
               }
             }
           },
@@ -167,10 +180,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "05570f5195a28b4f",
+  "active": "a9aeee6e3be8d933",
   "lastOpenFiles": [
-    "Home_page.md",
     "Projects/work/agg-data-per-shift.md",
+    "Home_page.md",
     "Тестирование Golang.md",
     "Без названия.canvas",
     "Projects/work/Система отправки событий/Система отправки событий.md",
