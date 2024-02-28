@@ -4,29 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4080af4e3f74a2c4",
+        "id": "5cc6748417036e7a",
         "type": "tabs",
         "children": [
           {
-            "id": "05570f5195a28b4f",
+            "id": "b19f9502236ba6af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9aeee6e3be8d933",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Структура приложения Golang.md",
-                "mode": "source",
+                "file": "Home_page.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -89,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2cbb7cbbc64b7a60",
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "Home_page.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "Home_page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md"
+                "file": "Home_page.md"
               }
             }
           },
@@ -162,11 +149,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,11 +168,25 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "05570f5195a28b4f",
+  "active": "b19f9502236ba6af",
   "lastOpenFiles": [
-    "Структура приложения Golang.md",
-    "Projects/work/agg-data-per-shift.md",
     "Home_page.md",
+    "Protobuf синтаксис.md",
+    "Чтение и запись Postgres в Go.md",
+    "docker.md",
+    "Полезные фишки с ООП Python.md",
+    "Запрос на просмотр связей таблицы Postgres.md",
+    "Загрузка переменных окружения (env vars) golang.md",
+    "Библиотеки Python.md",
+    "Базовый синтаксис Python.md",
+    "Без названия 1.canvas",
+    "Работа с PostgreSQL через Golang.md",
+    "Projects/learning/golang/Golang обучение.md",
+    "Projects/learning/Учебные задачи по разработке.md",
+    "Projects/learning/Учебные задачи.md",
+    "Работа с БД в Golang.md",
+    "Projects/work/agg-data-per-shift.md",
+    "Структура приложения Golang.md",
     "Тестирование Golang.md",
     "Без названия.canvas",
     "Projects/work/Система отправки событий/Система отправки событий.md",
@@ -195,20 +198,7 @@
     "Стандартная библиотека Golang.md",
     "работа с ошибками в Go.md",
     "Выгрузка дампа postgresql.md",
-    "разворачивание  postgreSQL через docker-compose.md",
-    "Projects/learning/golang/Golang задачи.md",
-    "Projects/learning/golang/Golang обучение.md",
-    "Projects/learning/Учебные задачи по разработке.md",
-    "Projects/learning/Учебные задачи.md",
-    "Работа с PostgreSQL через Golang.md",
-    "Работа с БД в Golang.md",
-    "http сервис на go (расшифровка статьи).md",
-    "http golang сервер.md",
-    "сервисы для изучения Golang.md",
-    "Golang.md",
-    "Разработка Web приложения на Golang.md",
     "Projects/work/Система отправки событий",
-    "Разворачивание RabbitMQ в docker-compose.md",
     "banners/artem-sapegin-b18TRXc8UPQ-unsplash.jpg",
     "Projects/learning/golang",
     "banners/banner_go-9b8733250036c66a86bf103fb4a01804.png",
@@ -228,7 +218,6 @@
     "Pasted image 20240115133351.png",
     "Go библиотека encoding",
     "сервер на net",
-    "Без названия 1.canvas",
     "Без названия 3.canvas",
     "Без названия 2.canvas"
   ]
