@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Структура приложения Golang.md",
+                "file": "Projects/work/agg-data-per-shift.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Структура приложения Golang.md",
+                "file": "Projects/work/agg-data-per-shift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Структура приложения Golang.md"
+                "file": "Projects/work/agg-data-per-shift.md"
               }
             }
           },
@@ -180,8 +179,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a9aeee6e3be8d933",
+  "active": "05570f5195a28b4f",
   "lastOpenFiles": [
+    "Структура приложения Golang.md",
     "Projects/work/agg-data-per-shift.md",
     "Home_page.md",
     "Тестирование Golang.md",
