@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8781b8c577d2a8bf",
+        "id": "97ebd000dc5a8be1",
         "type": "tabs",
         "children": [
           {
-            "id": "8f944ecd848616b5",
+            "id": "9731ea4c110801af",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Home_page.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#work",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home_page.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home_page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home_page.md"
+              }
             }
           },
           {
@@ -141,74 +149,73 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "homepage:Open homepage": false
+      "graph:Граф": false
     }
   },
-  "active": "8f944ecd848616b5",
+  "active": "9731ea4c110801af",
   "lastOpenFiles": [
-    "Home_page.md",
-    "Без названия 1.canvas",
-    "Protobuf синтаксис.md",
-    "Чтение и запись Postgres в Go.md",
-    "docker.md",
-    "Полезные фишки с ООП Python.md",
-    "Запрос на просмотр связей таблицы Postgres.md",
-    "Загрузка переменных окружения (env vars) golang.md",
-    "Библиотеки Python.md",
-    "Базовый синтаксис Python.md",
-    "Работа с PostgreSQL через Golang.md",
-    "Projects/learning/golang/Golang обучение.md",
-    "Projects/learning/Учебные задачи по разработке.md",
-    "Projects/learning/Учебные задачи.md",
-    "Работа с БД в Golang.md",
-    "Projects/work/agg-data-per-shift.md",
-    "Структура приложения Golang.md",
-    "Тестирование Golang.md",
-    "Без названия.canvas",
-    "Projects/work/Система отправки событий/Система отправки событий.md",
-    "Manjaro.md",
-    "logrus golang.md",
-    "Логирование в golang.md",
-    "json Go.md",
-    "Pydantic.md",
-    "Стандартная библиотека Golang.md",
+    "сервисы для изучения Golang.md",
+    "разворачивание  postgreSQL через docker-compose.md",
     "работа с ошибками в Go.md",
-    "Projects/work/Система отправки событий",
-    "banners/artem-sapegin-b18TRXc8UPQ-unsplash.jpg",
-    "Projects/learning/golang",
-    "banners/banner_go-9b8733250036c66a86bf103fb4a01804.png",
-    "banners/banner_go-9b8733250036c66a86bf103fb4a01804.png.crdownload",
-    "banners/Deploying-a-Golang-Application-with-Kubernetes.png",
-    "banners/ian-dooley-DJ7bWa-Gwks-unsplash.jpg",
-    "banners/janko-ferlic-sfL_QOnmy00-unsplash.jpg",
-    "banners/premium_photo-1672115680863-9353a690495a.png",
-    "banners/anthony-reungere-s6xt1mwF_iU-unsplash.jpg",
+    "проекты.md",
+    "консольные команды linux.md",
+    "Чистая архитектура в Golang.md",
+    "Схематичная карта работы модуля путевых листов.md",
+    "Разворачивание Go сервиса в Docker.md",
+    "Работа с PostgreSQL через Golang.md",
+    "Работа в Golang со stream в RabbitMQ.md",
+    "Планирование Январь 2024.md",
+    "Мои заметки.md",
+    "Алгоритмы.md",
+    "http сервис на go (расшифровка статьи).md",
+    "http golang сервер.md",
     "banners/premium_photo-1680582107403-04dfac02efc3.png",
+    "banners/premium_photo-1672115680863-9353a690495a.png",
+    "banners/janko-ferlic-sfL_QOnmy00-unsplash.jpg",
+    "banners/ian-dooley-DJ7bWa-Gwks-unsplash.jpg",
+    "banners/banner_go-9b8733250036c66a86bf103fb4a01804.png",
+    "banners/artem-sapegin-b18TRXc8UPQ-unsplash.jpg",
+    "banners/anthony-reungere-s6xt1mwF_iU-unsplash.jpg",
+    "banners/Deploying-a-Golang-Application-with-Kubernetes.png",
     "banners",
-    "Projects/health",
-    "Projects/learning",
+    "SQL.md",
+    "RabbitMQ streams.md",
+    "Projects/work/Система отправки событий/Система отправки событий.md",
+    "Projects/learning/golang/Golang обучение.md",
+    "Projects/learning/golang/Golang задачи.md",
+    "Projects/work/Система отправки событий",
+    "Projects/work/Рабочие задачи.md",
+    "Projects/work/Работа над путевыми листами.md",
+    "Projects/work/sync_tables.md",
+    "Projects/work/agg-data-per-shift.md",
+    "Projects/learning/Учебные задачи.md",
+    "Projects/learning/Учебные задачи по разработке.md",
+    "Projects/learning/golang",
     "Projects/work",
+    "Projects/learning",
     "Projects",
-    "1_Thread_api_1633091567.png",
     "Pasted image 20240115133351.png",
+    "Pasted image 20240113194705.png",
+    "Без названия.canvas",
     "Go библиотека encoding",
     "сервер на net",
+    "Без названия 1.canvas",
+    "1_Thread_api_1633091567.png.crdownload",
+    "Auth_Sensitive_data_1_1_1629405798.png.crdownload",
     "Без названия 3.canvas",
     "Без названия 2.canvas"
   ]
