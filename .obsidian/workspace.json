@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Выгрузка дампа postgresql.md",
+                "file": "Базовый синтаксис Golang.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pg",
+                "query": "json",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Выгрузка дампа postgresql.md",
+                "file": "Базовый синтаксис Golang.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Выгрузка дампа postgresql.md",
+                "file": "Базовый синтаксис Golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Выгрузка дампа postgresql.md"
+                "file": "Базовый синтаксис Golang.md"
               }
             }
           },
@@ -183,6 +183,8 @@
   },
   "active": "31f990ed0bc32cb8",
   "lastOpenFiles": [
+    "Декодирование Json в golang.md",
+    "Выгрузка дампа postgresql.md",
     "Home_page.md",
     "Чтение и запись Postgres в Go.md",
     "Загрузка переменных окружения (env vars) golang.md",
@@ -217,8 +219,6 @@
     "Projects/learning/golang/Golang задачи.md",
     "Projects/work/Система отправки событий",
     "Projects/work/Рабочие задачи.md",
-    "Projects/work/Работа над путевыми листами.md",
-    "Projects/work/sync_tables.md",
     "Projects/learning/golang",
     "Projects/work",
     "Projects/learning",
