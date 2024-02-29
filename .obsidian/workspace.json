@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home_page.md",
-                "mode": "preview",
+                "file": "Projects/work/agg-data-per-shift.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home_page.md",
+                "file": "Projects/work/agg-data-per-shift.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home_page.md",
+                "file": "Projects/work/agg-data-per-shift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home_page.md"
+                "file": "Projects/work/agg-data-per-shift.md"
               }
             }
           },
@@ -170,8 +170,8 @@
   },
   "active": "9731ea4c110801af",
   "lastOpenFiles": [
-    "Чтение и запись Postgres в Go.md",
     "Home_page.md",
+    "Чтение и запись Postgres в Go.md",
     "Загрузка переменных окружения (env vars) golang.md",
     "сервисы для изучения Golang.md",
     "разворачивание  postgreSQL через docker-compose.md",
