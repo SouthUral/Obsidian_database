@@ -11,24 +11,15 @@
             "id": "9731ea4c110801af",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "db106d5ee9c11620",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Работа с PostgreSQL через Golang.md",
-                "mode": "source",
+                "file": "Home_page.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Работа с PostgreSQL через Golang.md",
+                "file": "Home_page.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Работа с PostgreSQL через Golang.md",
+                "file": "Home_page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Работа с PostgreSQL через Golang.md"
+                "file": "Home_page.md"
               }
             }
           },
@@ -177,7 +168,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "db106d5ee9c11620",
+  "active": "9731ea4c110801af",
   "lastOpenFiles": [
     "Чтение и запись Postgres в Go.md",
     "Home_page.md",
