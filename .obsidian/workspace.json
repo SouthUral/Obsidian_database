@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "26fa7a64c850fd47",
+        "id": "8dd093da559e8f76",
         "type": "tabs",
         "children": [
           {
-            "id": "4a55a7c9618faf0c",
+            "id": "d69d28765daf5443",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "31f990ed0bc32cb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Базовый синтаксис Golang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Базовый синтаксис Golang.md",
+                "file": "Home_page.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Базовый синтаксис Golang.md",
+                "file": "Home_page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Базовый синтаксис Golang.md"
+                "file": "Home_page.md"
               }
             }
           },
@@ -182,7 +169,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "31f990ed0bc32cb8",
+  "active": "d69d28765daf5443",
   "lastOpenFiles": [
     "Декодирование Json в golang.md",
     "Выгрузка дампа postgresql.md",
