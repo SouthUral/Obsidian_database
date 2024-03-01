@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a32c603ed34b4d74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "работа с ошибками в Go.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "работа с ошибками в Go.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "работа с ошибками в Go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md"
+                "file": "работа с ошибками в Go.md"
               }
             }
           },
@@ -169,8 +182,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "d69d28765daf5443",
+  "active": "a32c603ed34b4d74",
   "lastOpenFiles": [
+    "Projects/work/agg-data-per-shift.md",
     "Home_page.md",
     "Декодирование Json в golang.md",
     "Выгрузка дампа postgresql.md",
@@ -206,7 +220,6 @@
     "Projects/learning/golang/Golang обучение.md",
     "Projects/learning/golang/Golang задачи.md",
     "Projects/work/Система отправки событий",
-    "Projects/work/Рабочие задачи.md",
     "Projects/learning/golang",
     "Projects/work",
     "Projects/learning",
