@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2d6c9699fdbd1caf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Команды git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2cbb7cbbc64b7a60",
@@ -95,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "Команды git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "Команды git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md"
+                "file": "Команды git.md"
               }
             }
           },
@@ -169,10 +181,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "80aaa7d3f84bf099",
+  "active": "2d6c9699fdbd1caf",
   "lastOpenFiles": [
-    "Home_page.md",
+    "Удаление ветки git локально.md",
     "Projects/work/agg-data-per-shift.md",
+    "Home_page.md",
     "Декодирование Json в golang.md",
     "Выгрузка дампа postgresql.md",
     "Чтение и запись Postgres в Go.md",
@@ -205,7 +218,6 @@
     "RabbitMQ streams.md",
     "Projects/work/Система отправки событий/Система отправки событий.md",
     "Projects/learning/golang/Golang обучение.md",
-    "Projects/learning/golang/Golang задачи.md",
     "Projects/work/Система отправки событий",
     "Projects/learning/golang",
     "Projects/work",
