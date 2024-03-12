@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ef48cf4f03b9fc9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f2a1d83e7b300eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Соединения (JOIN).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "Соединения (JOIN).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "Соединения (JOIN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md"
+                "file": "Соединения (JOIN).md"
               }
             }
           },
@@ -169,12 +194,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "34fdb271f4ad7859",
+  "active": "7f2a1d83e7b300eb",
   "lastOpenFiles": [
+    "Соединения (JOIN).md",
+    "SQL.md",
+    "Projects/work/agg-data-per-shift.md",
     "Home_page.md",
     "Команды git.md",
     "Удаление ветки git локально.md",
-    "Projects/work/agg-data-per-shift.md",
     "Декодирование Json в golang.md",
     "Выгрузка дампа postgresql.md",
     "Чтение и запись Postgres в Go.md",
@@ -203,9 +230,7 @@
     "banners/anthony-reungere-s6xt1mwF_iU-unsplash.jpg",
     "banners/Deploying-a-Golang-Application-with-Kubernetes.png",
     "banners",
-    "SQL.md",
     "RabbitMQ streams.md",
-    "Projects/work/Система отправки событий/Система отправки событий.md",
     "Projects/work/Система отправки событий",
     "Projects/learning/golang",
     "Projects/work",
