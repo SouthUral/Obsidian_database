@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Соединения (JOIN).md",
+                "file": "Projects/work/agg-data-per-shift.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Соединения (JOIN).md",
+                "file": "Projects/work/agg-data-per-shift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Соединения (JOIN).md"
+                "file": "Projects/work/agg-data-per-shift.md"
               }
             }
           },
@@ -194,10 +193,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7f2a1d83e7b300eb",
+  "active": "34fdb271f4ad7859",
   "lastOpenFiles": [
-    "SQL.md",
     "Соединения (JOIN).md",
+    "SQL.md",
     "Projects/work/agg-data-per-shift.md",
     "Home_page.md",
     "Команды git.md",
