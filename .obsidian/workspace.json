@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Соединения (JOIN).md",
+                "file": "SQL.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Соединения (JOIN).md",
+                "file": "SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Соединения (JOIN).md"
+                "file": "SQL.md"
               }
             }
           },
@@ -194,7 +194,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7f2a1d83e7b300eb",
+  "active": "ef48cf4f03b9fc9f",
   "lastOpenFiles": [
     "Соединения (JOIN).md",
     "SQL.md",
