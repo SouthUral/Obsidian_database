@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "281d8e6cd4e1f3fc",
+        "id": "ed7d39809a7091e8",
         "type": "tabs",
         "children": [
           {
-            "id": "e60c7015908bb239",
+            "id": "34fdb271f4ad7859",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,7 +169,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e60c7015908bb239",
+  "active": "34fdb271f4ad7859",
   "lastOpenFiles": [
     "Home_page.md",
     "Команды git.md",
