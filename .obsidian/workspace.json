@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Projects/learning/golang/Golang обучение.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Паттерн одиночка (singleton) Golang.md",
+                "file": "Projects/work/agg-data-per-shift.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Паттерн одиночка (singleton) Golang.md",
+                "file": "Projects/work/agg-data-per-shift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Паттерн одиночка (singleton) Golang.md"
+                "file": "Projects/work/agg-data-per-shift.md"
               }
             }
           },
@@ -217,12 +216,12 @@
       "graph:Граф": false
     }
   },
-  "active": "0b8b71c1d58053e3",
+  "active": "3735115813357248",
   "lastOpenFiles": [
+    "Паттерны конкурентного программирования в Go.md",
+    "Projects/learning/golang/Golang обучение.md",
     "Паттерны проектирования Golang.md",
     "Паттерн одиночка (singleton) Golang.md",
-    "Projects/learning/golang/Golang обучение.md",
-    "Паттерны конкурентного программирования в Go.md",
     "Projects/work/agg-data-per-shift.md",
     "Home_page.md",
     "Projects/learning/Собеседования.md",
