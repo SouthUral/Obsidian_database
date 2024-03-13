@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d6804fa181650e43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Паттерны конкурентного программирования в Go.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2cbb7cbbc64b7a60",
@@ -95,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "Паттерны конкурентного программирования в Go.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "Паттерны конкурентного программирования в Go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md"
+                "file": "Паттерны конкурентного программирования в Go.md"
               }
             }
           },
@@ -169,8 +181,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "3735115813357248",
+  "active": "d6804fa181650e43",
   "lastOpenFiles": [
+    "Projects/work/agg-data-per-shift.md",
     "Home_page.md",
     "Projects/learning/Собеседования.md",
     "Вопросы на собеседовании golang разработчика.md",
@@ -178,7 +191,6 @@
     "Типы Golang.md",
     "SQL.md",
     "Соединения (JOIN).md",
-    "Projects/work/agg-data-per-shift.md",
     "Команды git.md",
     "Удаление ветки git локально.md",
     "Декодирование Json в golang.md",
