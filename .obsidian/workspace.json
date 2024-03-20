@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8389346d4231546a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Работа с PostgreSQL через Golang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gRPC golang.md",
+                "file": "Работа с PostgreSQL через Golang.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gRPC golang.md",
+                "file": "Работа с PostgreSQL через Golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gRPC golang.md"
+                "file": "Работа с PostgreSQL через Golang.md"
               }
             }
           },
@@ -168,13 +181,13 @@
       "graph:Граф": false
     }
   },
-  "active": "2a2d50390c6156e5",
+  "active": "8389346d4231546a",
   "lastOpenFiles": [
+    "Home_page.md",
+    "gRPC golang.md",
     "gRPC.md",
     "IPC.md",
-    "gRPC golang.md",
     "Разработка Web приложения на Golang.md",
-    "Home_page.md",
     "Projects/learning/Собеседования.md",
     "Projects/work/agg-data-per-shift.md",
     "Паттерны конкурентного программирования в Go.md",
