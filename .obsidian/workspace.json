@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home_page.md",
-                "mode": "preview",
+                "file": "gRPC golang.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home_page.md",
+                "file": "gRPC golang.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home_page.md",
+                "file": "gRPC golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home_page.md"
+                "file": "gRPC golang.md"
               }
             }
           },
@@ -151,8 +151,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,6 +170,7 @@
   },
   "active": "2a2d50390c6156e5",
   "lastOpenFiles": [
+    "gRPC.md",
     "Home_page.md",
     "Projects/learning/Собеседования.md",
     "Projects/work/agg-data-per-shift.md",
@@ -196,7 +196,6 @@
     "консольные команды linux.md",
     "Чистая архитектура в Golang.md",
     "Схематичная карта работы модуля путевых листов.md",
-    "Разворачивание Go сервиса в Docker.md",
     "banners/premium_photo-1680582107403-04dfac02efc3.png",
     "banners/premium_photo-1672115680863-9353a690495a.png",
     "banners/janko-ferlic-sfL_QOnmy00-unsplash.jpg",
