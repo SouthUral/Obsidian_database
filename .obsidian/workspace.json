@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "работа с ошибками в Go.md",
+                "file": "Projects/work/agg-data-per-shift.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "работа с ошибками в Go.md",
+                "file": "Projects/work/agg-data-per-shift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "работа с ошибками в Go.md"
+                "file": "Projects/work/agg-data-per-shift.md"
               }
             }
           },
@@ -193,8 +193,9 @@
       "graph:Граф": false
     }
   },
-  "active": "8389346d4231546a",
+  "active": "4af216c386e2f435",
   "lastOpenFiles": [
+    "работа с ошибками в Go.md",
     "Работа с PostgreSQL через Golang.md",
     "Projects/work/agg-data-per-shift.md",
     "Home_page.md",
@@ -220,7 +221,6 @@
     "Загрузка переменных окружения (env vars) golang.md",
     "сервисы для изучения Golang.md",
     "разворачивание  postgreSQL через docker-compose.md",
-    "работа с ошибками в Go.md",
     "banners/premium_photo-1680582107403-04dfac02efc3.png",
     "banners/premium_photo-1672115680863-9353a690495a.png",
     "banners/janko-ferlic-sfL_QOnmy00-unsplash.jpg",
