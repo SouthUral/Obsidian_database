@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Работа с PostgreSQL через Golang.md",
+                "file": "работа с ошибками в Go.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "работа с ошибками в Go.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "работа с ошибками в Go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md"
+                "file": "работа с ошибками в Go.md"
               }
             }
           },
@@ -193,16 +193,16 @@
       "graph:Граф": false
     }
   },
-  "active": "4af216c386e2f435",
+  "active": "8389346d4231546a",
   "lastOpenFiles": [
+    "Работа с PostgreSQL через Golang.md",
+    "Projects/work/agg-data-per-shift.md",
     "Home_page.md",
     "gRPC golang.md",
-    "Работа с PostgreSQL через Golang.md",
     "gRPC.md",
     "IPC.md",
     "Разработка Web приложения на Golang.md",
     "Projects/learning/Собеседования.md",
-    "Projects/work/agg-data-per-shift.md",
     "Паттерны конкурентного программирования в Go.md",
     "Projects/learning/golang/Golang обучение.md",
     "Паттерны проектирования Golang.md",
