@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "4af216c386e2f435",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/work/agg-data-per-shift.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8389346d4231546a",
             "type": "leaf",
             "state": {
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Работа с PostgreSQL через Golang.md",
+                "file": "Projects/work/agg-data-per-shift.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Работа с PostgreSQL через Golang.md",
+                "file": "Projects/work/agg-data-per-shift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Работа с PostgreSQL через Golang.md"
+                "file": "Projects/work/agg-data-per-shift.md"
               }
             }
           },
@@ -181,10 +193,11 @@
       "graph:Граф": false
     }
   },
-  "active": "8389346d4231546a",
+  "active": "4af216c386e2f435",
   "lastOpenFiles": [
     "Home_page.md",
     "gRPC golang.md",
+    "Работа с PostgreSQL через Golang.md",
     "gRPC.md",
     "IPC.md",
     "Разработка Web приложения на Golang.md",
@@ -208,7 +221,6 @@
     "сервисы для изучения Golang.md",
     "разворачивание  postgreSQL через docker-compose.md",
     "работа с ошибками в Go.md",
-    "проекты.md",
     "banners/premium_photo-1680582107403-04dfac02efc3.png",
     "banners/premium_photo-1672115680863-9353a690495a.png",
     "banners/janko-ferlic-sfL_QOnmy00-unsplash.jpg",
