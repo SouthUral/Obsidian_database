@@ -6,7 +6,8 @@
 
 # Коды ошибок
 
-"57P01" = "terminating connection due to administrator command"
+"
+" = "terminating connection due to administrator command"
 ```go
 *pgconn.ConnectError
 ```
