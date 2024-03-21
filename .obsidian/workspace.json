@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Работа с PostgreSQL через Golang.md",
+                "file": "Projects/work/agg-data-per-shift.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Работа с PostgreSQL через Golang.md",
+                "file": "Projects/work/agg-data-per-shift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Работа с PostgreSQL через Golang.md"
+                "file": "Projects/work/agg-data-per-shift.md"
               }
             }
           },
@@ -205,12 +205,12 @@
       "graph:Граф": false
     }
   },
-  "active": "adad20384b2e8a62",
+  "active": "4af216c386e2f435",
   "lastOpenFiles": [
+    "Работа с PostgreSQL через Golang.md",
     "работа с ошибками в Go.md",
     "Projects/work/agg-data-per-shift.md",
     "gRPC golang.md",
-    "Работа с PostgreSQL через Golang.md",
     "Home_page.md",
     "gRPC.md",
     "IPC.md",
