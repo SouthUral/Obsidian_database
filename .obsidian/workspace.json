@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ab87283cc19b9899",
+        "id": "1a4b1f342eaacae8",
         "type": "tabs",
         "children": [
           {
-            "id": "2a2d50390c6156e5",
+            "id": "3bbfd91b359dc2ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gRPC golang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4af216c386e2f435",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8389346d4231546a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "работа с ошибками в Go.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "adad20384b2e8a62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Работа с PostgreSQL через Golang.md",
-                "mode": "source",
+                "file": "Home_page.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "Home_page.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "Home_page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md"
+                "file": "Home_page.md"
               }
             }
           },
@@ -205,7 +168,7 @@
       "graph:Граф": false
     }
   },
-  "active": "4af216c386e2f435",
+  "active": "3bbfd91b359dc2ab",
   "lastOpenFiles": [
     "Работа с PostgreSQL через Golang.md",
     "работа с ошибками в Go.md",
