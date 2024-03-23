@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Базовый синтаксис Golang.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -176,7 +176,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",

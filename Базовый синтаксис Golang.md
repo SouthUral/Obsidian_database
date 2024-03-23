@@ -474,6 +474,105 @@ sort.SliceStable(nums, func(i, j int) bool {
 })
 ```
 
+#### Map
+
+[Видео про map](https://www.youtube.com/watch?v=P_SXTUiA-9Y&t=1786s)
+Map - тип данных, предназначенный для хранения пар ключ-значение. В других языках эту структуру называют: ==хэш-таблица==,
+словарь, ассоциативный массив. Запись и чтение элементов происходят в основном за O(1):
+```go
+// создание пустой мапы
+var m map[int]string
+
+// сокращенное создание пустой мапы
+m := map[int]string{}
+
+// рекомендуемое создание с обозначением размера
+m := make(map[int]string, 10)
+
+// создание мапы с элементами
+m := map[int]string{1: "hello", 2: "world"}
+
+// добавление элемента
+m[3] = "!" // map[1:hello, 2:world, 3:!]
+
+// чтение элемента
+word := m[1] // "hello"
+
+// len() возвращает количество записей (пар «ключ-значение») в карте
+```
+Тип ключа должен быть сравниваемым с помощью оператора 
+```go
+==
+```
+ чтобы ключ мог пройти проверку, равен ли новый ключ уже имеющимся в `map`.
+Лучше не использовать для ключей тип `float`
+
+
+При чтении элемента по несуществующему ключу возвращается нулевое значение данного типа. Это приводит в ошибками логики, когда 
+используется `bool` как значение. Для решения данной проблемы при чтении используется вторая переменная, в которую записывается наличие элемента в map:
+```go
+existedIDs := map[int64]bool{1: true, 2: true}
+
+idExists, elementExists := existedIDs[2] // true, true
+
+idExists, elementExists := existedIDs[225] // false, false
+```
+
+Элементы удаляются с помощью встроенной функции 
+`delete(m map[Type]Type, key Type)`:
+```go
+engToRus := map[string]string{"hello":"привет", "world":"мир"}
+
+delete(engToRus, "world")
+
+fmt.Println(engToRus) // map[hello:привет]
+```
+
+Мапы в Go всегда передаются по ссылке:
+```go
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+	m := map[int]string{1: "hello", 2: "world"}
+
+	modifyMap(m)
+
+	fmt.Println(m) // вывод: map[1:changed 2:world 200:added]
+}
+
+func modifyMap(m map[int]string) {
+	m[200] = "added"
+
+	m[1] = "changed"
+}
+```
+
+##### Обход map
+
+Как слайс, map можно обойти с помощью конструкции for range:
+```Go
+idToName := map[int64]string{1: "Alex", 2: "Dan", 3: "George"}
+
+//  первый аргумент - ключ, второй - значение
+
+for id, name := range idToName {
+	fmt.Println("id : ", id, "name: ", name)
+}
+
+Вывод:
+
+id:  1 name:  Alex
+id:  2 name:  Dan
+id:  3 name:  George
+```
+
+
+Порядок ключей в map рандомизирован 
+
 ## Функции
 
 Функции в Go объявляют через ключевое слово func:
@@ -1270,100 +1369,7 @@ for i, name := range names {
 
 ---
 
-## Map
 
-[Видео про map](https://www.youtube.com/watch?v=P_SXTUiA-9Y&t=1786s)
-Map - тип данных, предназначенный для хранения пар ключ-значение. В других языках эту структуру называют: ==хэш-таблица==,
-словарь, ассоциативный массив. Запись и чтение элементов происходят в основном за O(1):
-```go
-// создание пустой мапы
-var m map[int]string
-
-// сокращенное создание пустой мапы
-m := map[int]string{}
-
-// рекомендуемое создание с обозначением размера
-m := make(map[int]string, 10)
-
-// создание мапы с элементами
-m := map[int]string{1: "hello", 2: "world"}
-
-// добавление элемента
-m[3] = "!" // map[1:hello, 2:world, 3:!]
-
-// чтение элемента
-word := m[1] // "hello"
-
-// len() возвращает количество записей (пар «ключ-значение») в карте
-```
-Тип ключа должен быть сравниваемым с помощью оператора `==`, чтобы ключ мог пройти проверку, равен ли новый ключ уже имеющимся в `map`.
-Лучше не использовать для ключей тип `float`
-
-
-При чтении элемента по несуществующему ключу возвращается нулевое значение данного типа. Это приводит в ошибками логики, когда 
-используется `bool` как значение. Для решения данной проблемы при чтении используется вторая переменная, в которую записывается наличие элемента в map:
-```go
-existedIDs := map[int64]bool{1: true, 2: true}
-
-idExists, elementExists := existedIDs[2] // true, true
-
-idExists, elementExists := existedIDs[225] // false, false
-```
-
-Элементы удаляются с помощью встроенной функции 
-`delete(m map[Type]Type, key Type)`:
-```go
-engToRus := map[string]string{"hello":"привет", "world":"мир"}
-
-delete(engToRus, "world")
-
-fmt.Println(engToRus) // map[hello:привет]
-```
-
-Мапы в Go всегда передаются по ссылке:
-```go
-package main
-
-import (
-	"fmt"
-)
-
-func main() {
-	m := map[int]string{1: "hello", 2: "world"}
-
-	modifyMap(m)
-
-	fmt.Println(m) // вывод: map[1:changed 2:world 200:added]
-}
-
-func modifyMap(m map[int]string) {
-	m[200] = "added"
-
-	m[1] = "changed"
-}
-```
-
-### Обход map
-
-Как слайс, map можно обойти с помощью конструкции for range:
-```Go
-idToName := map[int64]string{1: "Alex", 2: "Dan", 3: "George"}
-
-//  первый аргумент - ключ, второй - значение
-
-for id, name := range idToName {
-	fmt.Println("id : ", id, "name: ", name)
-}
-
-Вывод:
-
-id:  1 name:  Alex
-id:  2 name:  Dan
-id:  3 name:  George
-```
-
-
-Порядок ключей в map рандомизирован 
 
 
 ## Строки и байты
