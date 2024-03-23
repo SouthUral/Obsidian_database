@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "df2866401f1d9613",
+        "id": "f5f435e0bf33ba3f",
         "type": "tabs",
         "children": [
           {
-            "id": "ffaca5825cd3f45b",
+            "id": "d515f819d829b669",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
-                "mode": "preview",
+                "file": "Projects/learning/Учебные задачи.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83c6cda715684840",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Вопросы на собеседовании golang разработчика.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "Вопросы на собеседовании golang разработчика.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "Вопросы на собеседовании golang разработчика.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md"
+                "file": "Вопросы на собеседовании golang разработчика.md"
               }
             }
           },
@@ -159,6 +172,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "switcher:Меню быстрого перехода": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
@@ -167,9 +181,11 @@
       "graph:Граф": false
     }
   },
-  "active": "ffaca5825cd3f45b",
+  "active": "83c6cda715684840",
   "lastOpenFiles": [
+    "Projects/learning/Собеседования.md",
     "Home_page.md",
+    "Projects/learning/Учебные задачи.md",
     "Projects/work/Рабочие задачи.md",
     "Работа с PostgreSQL через Golang.md",
     "работа с ошибками в Go.md",
@@ -178,7 +194,6 @@
     "gRPC.md",
     "IPC.md",
     "Разработка Web приложения на Golang.md",
-    "Projects/learning/Собеседования.md",
     "Паттерны конкурентного программирования в Go.md",
     "Projects/learning/golang/Golang обучение.md",
     "Паттерны проектирования Golang.md",
@@ -194,7 +209,6 @@
     "Выгрузка дампа postgresql.md",
     "Чтение и запись Postgres в Go.md",
     "Загрузка переменных окружения (env vars) golang.md",
-    "сервисы для изучения Golang.md",
     "banners/premium_photo-1680582107403-04dfac02efc3.png",
     "banners/premium_photo-1672115680863-9353a690495a.png",
     "banners/janko-ferlic-sfL_QOnmy00-unsplash.jpg",
