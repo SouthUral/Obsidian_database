@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Вопросы на собеседовании golang разработчика.md",
+                "file": "Map (словарь) golang.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Вопросы на собеседовании golang разработчика.md",
+                "file": "Map (словарь) golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Вопросы на собеседовании golang разработчика.md"
+                "file": "Map (словарь) golang.md"
               }
             }
           },
@@ -206,15 +206,15 @@
       "graph:Граф": false
     }
   },
-  "active": "83c6cda715684840",
+  "active": "9ff9375c19ab86d1",
   "lastOpenFiles": [
+    "Вопросы на собеседовании golang разработчика.md",
     "Базовый синтаксис Golang.md",
     "Map (словарь) golang.md",
     "Projects/learning/golang/Golang обучение.md",
     "Projects/learning/Учебные задачи по разработке.md",
     "Projects/learning/Учебные задачи.md",
     "Home_page.md",
-    "Вопросы на собеседовании golang разработчика.md",
     "Projects/learning/Собеседования.md",
     "Projects/work/Рабочие задачи.md",
     "Работа с PostgreSQL через Golang.md",
