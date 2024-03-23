@@ -42,9 +42,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9ff9375c19ab86d1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Базовый синтаксис Golang.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +144,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Базовый синтаксис Golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +165,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Базовый синтаксис Golang.md"
-              }
+              "state": {}
             }
           },
           {
@@ -194,8 +198,9 @@
       "graph:Граф": false
     }
   },
-  "active": "f9e76515f8f26641",
+  "active": "9ff9375c19ab86d1",
   "lastOpenFiles": [
+    "Базовый синтаксис Golang.md",
     "Projects/learning/golang/Golang обучение.md",
     "Projects/learning/Учебные задачи по разработке.md",
     "Projects/learning/Учебные задачи.md",
@@ -213,7 +218,6 @@
     "Паттерны конкурентного программирования в Go.md",
     "Паттерны проектирования Golang.md",
     "Паттерн одиночка (singleton) Golang.md",
-    "Базовый синтаксис Golang.md",
     "Типы Golang.md",
     "SQL.md",
     "Соединения (JOIN).md",
