@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f9e76515f8f26641",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Базовый синтаксис Golang.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Вопросы на собеседовании golang разработчика.md",
+                "file": "Базовый синтаксис Golang.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Вопросы на собеседовании golang разработчика.md",
+                "file": "Базовый синтаксис Golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Вопросы на собеседовании golang разработчика.md"
+                "file": "Базовый синтаксис Golang.md"
               }
             }
           },
@@ -181,11 +193,14 @@
       "graph:Граф": false
     }
   },
-  "active": "83c6cda715684840",
+  "active": "f9e76515f8f26641",
   "lastOpenFiles": [
-    "Projects/learning/Собеседования.md",
-    "Home_page.md",
+    "Projects/learning/golang/Golang обучение.md",
+    "Projects/learning/Учебные задачи по разработке.md",
     "Projects/learning/Учебные задачи.md",
+    "Home_page.md",
+    "Вопросы на собеседовании golang разработчика.md",
+    "Projects/learning/Собеседования.md",
     "Projects/work/Рабочие задачи.md",
     "Работа с PostgreSQL через Golang.md",
     "работа с ошибками в Go.md",
@@ -195,10 +210,8 @@
     "IPC.md",
     "Разработка Web приложения на Golang.md",
     "Паттерны конкурентного программирования в Go.md",
-    "Projects/learning/golang/Golang обучение.md",
     "Паттерны проектирования Golang.md",
     "Паттерн одиночка (singleton) Golang.md",
-    "Вопросы на собеседовании golang разработчика.md",
     "Базовый синтаксис Golang.md",
     "Типы Golang.md",
     "SQL.md",
@@ -208,7 +221,6 @@
     "Декодирование Json в golang.md",
     "Выгрузка дампа postgresql.md",
     "Чтение и запись Postgres в Go.md",
-    "Загрузка переменных окружения (env vars) golang.md",
     "banners/premium_photo-1680582107403-04dfac02efc3.png",
     "banners/premium_photo-1672115680863-9353a690495a.png",
     "banners/janko-ferlic-sfL_QOnmy00-unsplash.jpg",
