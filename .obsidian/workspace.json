@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Map (словарь) golang.md",
+                "file": "Вопросы на собеседовании golang разработчика.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Map (словарь) golang.md",
+                "file": "Вопросы на собеседовании golang разработчика.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Map (словарь) golang.md"
+                "file": "Вопросы на собеседовании golang разработчика.md"
               }
             }
           },
@@ -206,7 +206,7 @@
       "graph:Граф": false
     }
   },
-  "active": "9ff9375c19ab86d1",
+  "active": "83c6cda715684840",
   "lastOpenFiles": [
     "Базовый синтаксис Golang.md",
     "Map (словарь) golang.md",
