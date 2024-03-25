@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "83c6cda715684840",
+            "id": "2508a18dfd7a96d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вопросы на собеседовании golang разработчика.md",
+                "file": "Projects/work/agg-data-per-shift.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Map (словарь) golang.md",
+                "file": "Projects/work/agg-data-per-shift.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Map (словарь) golang.md",
+                "file": "Projects/work/agg-data-per-shift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Map (словарь) golang.md"
+                "file": "Projects/work/agg-data-per-shift.md"
               }
             }
           },
@@ -206,15 +206,15 @@
       "graph:Граф": false
     }
   },
-  "active": "9ff9375c19ab86d1",
+  "active": "2508a18dfd7a96d9",
   "lastOpenFiles": [
+    "Home_page.md",
+    "Projects/learning/Учебные задачи.md",
     "Вопросы на собеседовании golang разработчика.md",
     "Базовый синтаксис Golang.md",
     "Map (словарь) golang.md",
     "Projects/learning/golang/Golang обучение.md",
     "Projects/learning/Учебные задачи по разработке.md",
-    "Projects/learning/Учебные задачи.md",
-    "Home_page.md",
     "Projects/learning/Собеседования.md",
     "Projects/work/Рабочие задачи.md",
     "Работа с PostgreSQL через Golang.md",
