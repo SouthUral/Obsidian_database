@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Выгрузка дампа postgresql.md",
+                "file": "Запросы в PostgreSQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Выгрузка дампа postgresql.md",
+                "file": "Как создавать таблицы в Postgres.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Выгрузка дампа postgresql.md",
+                "file": "Как создавать таблицы в Postgres.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Выгрузка дампа postgresql.md"
+                "file": "Как создавать таблицы в Postgres.md"
               }
             }
           },
@@ -181,11 +182,13 @@
       "graph:Граф": false
     }
   },
-  "active": "c734c7b2b325b373",
+  "active": "03667a3c9b95ef63",
   "lastOpenFiles": [
+    "Запросы в PostgreSQL.md",
+    "PostgreSQL.md",
+    "Выгрузка дампа postgresql.md",
     "Projects/work/agg-data-per-shift.md",
     "Как создавать таблицы в Postgres.md",
-    "Запросы в PostgreSQL.md",
     "Home_page.md",
     "Интерфейсы golang.md",
     "Маркдаун.md",
@@ -207,8 +210,6 @@
     "Паттерны проектирования Golang.md",
     "Паттерн одиночка (singleton) Golang.md",
     "Типы Golang.md",
-    "SQL.md",
-    "Соединения (JOIN).md",
     "banners/premium_photo-1680582107403-04dfac02efc3.png",
     "banners/premium_photo-1672115680863-9353a690495a.png",
     "banners/janko-ferlic-sfL_QOnmy00-unsplash.jpg",
