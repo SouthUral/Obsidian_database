@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "79296ffdacca7011",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Базовый синтаксис Golang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Как создавать таблицы в Postgres.md",
+                "file": "Базовый синтаксис Golang.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Как создавать таблицы в Postgres.md",
+                "file": "Базовый синтаксис Golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Как создавать таблицы в Postgres.md"
+                "file": "Базовый синтаксис Golang.md"
               }
             }
           },
@@ -182,13 +194,13 @@
       "graph:Граф": false
     }
   },
-  "active": "03667a3c9b95ef63",
+  "active": "79296ffdacca7011",
   "lastOpenFiles": [
+    "Как создавать таблицы в Postgres.md",
     "Запросы в PostgreSQL.md",
     "PostgreSQL.md",
     "Выгрузка дампа postgresql.md",
     "Projects/work/agg-data-per-shift.md",
-    "Как создавать таблицы в Postgres.md",
     "Home_page.md",
     "Интерфейсы golang.md",
     "Маркдаун.md",
