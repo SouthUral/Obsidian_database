@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "Выгрузка дампа postgresql.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Как создавать таблицы в Postgres.md",
+                "file": "Выгрузка дампа postgresql.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Как создавать таблицы в Postgres.md",
+                "file": "Выгрузка дампа postgresql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Как создавать таблицы в Postgres.md"
+                "file": "Выгрузка дампа postgresql.md"
               }
             }
           },
@@ -182,10 +181,11 @@
       "graph:Граф": false
     }
   },
-  "active": "03667a3c9b95ef63",
+  "active": "c734c7b2b325b373",
   "lastOpenFiles": [
-    "Запросы в PostgreSQL.md",
     "Projects/work/agg-data-per-shift.md",
+    "Как создавать таблицы в Postgres.md",
+    "Запросы в PostgreSQL.md",
     "Home_page.md",
     "Интерфейсы golang.md",
     "Маркдаун.md",
@@ -209,7 +209,6 @@
     "Типы Golang.md",
     "SQL.md",
     "Соединения (JOIN).md",
-    "Команды git.md",
     "banners/premium_photo-1680582107403-04dfac02efc3.png",
     "banners/premium_photo-1672115680863-9353a690495a.png",
     "banners/janko-ferlic-sfL_QOnmy00-unsplash.jpg",
