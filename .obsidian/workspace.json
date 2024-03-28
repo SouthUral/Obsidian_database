@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "11a89764dd8a8ee5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Тестирование Golang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Базовый синтаксис Golang.md",
+                "file": "Тестирование Golang.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Базовый синтаксис Golang.md",
+                "file": "Тестирование Golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Базовый синтаксис Golang.md"
+                "file": "Тестирование Golang.md"
               }
             }
           },
@@ -194,8 +206,9 @@
       "graph:Граф": false
     }
   },
-  "active": "79296ffdacca7011",
+  "active": "11a89764dd8a8ee5",
   "lastOpenFiles": [
+    "Базовый синтаксис Golang.md",
     "Как создавать таблицы в Postgres.md",
     "Запросы в PostgreSQL.md",
     "PostgreSQL.md",
@@ -204,7 +217,6 @@
     "Home_page.md",
     "Интерфейсы golang.md",
     "Маркдаун.md",
-    "Базовый синтаксис Golang.md",
     "Map (словарь) golang.md",
     "Вопросы на собеседовании golang разработчика.md",
     "Projects/learning/Собеседования.md",
