@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "Выгрузка дампа postgresql.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "Выгрузка дампа postgresql.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md",
+                "file": "Выгрузка дампа postgresql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/work/agg-data-per-shift.md"
+                "file": "Выгрузка дампа postgresql.md"
               }
             }
           },
@@ -220,6 +220,7 @@
   },
   "active": "c0595d94b8e54b30",
   "lastOpenFiles": [
+    "Projects/work/agg-data-per-shift.md",
     "Home_page.md",
     "Тестирование Golang.md",
     "Базовый синтаксис Golang.md",
@@ -227,7 +228,6 @@
     "Запросы в PostgreSQL.md",
     "PostgreSQL.md",
     "Выгрузка дампа postgresql.md",
-    "Projects/work/agg-data-per-shift.md",
     "Интерфейсы golang.md",
     "Маркдаун.md",
     "Map (словарь) golang.md",
