@@ -1,5 +1,7 @@
 [[Golang]]
 
+[видео по тестам 1](https://www.youtube.com/watch?v=iJK99AQqKZY&t=835s)
+[Видео по тестам 2](https://www.youtube.com/watch?v=G43JMzdRv00&t=3s)
 ### Введение в тестирование
 
 Для тестирования в Golang используется пакет [testing](). Команда `go test` обеспечивает выполнение тестов и генерацию отчетов.
