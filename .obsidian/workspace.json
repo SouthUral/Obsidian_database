@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ca989ba609f8bcfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/work/agg-data-per-shift.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -144,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Выгрузка дампа postgresql.md",
+                "file": "Projects/work/agg-data-per-shift.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Выгрузка дампа postgresql.md",
+                "file": "Projects/work/agg-data-per-shift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Выгрузка дампа postgresql.md"
+                "file": "Projects/work/agg-data-per-shift.md"
               }
             }
           },
@@ -218,16 +230,16 @@
       "graph:Граф": false
     }
   },
-  "active": "c0595d94b8e54b30",
+  "active": "ca989ba609f8bcfd",
   "lastOpenFiles": [
-    "Projects/work/agg-data-per-shift.md",
     "Home_page.md",
+    "Выгрузка дампа postgresql.md",
+    "Projects/work/agg-data-per-shift.md",
     "Тестирование Golang.md",
     "Базовый синтаксис Golang.md",
     "Как создавать таблицы в Postgres.md",
     "Запросы в PostgreSQL.md",
     "PostgreSQL.md",
-    "Выгрузка дампа postgresql.md",
     "Интерфейсы golang.md",
     "Маркдаун.md",
     "Map (словарь) golang.md",
