@@ -47,12 +47,28 @@
             "id": "10df579375ae2a98",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Home_page.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "484bc91587b82860",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "разворачивание  postgreSQL через docker-compose.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -128,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "разворачивание  postgreSQL через docker-compose.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "разворачивание  postgreSQL через docker-compose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "разворачивание  postgreSQL через docker-compose.md"
+              }
             }
           },
           {
@@ -194,17 +214,18 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "graph:Граф": false
+      "graph:Граф": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "10df579375ae2a98",
+  "active": "484bc91587b82860",
   "lastOpenFiles": [
-    "docker.md",
-    "Map (словарь) golang.md",
-    "Home_page.md",
-    "Разворачивание Go сервиса в Docker.md",
     "Разворачивание RabbitMQ в docker-compose.md",
     "docker-compose.md",
+    "docker.md",
+    "Home_page.md",
+    "Map (словарь) golang.md",
+    "Разворачивание Go сервиса в Docker.md",
     "Выгрузка дампа postgresql.md",
     "Projects/work/agg-data-per-shift.md",
     "Тестирование Golang.md",
