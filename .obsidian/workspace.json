@@ -13,13 +13,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home_page.md",
-                "mode": "preview",
+                "file": "docker.md",
+                "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "b07de7c9902a9f5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Разворачивание Go сервиса в Docker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5611710d159fe335",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Разворачивание RabbitMQ в docker-compose.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10df579375ae2a98",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -95,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home_page.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +144,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home_page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +165,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home_page.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,7 +189,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
       "switcher:Меню быстрого перехода": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
@@ -169,9 +197,14 @@
       "graph:Граф": false
     }
   },
-  "active": "53fe03e9e6c33b29",
+  "active": "10df579375ae2a98",
   "lastOpenFiles": [
+    "docker.md",
+    "Map (словарь) golang.md",
     "Home_page.md",
+    "Разворачивание Go сервиса в Docker.md",
+    "Разворачивание RabbitMQ в docker-compose.md",
+    "docker-compose.md",
     "Выгрузка дампа postgresql.md",
     "Projects/work/agg-data-per-shift.md",
     "Тестирование Golang.md",
@@ -181,7 +214,6 @@
     "PostgreSQL.md",
     "Интерфейсы golang.md",
     "Маркдаун.md",
-    "Map (словарь) golang.md",
     "Вопросы на собеседовании golang разработчика.md",
     "Projects/learning/Собеседования.md",
     "Projects/learning/Учебные задачи.md",
@@ -193,10 +225,6 @@
     "gRPC golang.md",
     "gRPC.md",
     "IPC.md",
-    "Разработка Web приложения на Golang.md",
-    "Паттерны конкурентного программирования в Go.md",
-    "Паттерны проектирования Golang.md",
-    "Паттерн одиночка (singleton) Golang.md",
     "banners/premium_photo-1680582107403-04dfac02efc3.png",
     "banners/premium_photo-1672115680863-9353a690495a.png",
     "banners/janko-ferlic-sfL_QOnmy00-unsplash.jpg",
