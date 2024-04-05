@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home_page.md",
-                "mode": "preview",
+                "file": "Выгрузка дампа postgresql.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home_page.md",
+                "file": "Выгрузка дампа postgresql.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home_page.md",
+                "file": "Выгрузка дампа postgresql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home_page.md"
+                "file": "Выгрузка дампа postgresql.md"
               }
             }
           },
@@ -171,10 +171,10 @@
   },
   "active": "78849d974cedd6c8",
   "lastOpenFiles": [
+    "Home_page.md",
     "Разворачивание RabbitMQ в docker-compose.md",
     "docker-compose.md",
     "docker.md",
-    "Home_page.md",
     "Map (словарь) golang.md",
     "Разворачивание Go сервиса в Docker.md",
     "Выгрузка дампа postgresql.md",
