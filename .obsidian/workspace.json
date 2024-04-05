@@ -4,47 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f824fb98bb0354d2",
+        "id": "e8fd02dea25bd32f",
         "type": "tabs",
         "children": [
           {
-            "id": "53fe03e9e6c33b29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b07de7c9902a9f5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Разворачивание Go сервиса в Docker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5611710d159fe335",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Разворачивание RabbitMQ в docker-compose.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10df579375ae2a98",
+            "id": "78849d974cedd6c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "484bc91587b82860",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "разворачивание  postgreSQL через docker-compose.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "разворачивание  postgreSQL через docker-compose.md",
+                "file": "Home_page.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "разворачивание  postgreSQL через docker-compose.md",
+                "file": "Home_page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "разворачивание  postgreSQL через docker-compose.md"
+                "file": "Home_page.md"
               }
             }
           },
@@ -218,7 +169,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "484bc91587b82860",
+  "active": "78849d974cedd6c8",
   "lastOpenFiles": [
     "Разворачивание RabbitMQ в docker-compose.md",
     "docker-compose.md",
