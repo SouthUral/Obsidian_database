@@ -184,11 +184,11 @@
   },
   "active": "30a0466a8ea7143f",
   "lastOpenFiles": [
+    "dokcer.md",
+    "docker-compose.md",
     "Выгрузка дампа postgresql.md",
     "docker.md",
-    "docker-compose.md",
     "команды docker.md",
-    "dokcer.md",
     "Home_page.md",
     "Разворачивание RabbitMQ в docker-compose.md",
     "Map (словарь) golang.md",
