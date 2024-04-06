@@ -1,4 +1,9 @@
-[[docker]]
+
+Запуск контейнера:
+```shell
+docker run 
+```
+
 Просмотр всех сетей в docker
 ```shell
 docker network ls 

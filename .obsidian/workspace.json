@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bf488aed09022097",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "команды docker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker.md",
+                "file": "команды docker.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker.md",
+                "file": "команды docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker.md"
+                "file": "команды docker.md"
               }
             }
           },
@@ -194,13 +206,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5d0b29ba109680e7",
+  "active": "bf488aed09022097",
   "lastOpenFiles": [
-    "docker-compose.md",
     "docker.md",
+    "команды docker.md",
+    "docker-compose.md",
     "dokcer.md",
     "Выгрузка дампа postgresql.md",
-    "команды docker.md",
     "Home_page.md",
     "Разворачивание RabbitMQ в docker-compose.md",
     "Map (словарь) golang.md",
