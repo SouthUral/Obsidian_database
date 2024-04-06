@@ -197,9 +197,9 @@
   "active": "5d0b29ba109680e7",
   "lastOpenFiles": [
     "docker-compose.md",
+    "docker.md",
     "dokcer.md",
     "Выгрузка дампа postgresql.md",
-    "docker.md",
     "команды docker.md",
     "Home_page.md",
     "Разворачивание RabbitMQ в docker-compose.md",
