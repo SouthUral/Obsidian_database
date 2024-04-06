@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7da97fd4085dd9cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "команды docker.md",
+                "file": "SQL.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "команды docker.md",
+                "file": "SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "команды docker.md"
+                "file": "SQL.md"
               }
             }
           },
@@ -206,10 +218,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "bf488aed09022097",
+  "active": "7da97fd4085dd9cf",
   "lastOpenFiles": [
-    "docker.md",
     "команды docker.md",
+    "docker.md",
     "docker-compose.md",
     "dokcer.md",
     "Выгрузка дампа postgresql.md",
