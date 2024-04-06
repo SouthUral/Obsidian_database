@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker.md",
+                "file": "Выгрузка дампа postgresql.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,8 +23,12 @@
             "id": "30a0466a8ea7143f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docker-compose.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -104,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docker-compose.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docker-compose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docker-compose.md"
+              }
             }
           },
           {
@@ -176,13 +184,13 @@
   },
   "active": "30a0466a8ea7143f",
   "lastOpenFiles": [
-    "команды docker.md",
-    "docker.md",
     "Выгрузка дампа postgresql.md",
+    "docker.md",
+    "docker-compose.md",
+    "команды docker.md",
     "dokcer.md",
     "Home_page.md",
     "Разворачивание RabbitMQ в docker-compose.md",
-    "docker-compose.md",
     "Map (словарь) golang.md",
     "Разворачивание Go сервиса в Docker.md",
     "Projects/work/agg-data-per-shift.md",
