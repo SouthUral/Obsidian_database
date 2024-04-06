@@ -9,4 +9,4 @@
 
 ## Курсы
 
-[sql акадд](https://sql-academy.org/ru/guide/intro-intro)
+[sql академия](https://sql-academy.org/ru/guide/intro-intro)
