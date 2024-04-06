@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Выгрузка дампа postgresql.md",
+                "file": "docker.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "30a0466a8ea7143f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Выгрузка дампа postgresql.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Выгрузка дампа postgresql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Выгрузка дампа postgresql.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,15 +174,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "78849d974cedd6c8",
+  "active": "30a0466a8ea7143f",
   "lastOpenFiles": [
+    "команды docker.md",
+    "docker.md",
+    "Выгрузка дампа postgresql.md",
+    "dokcer.md",
     "Home_page.md",
     "Разворачивание RabbitMQ в docker-compose.md",
     "docker-compose.md",
-    "docker.md",
     "Map (словарь) golang.md",
     "Разворачивание Go сервиса в Docker.md",
-    "Выгрузка дампа postgresql.md",
     "Projects/work/agg-data-per-shift.md",
     "Тестирование Golang.md",
     "Базовый синтаксис Golang.md",
@@ -195,8 +202,6 @@
     "Работа с PostgreSQL через Golang.md",
     "работа с ошибками в Go.md",
     "gRPC golang.md",
-    "gRPC.md",
-    "IPC.md",
     "banners/premium_photo-1680582107403-04dfac02efc3.png",
     "banners/premium_photo-1672115680863-9353a690495a.png",
     "banners/janko-ferlic-sfL_QOnmy00-unsplash.jpg",
