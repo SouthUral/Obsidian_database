@@ -4,7 +4,7 @@
 [[Общие вопросы на собеседовании]]
 [Разбор вопросов с собеседований часть 1](https://habr.com/ru/articles/654569/#prevhistory)
 [Разбор вопросов с собеседований часть 2](https://habr.com/ru/articles/670974/)
-[крутой сайт с разбором вопросов с собеседований](https://golangreview.ru/docs/category/%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B-%D1%81-%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9-%D1%81%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D1%81-golang)
+[крутой сайт с разбором вопросов с собеседований](https://golangreview.ru/docs/intro)
 [дока с вопросами и задачами](https://drive.google.com/drive/folders/16ONkvUP3p56UrPuIWRTT2ZN5djZOcZaP)
 
 # Вопросы по типу Map
