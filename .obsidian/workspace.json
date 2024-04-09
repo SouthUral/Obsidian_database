@@ -4,95 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e8fd02dea25bd32f",
+        "id": "c05aebffd42b6fbe",
         "type": "tabs",
         "children": [
           {
-            "id": "78849d974cedd6c8",
+            "id": "1856ea9fda956997",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Выгрузка дампа postgresql.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30a0466a8ea7143f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docker-compose.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d0b29ba109680e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf488aed09022097",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "команды docker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7da97fd4085dd9cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5cfd0d00607d4160",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Вопросы на собеседовании golang разработчика.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b5dff02e8602184",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Паттерны конкурентного программирования в Go.md",
-                "mode": "source",
+                "file": "Home_page.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Паттерны конкурентного программирования в Go.md",
+                "file": "Home_page.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Паттерны конкурентного программирования в Go.md",
+                "file": "Home_page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Паттерны конкурентного программирования в Go.md"
+                "file": "Home_page.md"
               }
             }
           },
@@ -242,7 +169,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9b5dff02e8602184",
+  "active": "1856ea9fda956997",
   "lastOpenFiles": [
     "Вопросы на собеседовании golang разработчика.md",
     "SQL.md",
