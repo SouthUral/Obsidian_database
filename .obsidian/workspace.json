@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ConfigMap & Secrets.md",
+                "file": "Kubernetes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ConfigMap & Secrets.md",
+                "file": "Kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ConfigMap & Secrets.md"
+                "file": "Kubernetes.md"
               }
             }
           },
@@ -214,7 +214,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "acd35da35f5589cc",
+  "active": "b6c69436e507db29",
   "lastOpenFiles": [
     "ConfigMap & Secrets.md",
     "Kubernetes.md",
