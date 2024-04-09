@@ -32,14 +32,6 @@
             }
           },
           {
-            "id": "e40704046e73093a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "b6c69436e507db29",
             "type": "leaf",
             "state": {
@@ -64,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes.md",
+                "file": "Конфигурирование Go приложений.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes.md",
+                "file": "Конфигурирование Go приложений.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes.md"
+                "file": "Конфигурирование Go приложений.md"
               }
             }
           },
@@ -214,10 +206,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b6c69436e507db29",
+  "active": "7b1bc3df2b9a7e9e",
   "lastOpenFiles": [
-    "ConfigMap & Secrets.md",
     "Kubernetes.md",
+    "ConfigMap & Secrets.md",
     "Конфигурирование Go приложений.md",
     "banners/Deploying-a-Golang-Application-with-Kubernetes.png",
     "Home_page.md",
