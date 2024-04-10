@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Вопросы на собеседовании golang разработчика.md",
+                "file": "Конфигурирование Go приложений.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Вопросы на собеседовании golang разработчика.md",
+                "file": "Конфигурирование Go приложений.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Вопросы на собеседовании golang разработчика.md"
+                "file": "Конфигурирование Go приложений.md"
               }
             }
           },
@@ -218,8 +218,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8979689ba05ced10",
+  "active": "7b1bc3df2b9a7e9e",
   "lastOpenFiles": [
+    "ConfigMap & Secrets.md",
+    "Вопросы на собеседовании golang разработчика.md",
     "Projects/learning/Собеседования.md",
     "Home_page.md",
     "Projects/learning/golang/Golang обучение.md",
@@ -227,9 +229,7 @@
     "Projects/learning/Учебные задачи.md",
     "Конфигурирование Go приложений.md",
     "Kubernetes.md",
-    "ConfigMap & Secrets.md",
     "banners/Deploying-a-Golang-Application-with-Kubernetes.png",
-    "Вопросы на собеседовании golang разработчика.md",
     "SQL.md",
     "команды docker.md",
     "docker.md",
