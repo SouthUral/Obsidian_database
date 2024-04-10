@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home_page.md",
-                "mode": "preview",
+                "file": "Projects/learning/golang/Golang обучение.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8979689ba05ced10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Вопросы на собеседовании golang разработчика.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Конфигурирование Go приложений.md",
+                "file": "Вопросы на собеседовании golang разработчика.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Конфигурирование Go приложений.md",
+                "file": "Вопросы на собеседовании golang разработчика.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Конфигурирование Go приложений.md"
+                "file": "Вопросы на собеседовании golang разработчика.md"
               }
             }
           },
@@ -206,13 +218,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7b1bc3df2b9a7e9e",
+  "active": "8979689ba05ced10",
   "lastOpenFiles": [
+    "Projects/learning/Собеседования.md",
+    "Home_page.md",
+    "Projects/learning/golang/Golang обучение.md",
+    "Projects/learning/Учебные задачи по разработке.md",
+    "Projects/learning/Учебные задачи.md",
+    "Конфигурирование Go приложений.md",
     "Kubernetes.md",
     "ConfigMap & Secrets.md",
-    "Конфигурирование Go приложений.md",
     "banners/Deploying-a-Golang-Application-with-Kubernetes.png",
-    "Home_page.md",
     "Вопросы на собеседовании golang разработчика.md",
     "SQL.md",
     "команды docker.md",
@@ -231,10 +247,6 @@
     "PostgreSQL.md",
     "Интерфейсы golang.md",
     "Маркдаун.md",
-    "Projects/learning/Собеседования.md",
-    "Projects/learning/Учебные задачи.md",
-    "Projects/learning/golang/Golang обучение.md",
-    "Projects/learning/Учебные задачи по разработке.md",
     "banners/premium_photo-1680582107403-04dfac02efc3.png",
     "banners/premium_photo-1672115680863-9353a690495a.png",
     "banners/janko-ferlic-sfL_QOnmy00-unsplash.jpg",
