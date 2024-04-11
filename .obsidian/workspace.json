@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ada1cf8f7f69bc90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Работа в Golang со stream в RabbitMQ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -156,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RabbitMQ streams.md",
+                "file": "Работа в Golang со stream в RabbitMQ.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RabbitMQ streams.md",
+                "file": "Работа в Golang со stream в RabbitMQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RabbitMQ streams.md"
+                "file": "Работа в Golang со stream в RabbitMQ.md"
               }
             }
           },
@@ -230,10 +242,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7c3058fb1b7e0b6",
+  "active": "ada1cf8f7f69bc90",
   "lastOpenFiles": [
-    "Разворачивание RabbitMQ в docker-compose.md",
     "RabbitMQ streams.md",
+    "Разворачивание RabbitMQ в docker-compose.md",
     "ConfigMap & Secrets.md",
     "Конфигурирование Go приложений.md",
     "Вопросы на собеседовании golang разработчика.md",
