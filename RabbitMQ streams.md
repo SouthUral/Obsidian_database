@@ -1,1 +1,6 @@
 [[Rabbit MQ]]
+
+Включение плагина стрим
+```shell
+rabbitmq-plugins enable rabbitmq_stream
+```
