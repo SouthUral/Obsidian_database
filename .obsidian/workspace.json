@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d6c66b959310dcbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RabbitMQ streams.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Индексы в реляционных БД.md",
+                "file": "RabbitMQ streams.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Индексы в реляционных БД.md",
+                "file": "RabbitMQ streams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Индексы в реляционных БД.md"
+                "file": "RabbitMQ streams.md"
               }
             }
           },
@@ -206,7 +218,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8592df0c91bd742",
+  "active": "d6c66b959310dcbb",
   "lastOpenFiles": [
     "Индексы в реляционных БД.md",
     "Вопросы на собеседовании golang разработчика.md",
