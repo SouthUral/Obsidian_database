@@ -6,6 +6,7 @@
 [Разбор вопросов с собеседований часть 2](https://habr.com/ru/articles/670974/)
 [крутой сайт с разбором вопросов с собеседований](https://golangreview.ru/docs/intro)[git_hub с вопросами с собеседований и ответами](https://github.com/goavengers/go-interview)
 [дока с вопросами и задачами](https://drive.google.com/drive/folders/16ONkvUP3p56UrPuIWRTT2ZN5djZOcZaP)
+[репозиторий с вопросами и ответами](https://github.com/goavengers/go-interview)
 
 # Вопросы по типу Map
 ## Что такое Map?
