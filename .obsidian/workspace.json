@@ -59,12 +59,16 @@
             "id": "5e1a232749bc7803",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Массивы golang.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -140,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Базовый синтаксис Golang.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Базовый синтаксис Golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Базовый синтаксис Golang.md"
+              }
             }
           },
           {
@@ -210,8 +218,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5e1a232749bc7803",
+  "active": "c04e8e0b1d31362d",
   "lastOpenFiles": [
+    "Массивы golang.md",
     "Базовый синтаксис Golang.md",
     "Слайсы golang.md",
     "Задачи по golang.md",
@@ -238,7 +247,6 @@
     "docker-compose.md",
     "dokcer.md",
     "Выгрузка дампа postgresql.md",
-    "Map (словарь) golang.md",
     "banners/premium_photo-1680582107403-04dfac02efc3.png",
     "banners/premium_photo-1672115680863-9353a690495a.png",
     "banners/janko-ferlic-sfL_QOnmy00-unsplash.jpg",
