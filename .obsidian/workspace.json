@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Вопросы на собеседовании golang разработчика.md",
+                "file": "Слайсы golang.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Вопросы на собеседовании golang разработчика.md",
+                "file": "Слайсы golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Вопросы на собеседовании golang разработчика.md"
+                "file": "Слайсы golang.md"
               }
             }
           },
@@ -230,14 +230,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f3f3081f68a4c8f6",
+  "active": "b7e277552806d4b6",
   "lastOpenFiles": [
+    "Вопросы на собеседовании golang разработчика.md",
     "Базовый синтаксис Golang.md",
+    "Массивы golang.md",
     "Golang.md",
     "Слайсы golang.md",
     "Задачи по golang.md",
-    "Массивы golang.md",
-    "Вопросы на собеседовании golang разработчика.md",
     "RabbitMQ streams.md",
     "Projects/learning/golang/Golang обучение.md",
     "Projects/learning/Учебные задачи по разработке.md",
