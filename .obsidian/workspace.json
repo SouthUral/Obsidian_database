@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "471266c24938c914",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Массивы golang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Базовый синтаксис Golang.md",
+                "file": "Массивы golang.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Базовый синтаксис Golang.md",
+                "file": "Массивы golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Базовый синтаксис Golang.md"
+                "file": "Массивы golang.md"
               }
             }
           },
@@ -182,11 +194,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2546774aad542184",
+  "active": "471266c24938c914",
   "lastOpenFiles": [
+    "Базовый синтаксис Golang.md",
     "Home_page.md",
     "Вопросы на собеседовании golang разработчика.md",
-    "Базовый синтаксис Golang.md",
     "Массивы golang.md",
     "Golang.md",
     "Слайсы golang.md",
