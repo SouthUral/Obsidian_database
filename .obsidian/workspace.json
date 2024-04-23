@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2546774aad542184",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Базовый синтаксис Golang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home_page.md",
+                "file": "Базовый синтаксис Golang.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home_page.md",
+                "file": "Базовый синтаксис Golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home_page.md"
+                "file": "Базовый синтаксис Golang.md"
               }
             }
           },
@@ -169,8 +182,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "70fb68e21c0ea56d",
+  "active": "2546774aad542184",
   "lastOpenFiles": [
+    "Home_page.md",
     "Вопросы на собеседовании golang разработчика.md",
     "Базовый синтаксис Golang.md",
     "Массивы golang.md",
@@ -181,7 +195,6 @@
     "Projects/learning/golang/Golang обучение.md",
     "Projects/learning/Учебные задачи по разработке.md",
     "Projects/learning/Учебные задачи.md",
-    "Home_page.md",
     "Projects/learning/Собеседования.md",
     "Индексы в реляционных БД.md",
     "Конфигурирование Go приложений.md",
