@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5df612f5945a23fe",
+        "id": "5736d11037dffef5",
         "type": "tabs",
         "children": [
           {
-            "id": "650d6af04a3aff12",
+            "id": "70fb68e21c0ea56d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вопросы на собеседовании golang разработчика.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49c81cf256d35d93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Задачи по golang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7e277552806d4b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Слайсы golang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c04e8e0b1d31362d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Базовый синтаксис Golang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e1a232749bc7803",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Массивы golang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3f3081f68a4c8f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Вопросы на собеседовании golang разработчика.md",
-                "mode": "source",
+                "file": "Home_page.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Слайсы golang.md",
+                "file": "Home_page.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Слайсы golang.md",
+                "file": "Home_page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Слайсы golang.md"
+                "file": "Home_page.md"
               }
             }
           },
@@ -230,7 +169,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b7e277552806d4b6",
+  "active": "70fb68e21c0ea56d",
   "lastOpenFiles": [
     "Вопросы на собеседовании golang разработчика.md",
     "Базовый синтаксис Golang.md",
