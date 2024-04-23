@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "af522065574e0238",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Map (словарь) golang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c95fd125af082181",
             "type": "leaf",
             "state": {
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Слайсы golang.md",
+                "file": "Map (словарь) golang.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Слайсы golang.md",
+                "file": "Map (словарь) golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Слайсы golang.md"
+                "file": "Map (словарь) golang.md"
               }
             }
           },
@@ -194,14 +206,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c95fd125af082181",
+  "active": "af522065574e0238",
   "lastOpenFiles": [
     "Базовый синтаксис Golang.md",
+    "Слайсы golang.md",
     "Массивы golang.md",
     "Home_page.md",
     "Вопросы на собеседовании golang разработчика.md",
     "Golang.md",
-    "Слайсы golang.md",
     "Задачи по golang.md",
     "RabbitMQ streams.md",
     "Projects/learning/golang/Golang обучение.md",
