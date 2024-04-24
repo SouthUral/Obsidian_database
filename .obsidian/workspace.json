@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5736d11037dffef5",
+        "id": "d87d7052467cff4e",
         "type": "tabs",
         "children": [
           {
-            "id": "70fb68e21c0ea56d",
+            "id": "7ef47ac00a12dc73",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2546774aad542184",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Базовый синтаксис Golang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c95fd125af082181",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Слайсы golang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d619847e345e2281",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Общие вопросы на собеседовании.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Общие вопросы на собеседовании.md",
+                "file": "Home_page.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Общие вопросы на собеседовании.md",
+                "file": "Home_page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Общие вопросы на собеседовании.md"
+                "file": "Home_page.md"
               }
             }
           },
@@ -206,7 +169,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d619847e345e2281",
+  "active": "7ef47ac00a12dc73",
   "lastOpenFiles": [
     "Вопросы на собеседовании golang разработчика.md",
     "Базовый синтаксис Golang.md",
