@@ -86,9 +86,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2f63ff1b05e41478",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Маркдаун.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -164,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/learning/golang/Golang задачи.md",
+                "file": "Маркдаун.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/learning/golang/Golang задачи.md",
+                "file": "Маркдаун.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/learning/golang/Golang задачи.md"
+                "file": "Маркдаун.md"
               }
             }
           },
@@ -238,13 +250,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "363e71156447a216",
+  "active": "2f63ff1b05e41478",
   "lastOpenFiles": [
+    "Projects/learning/golang/Golang задачи.md",
     "Projects/learning/golang/Golang обучение.md",
     "Вопросы на собеседовании golang разработчика.md",
     "Задачи по golang.md",
     "Projects/learning/Учебные задачи по разработке.md",
-    "Projects/learning/golang/Golang задачи.md",
     "сервисы для изучения Golang.md",
     "Тестирование Golang.md",
     "Home_page.md",
