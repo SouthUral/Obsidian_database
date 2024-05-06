@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0921ab3282221676",
+        "id": "f5674414b9bf78ab",
         "type": "tabs",
         "children": [
           {
-            "id": "ced2d1e73a4a3e43",
+            "id": "6f841ec178ece5df",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,7 +169,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ced2d1e73a4a3e43",
+  "active": "6f841ec178ece5df",
   "lastOpenFiles": [
     "Home_page.md",
     "Вопросы на собеседовании golang разработчика.md",
