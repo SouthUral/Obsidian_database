@@ -11,10 +11,54 @@
             "id": "6f841ec178ece5df",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "4951ee474c1e5ad3",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Home_page.md",
-                "mode": "preview",
+                "file": "Задачи по golang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "363e71156447a216",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/learning/golang/Golang задачи.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05c2d03449a7b8c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Тестирование Golang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4684105e740e9d25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "сервисы для изучения Golang.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -95,7 +139,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home_page.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +155,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home_page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +176,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home_page.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,6 +211,10 @@
   },
   "active": "6f841ec178ece5df",
   "lastOpenFiles": [
+    "Задачи по golang.md",
+    "Projects/learning/golang/Golang задачи.md",
+    "сервисы для изучения Golang.md",
+    "Тестирование Golang.md",
     "Home_page.md",
     "Вопросы на собеседовании golang разработчика.md",
     "Базовый синтаксис Golang.md",
@@ -178,7 +222,6 @@
     "Слайсы golang.md",
     "Массивы golang.md",
     "Golang.md",
-    "Задачи по golang.md",
     "RabbitMQ streams.md",
     "Projects/learning/golang/Golang обучение.md",
     "Projects/learning/Учебные задачи по разработке.md",
@@ -195,9 +238,6 @@
     "banners/Deploying-a-Golang-Application-with-Kubernetes.png",
     "SQL.md",
     "команды docker.md",
-    "docker.md",
-    "docker-compose.md",
-    "dokcer.md",
     "banners/premium_photo-1680582107403-04dfac02efc3.png",
     "banners/premium_photo-1672115680863-9353a690495a.png",
     "banners/janko-ferlic-sfL_QOnmy00-unsplash.jpg",
