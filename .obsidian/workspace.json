@@ -11,96 +11,15 @@
             "id": "6f841ec178ece5df",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "e90aff0912606c9f",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/learning/golang/Golang обучение.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2e07cbe70e84e28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Вопросы на собеседовании golang разработчика.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2aa9c4eb4cff551f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Задачи по golang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "363e71156447a216",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/learning/golang/Golang задачи.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05c2d03449a7b8c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Тестирование Golang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4684105e740e9d25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "сервисы для изучения Golang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f63ff1b05e41478",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Маркдаун.md",
-                "mode": "source",
+                "file": "Home_page.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Маркдаун.md",
+                "file": "Home_page.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Маркдаун.md",
+                "file": "Home_page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Маркдаун.md"
+                "file": "Home_page.md"
               }
             }
           },
@@ -250,15 +169,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2f63ff1b05e41478",
+  "active": "6f841ec178ece5df",
   "lastOpenFiles": [
+    "Задачи по golang.md",
     "Projects/learning/golang/Golang задачи.md",
+    "Тестирование Golang.md",
+    "сервисы для изучения Golang.md",
+    "Маркдаун.md",
     "Projects/learning/golang/Golang обучение.md",
     "Вопросы на собеседовании golang разработчика.md",
-    "Задачи по golang.md",
     "Projects/learning/Учебные задачи по разработке.md",
-    "сервисы для изучения Golang.md",
-    "Тестирование Golang.md",
     "Home_page.md",
     "Базовый синтаксис Golang.md",
     "Map (словарь) golang.md",
@@ -278,7 +198,6 @@
     "Разворачивание RabbitMQ в docker-compose.md",
     "banners/Deploying-a-Golang-Application-with-Kubernetes.png",
     "SQL.md",
-    "команды docker.md",
     "banners/premium_photo-1680582107403-04dfac02efc3.png",
     "banners/premium_photo-1672115680863-9353a690495a.png",
     "banners/janko-ferlic-sfL_QOnmy00-unsplash.jpg",
