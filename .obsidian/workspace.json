@@ -11,8 +11,12 @@
             "id": "6f841ec178ece5df",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Работа с RabbitMQ через golang.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -37,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20231004150247.png",
+                "file": "Работа с RabbitMQ через golang.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20231004150247.png",
+                "file": "Работа с RabbitMQ через golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20231004150247.png"
+                "file": "Работа с RabbitMQ через golang.md"
               }
             }
           },
@@ -186,12 +189,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "068d4334ef3032e5",
+  "active": "6f841ec178ece5df",
   "lastOpenFiles": [
-    "Pasted image 20231005125826.png",
-    "Pasted image 20231004150247.png",
-    "Pasted image 20231004150247 1.png",
+    "Разворачивание RabbitMQ в docker-compose.md",
     "Rabbit MQ.md",
+    "Pasted image 20231004150247.png",
+    "Pasted image 20231005125826.png",
+    "Pasted image 20231004150247 1.png",
     "Home_page.md",
     "Задачи по golang.md",
     "Projects/learning/golang/Golang задачи.md",
@@ -215,7 +219,6 @@
     "ConfigMap & Secrets.md",
     "Работа в Golang со stream в RabbitMQ.md",
     "PostgreSQL.md",
-    "Разворачивание RabbitMQ в docker-compose.md",
     "banners/Deploying-a-Golang-Application-with-Kubernetes.png",
     "banners/premium_photo-1680582107403-04dfac02efc3.png",
     "banners/premium_photo-1672115680863-9353a690495a.png",
@@ -223,7 +226,6 @@
     "banners/ian-dooley-DJ7bWa-Gwks-unsplash.jpg",
     "banners/banner_go-9b8733250036c66a86bf103fb4a01804.png",
     "banners/artem-sapegin-b18TRXc8UPQ-unsplash.jpg",
-    "banners/anthony-reungere-s6xt1mwF_iU-unsplash.jpg",
     "banners",
     "Projects/work/Система отправки событий",
     "Projects/learning/golang",
