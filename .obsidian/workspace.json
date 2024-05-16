@@ -26,9 +26,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "068d4334ef3032e5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20231004150247.png"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,13 +92,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2cbb7cbbc64b7a60",
@@ -104,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rabbit MQ.md",
+                "file": "Pasted image 20231004150247.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rabbit MQ.md",
+                "file": "Pasted image 20231004150247.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rabbit MQ.md"
+                "file": "Pasted image 20231004150247.png"
               }
             }
           },
@@ -178,8 +186,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "25f5975644d96d92",
+  "active": "068d4334ef3032e5",
   "lastOpenFiles": [
+    "Pasted image 20231005125826.png",
+    "Pasted image 20231004150247.png",
+    "Pasted image 20231004150247 1.png",
     "Rabbit MQ.md",
     "Home_page.md",
     "Задачи по golang.md",
@@ -206,7 +217,6 @@
     "PostgreSQL.md",
     "Разворачивание RabbitMQ в docker-compose.md",
     "banners/Deploying-a-Golang-Application-with-Kubernetes.png",
-    "SQL.md",
     "banners/premium_photo-1680582107403-04dfac02efc3.png",
     "banners/premium_photo-1672115680863-9353a690495a.png",
     "banners/janko-ferlic-sfL_QOnmy00-unsplash.jpg",
@@ -220,8 +230,6 @@
     "Projects/work",
     "Projects/learning",
     "Projects",
-    "Pasted image 20240115133351.png",
-    "Pasted image 20240113194705.png",
     "Без названия.canvas",
     "Go библиотека encoding",
     "сервер на net",
