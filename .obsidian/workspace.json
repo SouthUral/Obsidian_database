@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home_page.md",
-                "mode": "preview",
+                "file": "Чтение и запись Postgres в Go.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home_page.md",
+                "file": "Чтение и запись Postgres в Go.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home_page.md",
+                "file": "Чтение и запись Postgres в Go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home_page.md"
+                "file": "Чтение и запись Postgres в Go.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   },
   "active": "97654d9d0a698dd7",
   "lastOpenFiles": [
+    "Home_page.md",
     "switch golang.md",
     "Styleguide Golang.md",
     "sleep в асинхронном Python.md",
@@ -178,7 +179,6 @@
     "Pydantic.md",
     "Python.md",
     "Функциональное тестирование.md",
-    "Home_page.md",
     "Pasted image 20231004150247.png",
     "Разворачивание RabbitMQ в docker-compose.md",
     "Rabbit MQ.md",
