@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f5674414b9bf78ab",
+        "id": "295752127940bb55",
         "type": "tabs",
         "children": [
           {
-            "id": "068d4334ef3032e5",
+            "id": "97654d9d0a698dd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -167,14 +167,23 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "068d4334ef3032e5",
+  "active": "97654d9d0a698dd7",
   "lastOpenFiles": [
+    "switch golang.md",
+    "Styleguide Golang.md",
+    "sleep в асинхронном Python.md",
+    "SQL.md",
+    "roadmap для golang разработчика junior level.md",
+    "RabbitMQ streams.md",
+    "Pydantic.md",
+    "Python.md",
+    "Функциональное тестирование.md",
+    "Home_page.md",
     "Pasted image 20231004150247.png",
     "Разворачивание RabbitMQ в docker-compose.md",
     "Rabbit MQ.md",
     "Pasted image 20231005125826.png",
     "Pasted image 20231004150247 1.png",
-    "Home_page.md",
     "Задачи по golang.md",
     "Projects/learning/golang/Golang задачи.md",
     "Тестирование Golang.md",
@@ -188,15 +197,7 @@
     "Слайсы golang.md",
     "Массивы golang.md",
     "Golang.md",
-    "RabbitMQ streams.md",
     "Projects/learning/Учебные задачи.md",
-    "Projects/learning/Собеседования.md",
-    "Индексы в реляционных БД.md",
-    "Конфигурирование Go приложений.md",
-    "Kubernetes.md",
-    "ConfigMap & Secrets.md",
-    "Работа в Golang со stream в RabbitMQ.md",
-    "PostgreSQL.md",
     "banners/Deploying-a-Golang-Application-with-Kubernetes.png",
     "banners/premium_photo-1680582107403-04dfac02efc3.png",
     "banners/premium_photo-1672115680863-9353a690495a.png",
