@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "295752127940bb55",
+        "id": "d8abd8c865a9c2db",
         "type": "tabs",
         "children": [
           {
-            "id": "a084e4ce099385bc",
+            "id": "e8947fe598c76384",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -167,8 +168,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a084e4ce099385bc",
+  "active": "e8947fe598c76384",
   "lastOpenFiles": [
+    "Тестирование Golang.md",
     "Home_page.md",
     "switch golang.md",
     "Styleguide Golang.md",
@@ -186,7 +188,6 @@
     "Pasted image 20231004150247 1.png",
     "Задачи по golang.md",
     "Projects/learning/golang/Golang задачи.md",
-    "Тестирование Golang.md",
     "сервисы для изучения Golang.md",
     "Маркдаун.md",
     "Projects/learning/golang/Golang обучение.md",
