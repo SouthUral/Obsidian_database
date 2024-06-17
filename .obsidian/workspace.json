@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home_page.md",
-                "mode": "preview",
+                "file": "json Go.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e8d6426fdbe320f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Стандартная библиотека Golang.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home_page.md",
+                "file": "json Go.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home_page.md",
+                "file": "json Go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home_page.md"
+                "file": "json Go.md"
               }
             }
           },
@@ -170,8 +182,10 @@
   },
   "active": "e8947fe598c76384",
   "lastOpenFiles": [
-    "Тестирование Golang.md",
+    "Стандартная библиотека Golang.md",
+    "json Go.md",
     "Home_page.md",
+    "Тестирование Golang.md",
     "switch golang.md",
     "Styleguide Golang.md",
     "sleep в асинхронном Python.md",
@@ -197,8 +211,6 @@
     "Map (словарь) golang.md",
     "Слайсы golang.md",
     "Массивы golang.md",
-    "Golang.md",
-    "Projects/learning/Учебные задачи.md",
     "banners/Deploying-a-Golang-Application-with-Kubernetes.png",
     "banners/premium_photo-1680582107403-04dfac02efc3.png",
     "banners/premium_photo-1672115680863-9353a690495a.png",
