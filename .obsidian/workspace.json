@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "time",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -189,7 +189,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f8acd8c12b52e8f5",
+  "active": "e388845b39213f00",
   "lastOpenFiles": [
     "Projects/work/agg-data-per-shift.md",
     "Home_page.md",
